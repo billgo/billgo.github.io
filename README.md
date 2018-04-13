@@ -1,2 +1,5 @@
 # billgo.github.io
-Reading books
+分享我的读书笔记，希望有喜欢阅读的朋友多交流。
+
+## 未来不可控
+- [必然](必然.md)

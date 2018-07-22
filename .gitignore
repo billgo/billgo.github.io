@@ -1,5 +1,5 @@
 # gitignore
-# 
+
 # Logs
 logs
 *.log
@@ -7,7 +7,6 @@ lerna-debug.log
 npm-debug.log
 yarn-error.log
 stats.json
-package-lock.json
 
 # Runtime data
 pids
@@ -31,17 +30,7 @@ bin/Release
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
 **/node_modules
-modules/*/node_modules
-modules/*/build
-modules/*/umd
-mountains/*/packages/node_modules
-mountains/*/packages/build
-mountains/*/packages/umd
-packages/*/node_modules
-packages/*/build
-packages/*/umd
 
 #Webstorm metadata
 .idea

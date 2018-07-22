@@ -1,0 +1,91 @@
+a {
+  text-decoration: none;
+}
+.a-responsive-title {
+  font-size: 1.4rem;
+  @media (min-width: @breakpoint-xs) {
+    font-size: 1.4rem;
+  }
+  @media (min-width: @breakpoint-sm) {
+    font-size: 1.6rem;
+  }
+  @media (min-width: @breakpoint-md) {
+    font-size: 1.8rem;
+  }
+}
+
+.a-responsive-tbox {
+  margin-left: -160px;
+  @media (min-width: @breakpoint-sm) {
+    margin-left: auto;
+  }
+}
+
+.a-responsive-toggle {
+  @media (min-width: @breakpoint-sm) {
+    display: none;
+  }
+}
+
+.a-footer-left {
+  text-align: center;
+  @media (min-width: @breakpoint-sm) {
+    text-align: left;
+  }
+}
+
+.a-footer-right {
+  text-align: center;
+  @media (min-width: @breakpoint-sm) {
+    text-align: right;
+  }
+}
+
+.a-hero {
+  background-color: #f6f8f8;
+  padding: 36px 10px 36px 10px;
+}
+
+.a-anchor {
+  display: inline-flex;
+  text-decoration: none;
+  &:focus,
+  &:hover {
+    cursor: pointer;
+  }
+  &.is-filled {
+    display: block;
+    margin-right: 0;
+  }
+  &.is-active {
+    color: @color-primary;
+  }
+}
+
+/* Team */
+.a-avatar {
+  display: table;
+  @media (min-width: @breakpoint-sm) {
+    display: block;
+  }
+}
+
+.a-avatar-brand {
+  display: table-cell;
+  width: 7.8rem;
+  border-right: 1px solid @color-border;
+  @media (min-width: @breakpoint-sm) {
+    display: block;
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid @color-border;
+  }
+}
+
+.a-avatar-board {
+  display: table-cell;
+  vertical-align: top;
+  @media (min-width: @breakpoint-sm) {
+    display: block;
+  }
+}

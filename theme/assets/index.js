@@ -21,8 +21,4 @@ import "!file-loader?name=[name].[ext]!app/assets/icons/apple-icon-180x180.png";
 import "!file-loader?name=[name].[ext]!app/assets/icons/ms-icon-70x70.png";
 import "!file-loader?name=[name].[ext]!app/assets/icons/ms-icon-144x144.png";
 import "!file-loader?name=[name].[ext]!app/assets/icons/ms-icon-150x150.png";
-import "!file-loader?name=[name].[ext]!app/assets/images/default-image.svg";
-import "!file-loader?name=[name].[ext]!app/assets/images/feature-01.svg";
-import "!file-loader?name=[name].[ext]!app/assets/images/feature-02.svg";
-import "!file-loader?name=[name].[ext]!app/assets/images/feature-03.svg";
 /* eslint-enable import/no-webpack-loader-syntax */

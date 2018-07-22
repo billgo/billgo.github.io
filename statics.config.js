@@ -4,14 +4,11 @@ const isDevelopment = process.env.NODE_ENV === 'development';
 
 module.exports = {
   root: '/',
-  output: './docs',
+  output: './',
   theme: './theme',
-  source: {
-    articles: './statics/articles',
-  },
   themeConfig: {
     home: '/',
-    sitename: 'Billgo',
+    sitename: 'BILLGO',
     slogan: 'A WEB DEVELOPER',
     footer: '2017 YIQILAI.TECH'
   },

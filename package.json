@@ -63,8 +63,7 @@
     "teasim-icon": "^5.0.2-1",
     "teasim-statics": "^5.0.2-1",
     "teasim-stylers": "^5.0.2-1",
-    "teasim-widget-sampleroom": "^5.0.2-1",
-    "yiqilaiui": "^0.0.1"
+    "yiqilaiui": "^0.0.1-1"
   },
   "version": "0.1.6",
   "private": true

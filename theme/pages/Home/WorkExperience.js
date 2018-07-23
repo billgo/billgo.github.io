@@ -33,9 +33,9 @@ const WorkExperience = props => (
         period="2015 - Present" 
         position="Web Developers">
         <ul>
-          <li>Communicate with colleagues and write the user requirements documents.</li>
-          <li>Make product prototypes and do presentation.</li>
-          <li>Technical team management and program development.</li>   
+          <li>Write the user requirements documents.</li>
+          <li>Creating product prototypes and do presentation.</li>
+          <li>Program development and technical team management.</li>   
         </ul>
       </WorkHistory>
       <WorkHistory
@@ -44,8 +44,8 @@ const WorkExperience = props => (
         period="2013 - 2015" 
         position="Frontend Developers">
         <ul>
-          <li>Development the frontend page of our website.</li>
-          <li>Write user requirements documentation and make product prototypes.</li>
+          <li>Responsible for the front-end development of our website. including hoyoyo.com, hoyopay.com, prouter.com etc.</li>
+          <li>Creating product prototypes and write the user requirements documents.</li>
         </ul>
       </WorkHistory>
       <WorkHistory 
@@ -54,8 +54,8 @@ const WorkExperience = props => (
         period="2012 - 2013" 
         position="Operations Specialist">
         <ul>
-          <li>Plan the operation plan and promote our website.</li>
-          <li>Collect user feedback to write requirements documentation.</li>
+          <li>Mainly responsible for the promotion of our website. During my work, registered users grew from 0 to nearly 50,000, active users about 2000.</li>
+          <li>Data summary and analysis, adjust the operation strategy.</li>
         </ul>
       </WorkHistory>
       <WorkHistory

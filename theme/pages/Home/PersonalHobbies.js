@@ -4,10 +4,10 @@ import { Card } from "yiqilaiui";
 const PersonalHobbies = props => (
   <Card className="mb-wide">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none">Hobbies</h4>
+      <h4 className="my-none">Expect</h4>
     </Card.Head>
     <Card.Body className="pa-medium font-mini">
-      I like to code with Sublime Text 3, like to read on the Kindle Oasis 2, like to listen to music on Apple Music, like to play games with PS4.
+      I'm looking for a senior frontend developer's job with an interesting team in Singapore / Shenzhen 
     </Card.Body>
   </Card>
 );

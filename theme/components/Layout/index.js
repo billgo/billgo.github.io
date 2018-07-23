@@ -26,7 +26,7 @@ const StandardLayout = props => (
           </Navbar.Board>
           <Navbar.Board className="text-right" style={ styles.resume }>
             <Button 
-              href="/Resume.pdf" 
+              href="/resume.pdf" 
               target="_blank"
               size="tiny" 
               className="ba-none px-none">

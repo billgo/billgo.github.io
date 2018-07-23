@@ -21,4 +21,6 @@ import "!file-loader?name=[name].[ext]!app/assets/icons/apple-icon-180x180.png";
 import "!file-loader?name=[name].[ext]!app/assets/icons/ms-icon-70x70.png";
 import "!file-loader?name=[name].[ext]!app/assets/icons/ms-icon-144x144.png";
 import "!file-loader?name=[name].[ext]!app/assets/icons/ms-icon-150x150.png";
+
+import "!file-loader?name=[name].[ext]!app/assets/resume.pdf";
 /* eslint-enable import/no-webpack-loader-syntax */

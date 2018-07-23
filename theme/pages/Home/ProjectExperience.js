@@ -28,7 +28,7 @@ const ProjectExperience = props => (
     <Card.Body className="pa-medium">
       <ProjectHistory 
         name="A Frontend Framework Based on React and Redux Ecosystems" 
-        period="2015 - Today" 
+        period="2015 - Present" 
         position="Founder">
         <ul>
           <li>React and redux based, lightweight framework, and the design system with rationalism for better user experience of enterprise applications.</li>
@@ -37,12 +37,12 @@ const ProjectExperience = props => (
         </ul>
       </ProjectHistory>
       <ProjectHistory
-        name="Microservice Architecture based Enterprise Resource Management System" 
-        period="2016 - Today" 
+        name="Golang based Enterprise Resource Management System" 
+        period="2015 - 2018" 
         position="Core Developers & Team Leader">
         <ul>
           <li>Based on the react and redux ecosystem to develop frontend pages, combined with Electorn rendering to experience a better desktop application. We use Redux-saga for asynchronous processing and immutable.js to improve performance.</li>
-          <li>The backend services are implemented on a micro-service architecture, implemented the RESTful API with Gin framework. In the process of implementing OpenID Connect Provider, let me have a deeper understanding of Internet Protocol Suite.</li>
+          <li>Implemented the RESTful API with Gin framework. In the process of implementing OpenID Connect Provider, I've learned more about the IPS.</li>
           <li>Mysql is our primary database, but some of the document-intensive data is stored in MongoDB, such as the material system. Memory database we use Redis.</li>
           <li>Automated system deployment with Docker, Nginx, Alpine Linux, CoreOS on Alibaba Cloud ECS. Management of service clusters using Docker Swarm.</li>
         </ul>

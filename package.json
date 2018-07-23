@@ -58,12 +58,12 @@
     "statics-plugin-react": "^0.0.10",
     "statics-plugin-toc": "^0.0.10",
     "teakit": "^0.0.2",
-    "teasim-analyzation": "^5.0.2-1",
-    "teasim-document": "^5.0.2-1",
-    "teasim-icon": "^5.0.2-1",
-    "teasim-statics": "^5.0.2-1",
-    "teasim-stylers": "^5.0.2-1",
-    "yiqilaiui": "^0.0.1-1"
+    "teasim-analyzation": "^5.0.2-2",
+    "teasim-document": "^5.0.2-2",
+    "teasim-icon": "^5.0.2-2",
+    "teasim-statics": "^5.0.2-2",
+    "teasim-stylers": "^5.0.2-2",
+    "yiqilaiui": "^0.0.1-2"
   },
   "version": "0.1.6",
   "private": true

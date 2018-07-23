@@ -25,7 +25,11 @@ const StandardLayout = props => (
             </Anchor>
           </Navbar.Board>
           <Navbar.Board className="text-right" style={ styles.resume }>
-            <Button size="tiny" className="ba-none px-none">
+            <Button 
+              href="/resume.pdf" 
+              target="_blank"
+              size="tiny" 
+              className="ba-none px-none">
               RESUME <ArrowDown className="ml-tiny" />
             </Button>
           </Navbar.Board>

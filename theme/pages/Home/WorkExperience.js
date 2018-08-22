@@ -5,11 +5,11 @@ const WorkHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>
     <div className="ds-fable">
       <div className="ds-fable-cell">
-        <h5 className="my-none">
-          <strong>{props.company}</strong>
-          <small className="ml-mini">({props.location})</small>
+        <h5 className="my-none text-uppercase">
+          <strong>{props.company}</strong> / 
+          <small className="ml-mini text-yellow">{props.position}</small>
         </h5>
-        <div className="font-tiny">{props.position}</div>
+        <div className="font-tiny">{props.location}</div>
       </div>
       <div className="ds-fable-cell" style={{width:'80px'}}>
         <h6 className="text-right font-tiny my-none"><small>{props.period}</small></h6>
@@ -31,31 +31,31 @@ const WorkExperience = props => (
         company="LWH HOLDINGS PTE LTD" 
         location="Singapore"
         period="2015 - Present" 
-        position="Web Developers">
+        position="WEB DEVELOPER">
         <ul>
-          <li>Write the user requirements documents.</li>
-          <li>Creating product prototypes and do presentation.</li>
-          <li>Program development and technical team management.</li>   
+          <li>Interview user, write requirements documents, create product prototypes.</li>
+          <li>Determine technology selection and lead the team to develop products, including ERP, OA and CMS etc.</li>
         </ul>
       </WorkHistory>
       <WorkHistory
-        company="Prouter International Logistics Co., Ltd." 
+        company="HOYOYO TECHNOLOGY (SHENZHEN) CO. LTD" 
         location="Shenzhen China"
         period="2013 - 2015" 
-        position="Frontend Developers">
+        position="SENIOR FRONTEND DEVELOPER">
         <ul>
-          <li>Responsible for the front-end development of our website. including hoyoyo.com, hoyopay.com, prouter.com etc.</li>
-          <li>Creating product prototypes and write the user requirements documents.</li>
+          <li>Front-end development and maintenance, such as hoyoyo.com, prouter.com etc and reﬁned a higher versatility UI library.</li>
+          <li>Assisted PM in creating product prototypes and optimizing design.</li>
         </ul>
       </WorkHistory>
       <WorkHistory 
-        company="Shenzhen YouYou Net Stack Technology Co., Ltd." 
+        lasted
+        company="SHENZHEN YOUYOU NET STACK TECHNOLOGY CO., LTD" 
         location="Shenzhen China"
         period="2012 - 2013" 
-        position="Operations Specialist">
+        position="OPERATIONS SPECIALIST">
         <ul>
-          <li>Mainly responsible for the promotion of our website. During my work, registered users grew from 0 to nearly 50,000, active users about 2000.</li>
-          <li>Data summary and analysis, adjust the operation strategy.</li>
+          <li>Website promotion and user growth, the number of registered users increased from 0 to 50,000, and active users were maintained at 2000.</li>
+          <li>Analysed operational data and adjusted operational strategies according to the data.</li>
         </ul>
       </WorkHistory>
       <WorkHistory
@@ -66,7 +66,7 @@ const WorkExperience = props => (
         position="Game Operators Intern">
         <ul>
           <li>The daily operation of mobile game "Jue Shi Wu Shuang Online”.</li>
-          <li>Analyse data, optimise operational efficiencies and increase pay ratios.</li>
+          <li>Analysed operational data , optimised operational efficiencies and increase pay ratios.</li>
         </ul>
       </WorkHistory>
     </Card.Body>

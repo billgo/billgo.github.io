@@ -7,7 +7,7 @@ const PersonalHobbies = props => (
       <h4 className="my-none">Expect</h4>
     </Card.Head>
     <Card.Body className="pa-medium font-mini">
-      I'm looking for a senior frontend developer's job with an interesting team in Singapore / Shenzhen 
+      A self-motivated and experienced web developer with 5 years of experience in programming. I'm looking to join an interesting team as a Senior Frontend Developer. Preferred work location is in Singapore / Shenzhen.
     </Card.Body>
   </Card>
 );

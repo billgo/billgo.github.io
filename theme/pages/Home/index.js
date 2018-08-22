@@ -9,7 +9,6 @@ import PersonalSkills from './PersonalSkills';
 import WorkExperience from './WorkExperience';
 import ProjectExperience from './ProjectExperience';
 import EducationBackground from './EducationBackground';
-import ExecutiveSummary from './ExecutiveSummary';
 
 const texts = [[{ string: 'Try it and learn from err ' }, { string: '!= nil', color: '#8C9bA5' }]];
 
@@ -33,7 +32,6 @@ export default (props) => (
           <WorkExperience />
           <ProjectExperience />
           <EducationBackground />
-          <ExecutiveSummary />
         </Grid.Column>
       </Grid>
     </div>

@@ -18,9 +18,8 @@ export default (props) => (
           <h3 className="my-none pb-medium">YE WENBIAO</h3>
           <hr className="mb-medium" />
           <ul className="list-none">
-            <li className="mb-small"><small>yewenbill@gmail.com</small></li>
+            <li className="mb-small"><small>yewenbill@outlook.com</small></li>
             <li className="mb-small"><small>Singapore ⇄ China</small></li>
-            <li className="mb-small"><small>+ 65 90235611</small></li>
           </ul>
         </div>
       </div>

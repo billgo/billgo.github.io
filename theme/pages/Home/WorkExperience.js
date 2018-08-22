@@ -65,8 +65,8 @@ const WorkExperience = props => (
         period="2012 - 2012" 
         position="Game Operators Intern">
         <ul>
-          <li>The daily operation of mobile game "Jue Shi Wu Shuang Online”.</li>
-          <li>Analysed operational data , optimised operational efficiencies and increase pay ratios.</li>
+          <li>In Charge of daily operation of a mobile game named JUE SHI WU SHUANG OL.</li>
+          <li>Analyzed operational data, optimized efficiency and increased payment ratio.</li>
         </ul>
       </WorkHistory>
     </Card.Body>

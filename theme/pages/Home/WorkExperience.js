@@ -9,7 +9,7 @@ const WorkHistory = (props) => (
           <strong>{props.company}</strong> / 
           <small className="ml-mini text-yellow">{props.position}</small>
         </h5>
-        <div className="font-tiny">{props.location}</div>
+        <div className="font-tiny text-uppercase">{props.location}</div>
       </div>
       <div className="ds-fable-cell" style={{width:'80px'}}>
         <h6 className="text-right font-tiny my-none"><small>{props.period}</small></h6>
@@ -39,7 +39,7 @@ const WorkExperience = props => (
       </WorkHistory>
       <WorkHistory
         company="HOYOYO TECHNOLOGY (SHENZHEN) CO. LTD" 
-        location="Shenzhen China"
+        location="Shenzhen"
         period="2013 - 2015" 
         position="SENIOR FRONTEND DEVELOPER">
         <ul>
@@ -50,7 +50,7 @@ const WorkExperience = props => (
       <WorkHistory 
         lasted
         company="SHENZHEN YOUYOU NET STACK TECHNOLOGY CO., LTD" 
-        location="Shenzhen China"
+        location="Shenzhen"
         period="2012 - 2013" 
         position="OPERATIONS SPECIALIST">
         <ul>
@@ -61,7 +61,7 @@ const WorkExperience = props => (
       <WorkHistory
         lasted
         company="Sungy Mobile Limited" 
-        location="Guangzhou China"
+        location="Guangzhou"
         period="2012 - 2012" 
         position="Game Operators Intern">
         <ul>

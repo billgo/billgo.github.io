@@ -7,7 +7,7 @@ const WorkHistory = (props) => (
       <div className="ds-fable-cell">
         <h5 className="my-none text-uppercase">
           <strong>{props.company}</strong> / 
-          <small className="ml-mini text-yellow">{props.position}</small>
+          <small className="ml-mini" style={{color:'#E3B944'}}>{props.position}</small>
         </h5>
         <div className="font-tiny text-uppercase">{props.location}</div>
       </div>

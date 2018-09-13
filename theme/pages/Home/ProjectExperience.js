@@ -32,8 +32,8 @@ const ProjectExperience = props => (
         position="INDEPENDENT DEVELOPER">
         <ul className="a-article-ul">
           <li>Developed components based on ECMAScript 6 and LESS, then compiled into JavaScript and CSS using webpack and babel.</li>
-          <li>Provided a set of high-quality application development tools.</li>
           <li>80+ common components are extracted for daily development, more related documents please visit my website <a href="https://www.teasim.com" target="_black" >teasim.com</a>.</li>
+          <li>Provided a set of high-quality application tools, such as mockers and fackers.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory

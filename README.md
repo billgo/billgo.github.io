@@ -6,7 +6,7 @@ Now I’m interested to join an Internet ﬁrm as a senior frontend developer. P
 
 ## WORK EXPERIENCE
 
-### LWH HOLDINGS PTE LTD as WEB DEVELOPER in SINGAPORE from 2015 to Present
+#### LWH HOLDINGS PTE LTD as WEB DEVELOPER in SINGAPORE from 2015 to Present
 
 - Interview users and leaders to write product requirement documents.
 - Developing the corporate website and additional softwares for internal projects, including OA, CMS and ERP system.

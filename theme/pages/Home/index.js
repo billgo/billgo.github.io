@@ -4,7 +4,7 @@ import TypeMachine from 'app/components/TypeMachine';
 import Application from "app/components/Application";
 
 import PersonalAvatar from './PersonalAvatar';
-import PersonalHobbies from './PersonalHobbies';
+import PersonalExpect from './PersonalExpect';
 import PersonalSkills from './PersonalSkills';
 import WorkExperience from './WorkExperience';
 import ProjectExperience from './ProjectExperience';
@@ -26,7 +26,7 @@ export default (props) => (
         <Grid.Column xs={{ size: 24 }} sm={{ size: 6 }}>
           <PersonalAvatar />
           <PersonalSkills />
-          <PersonalHobbies />
+          <PersonalExpect />
         </Grid.Column>
         <Grid.Column xs={{ size: 24 }} sm={{ size: 18 }}>
           <WorkExperience />

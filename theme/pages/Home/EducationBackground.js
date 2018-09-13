@@ -18,7 +18,7 @@ const InternHistory = (props) => (
 const EducationBackground = props => (
   <Card className="mb-medium">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none">Education Background</h4>
+      <h4 className="my-none text-uppercase">Education Background</h4>
     </Card.Head>
     <Card.Body className="pa-medium">
       <InternHistory 

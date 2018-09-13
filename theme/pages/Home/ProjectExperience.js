@@ -23,38 +23,39 @@ const ProjectHistory = (props) => (
 const ProjectExperience = props => (
   <Card className="mb-medium">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none">Project Experience</h4>
+      <h4 className="my-none text-uppercase">Project Experience</h4>
     </Card.Head>
     <Card.Body className="pa-medium">
       <ProjectHistory 
-        name="A FRONTEND SOLUTION BASED ON REACT AND REDUX ECOSYSTEMS" 
+        name="A FRONTEND FRAMEWORK BASED ON REACT AND REDUX ECOSYSTEMS" 
         period="2015 - Present" 
         position="INDEPENDENT DEVELOPER">
-        <ul>
-          <li>Developed all components based on ES6 and LESS, and compiled into ES5 and CSS using Webpack and Babel.</li>
+        <ul className="a-article-ul">
+          <li>Developed components based on ECMAScript 6 and LESS, then compiled into JavaScript and CSS using webpack and babel.</li>
           <li>Provided a set of high-quality application development tools.</li>
-          <li>Deﬁned a design language system.</li>
+          <li>80+ common components are extracted for daily development, more related documents please visit my website <a href="https://www.teasim.com" target="_black" >teasim.com</a>.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory
-        name="GOLANG BASED ENTERPRISE RESOURCE MANAGEMENT SYSTEM" 
+        name="CONSTRUCTION INDUSTRY ERP SYSTEM BASED ON MICROSERVICE ARCHITECTURE" 
         period="2015 - 2018" 
         position="TEAM LEADER & CORE DEVELOPER">
-        <ul>
-          <li>Developed the front-end based on the React and Redux ecosystem and integrated with Electron to render better user experience of applications.</li>
-          <li>Implemented the business API with Gin framework and Mysql and used the micro-services architecture for the server side.</li>
-          <li>Simpliﬁed the structure of primary database through MongoDB to store document-intensive data.</li>
-          <li>Built automated deployment system using Docker and Nginx to deploy applications automatically to ECS of Alibaba Cloud, adopted Docker Swarm for service cluster management.</li>
+        <ul className="a-article-ul">
+          <li>Developed the web front-end with the React and Redux ecosystem, then integrate with Electron to improve the user experience.</li>
+          <li>Implemented the API with Beego and Mysql. Used MongoDB to store some document-intensive data to simplify the database structure.</li>
+          <li>Builded automated deployment system using Docker and Swarm, automatically deploy applications to ECS of Alibaba Cloud.</li>
+          <li>Git-based development workﬂows, using Eslint and Prettier to help us unify the code style.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory
         lasted
-        name="CONTENT MANAGEMENT SYSTEM BASED ON BEEGO FRAMEWORK" 
+        name="CONTENT MANAGEMENT SYSTEM DEVELOPED USING THE BEEGO FRAMEWORK" 
         period="2017" 
         position="INDEPENDENT DEVELOPER">
-        <ul>
-          <li>Developed the front-end with Yarn, Webpack, React and LESS.</li>
-          <li>Implemented the RESTful API with Beego 1.9.0 and Mysql 5.7.</li>
+        <ul className="a-article-ul">
+          <li>Developed the front-end with jQuery, Bootstrap3 and Less.</li>
+          <li>Implemented the RESTful API with Beego1.9 and Mysql 5.7.</li>
+          <li>Builded monolithic application of the MVC pattern.  <br />e.g. <a href="https://www.catnogo.com" target="_black" >catnogo.com</a>, <a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
         </ul>
       </ProjectHistory>
     </Card.Body>

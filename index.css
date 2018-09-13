@@ -12542,3 +12542,20 @@ svg:hover [id$="cube-36"] path {
     transform: scale(1, 1);
   }
 }
+/* pages */
+.a-article-ul > li {
+  line-height: 1.125;
+  list-style-type: circle;
+}
+.a-article-ul > li > a {
+  color: #8c9ba5;
+  text-decoration: underline;
+}
+.a-article-ul > li {
+  line-height: 1.125;
+  list-style-type: circle;
+}
+.a-article-ul > li > a {
+  color: #8c9ba5;
+  text-decoration: underline;
+}

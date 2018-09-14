@@ -4,7 +4,7 @@ import { Card, Tagger } from "yiqilaiui";
 const PersonalSkills = props => (
   <Card className="mb-wide">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none text-uppercase">Skills</h4>
+      <h4 className="my-none text-uppercase">Skillset</h4>
     </Card.Head>
     <Card.Body className="px-medium py-small">
       <div className="bb-auto bb-dashed py-tiny">

@@ -11,9 +11,8 @@ const PersonalSkills = props => (
         <h5 className="my-none">Programming</h5>
         <div className="py-mini">
           <Tagger size="tiny" className="mr-mini">JavaScript</Tagger>
-          <Tagger size="tiny" className="mr-mini">Html</Tagger>
+          <Tagger size="tiny" className="mr-mini">HTML5</Tagger>
           <Tagger size="tiny" className="mr-mini">CSS3</Tagger>
-          <Tagger size="tiny" className="mr-mini">Less</Tagger>
           <Tagger size="tiny" className="mr-mini">React</Tagger>
           <Tagger size="tiny" className="mr-mini">Redux</Tagger>
           <Tagger size="tiny" className="mr-mini">Webpack</Tagger>

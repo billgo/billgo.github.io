@@ -13,7 +13,7 @@ import EducationBackground from './EducationBackground';
 const texts = [[{ string: 'Try it and learn from err ' }, { string: '!= nil', color: '#8C9bA5' }]];
 
 export default (props) => (
-  <Application title={props.themeConfig.sitename + " | " + props.themeConfig.slogan} {...props} >
+  <Application title={props.themeConfig.sitename + " - " + props.themeConfig.slogan} {...props} >
     <View className="bg-auto py-wide">
       <div className="screen-md py-none">
         <h3 className="my-none">

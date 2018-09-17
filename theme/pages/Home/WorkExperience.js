@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "yiqilaiui";
+import { Card } from "teasim";
 
 const WorkHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>

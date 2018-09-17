@@ -1,5 +1,5 @@
 import React from "react";
-import { Image, Card, Button } from "yiqilaiui";
+import { Image, Card, Button } from "teasim";
 import OperaPlus from "teasim-icon/lib/OperaPlus";
 import OperaMinus from "teasim-icon/lib/OperaMinus";
 

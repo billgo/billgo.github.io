@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "yiqilaiui";
+import { Card } from "teasim";
 
 const InternHistory = (props) => (
   <div className={`mb-large ${props.lastChild ? '' : "bb-auto bb-dashed"}`}>

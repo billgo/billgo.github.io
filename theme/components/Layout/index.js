@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import createStyles from 'teasim-stylers';
 import { Link } from 'teasim-statics/router';
-import { Layout, Grid, Navbar, Button } from "yiqilaiui";
+import { Layout, Grid, Navbar, Button } from "teasim";
 import ArrowDown from 'teasim-icon/lib/ArrowDown';
 import Anchor from "app/components/Anchor";
 

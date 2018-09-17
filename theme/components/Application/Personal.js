@@ -5,7 +5,7 @@ import Analyzation from 'teasim-analyzation';
 import FontFaceObserver from 'fontfaceobserver';
 import createStyles from 'teasim-stylers';
 import { Link } from 'teasim-statics/router';
-import { Layout, Grid, Navbar } from "yiqilaiui";
+import { Layout, Grid, Navbar } from "teasim";
 import Anchor from "app/components/Anchor";
 
 if (typeof window !== 'undefined') {

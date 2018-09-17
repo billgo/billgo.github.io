@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Button } from "yiqilaiui";
+import { Card, Button } from "teasim";
 
 const ProjectHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>

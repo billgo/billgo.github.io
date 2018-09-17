@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Grid, Sticker } from "yiqilaiui";
+import { View, Grid, Sticker } from "teasim";
 import TypeMachine from 'app/components/TypeMachine';
 import Application from "app/components/Application";
 

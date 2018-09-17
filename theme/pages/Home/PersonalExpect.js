@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "yiqilaiui";
+import { Card } from "teasim";
 
 const PersonalExpect = props => (
   <Card className="mb-wide">

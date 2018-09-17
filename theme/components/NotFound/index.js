@@ -1,5 +1,5 @@
 import React from "react";
-import { View } from "yiqilaiui";
+import { View } from "teasim";
 
 export default (props) => (
   <div className="a-error">

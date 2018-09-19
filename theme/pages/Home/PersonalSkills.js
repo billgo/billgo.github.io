@@ -17,7 +17,9 @@ const PersonalSkills = props => (
           <Tagger size="tiny" className="mr-mini">Redux</Tagger>
           <Tagger size="tiny" className="mr-mini">Webpack</Tagger>
           <Tagger size="tiny" className="mr-mini">Babel</Tagger>
+          <Tagger size="tiny" className="mr-mini">Jest</Tagger>
           <Tagger size="tiny" className="mr-mini">RESTful</Tagger>
+          <Tagger size="tiny" className="mr-mini">GraphQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Node</Tagger>
           <Tagger size="tiny" className="mr-mini">Golang</Tagger>
           <Tagger size="tiny" className="mr-mini">Beego</Tagger>

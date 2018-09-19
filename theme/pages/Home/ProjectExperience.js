@@ -3,18 +3,18 @@ import { Card, Button } from "teasim";
 
 const ProjectHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>
+    <h5 className="my-none">
+      <strong>{props.name}</strong>
+    </h5>
     <div className="ds-fable">
       <div className="ds-fable-cell">
-        <h5 className="my-none">
-          <strong>{props.name}</strong>
-        </h5>
         <div className="font-tiny">{props.position}</div>
       </div>
-      <div className="ds-fable-cell" style={{width:'75px'}}>
-        <h6 className="my-none text-right"><small>{props.period}</small></h6>
+      <div className="ds-fable-cell" style={{width:'80px'}}>
+        <h6 className="text-right font-tiny my-none"><small>{props.period}</small></h6>
       </div>
     </div>
-    <div className="ds-block py-large font-mini">
+    <div className="ds-block py-large font-mini font-serif">
       {props.children}
     </div>
   </div>
@@ -29,33 +29,34 @@ const ProjectExperience = props => (
       <ProjectHistory 
         name="A FRONTEND FRAMEWORK BASED ON REACT AND REDUX ECOSYSTEMS" 
         period="2015 - Present" 
-        position="INDEPENDENT DEVELOPER">
+        position="Independent Developer">
         <ul className="a-article-ul">
-          <li>Developed components based on ECMAScript 6 and LESS, then compiled into JavaScript and CSS using webpack and babel.</li>
-          <li>80+ common components are extracted for daily development, more related documents please visit my website <a href="https://www.teasim.com" target="_black" >teasim.com</a>.</li>
-          <li>Provided a set of high-quality application tools, such as mockers and fackers.</li>
+          <li>Developed components based on ECMAScript 6 and Less, compiled to JavaScript and CSS using webpack and babel.</li>
+          <li>Extracted 80+ common components from daily development, for more related documents, please visit my website <a href="https://www.teasim.com" target="_black" >teasim.com</a>.</li>
+          <li>Provided a set of development tools. e.g. mock API and fake data.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory
-        name="CONSTRUCTION INDUSTRY ERP SYSTEM BASED ON MICROSERVICE ARCHITECTURE" 
+        name="ENTERPRISE RESOURCE MANAGEMENT SYSTEM FOR CONSTRUCTION INDUSTRY" 
         period="2015 - 2018" 
-        position="TEAM LEADER & CORE DEVELOPER">
+        position="Team Leader & Core Developer">
         <ul className="a-article-ul">
-          <li>Developed the web front-end with the React and Redux ecosystem, then integrate with Electron to improve the user experience.</li>
-          <li>Implemented the API with Beego and Mysql. Used MongoDB to store some document-intensive data to simplify the database structure.</li>
-          <li>Builded automated deployment system using Docker and Swarm, automatically deploy applications to ECS of Alibaba Cloud.</li>
-          <li>Git-based development workﬂows, using Eslint and Prettier to help us unify the code style.</li>
+          <li>Developed single page application with React and Redux, improved render performance using Immutable.js.</li>
+          <li>Wrote unit, functional and end-to-end tests with Jest.</li>
+          <li>Formatted JavaScript code using Eslint and Prettier.</li>
+          <li>Implemented the RESTful API with Beego and Mysql, achieved OpenID Connect Provider using Golang.</li>
+          <li>Built application's docker images, automatically deployed applications to ECS of Alibaba Cloud.</li>
+          <li>Introduced Git workﬂow for code management, resolved merge conﬂicts for team members, simplify teamwork.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory
         lasted
-        name="CONTENT MANAGEMENT SYSTEM DEVELOPED USING THE BEEGO FRAMEWORK" 
+        name="CONTENT MANAGEMENT SYSTEM DEVELOPED USING BEEGO FRAMEWORK" 
         period="2017" 
-        position="INDEPENDENT DEVELOPER">
+        position="Independent Developer">
         <ul className="a-article-ul">
-          <li>Developed the front-end with jQuery, Bootstrap3 and Less.</li>
-          <li>Implemented the RESTful API with Beego1.9 and Mysql 5.7.</li>
-          <li>Builded monolithic application of the MVC pattern.  <br />e.g. <a href="https://www.catnogo.com" target="_black" >catnogo.com</a>, <a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
+          <li>Developed front-end with jQuery, Bootstrap3 and Less.</li>
+          <li>Created monolithic application using Beego and Mysql. e.g. <a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
         </ul>
       </ProjectHistory>
     </Card.Body>

@@ -10,11 +10,11 @@ import WorkExperience from './WorkExperience';
 import ProjectExperience from './ProjectExperience';
 import EducationBackground from './EducationBackground';
 
-const texts = [[{ string: 'Try it and learn from err ' }, { string: '!= nil', color: '#8C9bA5' }]];
+const texts = [[{ string: 'Try it and learn from err ' }, { string: '!= nil', color: '#8C9bA5' }, { string: ' .' }]];
 
 export default (props) => (
-  <Application title={props.themeConfig.sitename + " - " + props.themeConfig.slogan} {...props} >
-    <View className="bg-auto py-wide">
+  <Application title={props.themeConfig.sitename + " | " + props.themeConfig.slogan} {...props} >
+    <View className="bg-auto py-wide" style={{maxHeight: '57px'}}>
       <div className="screen-md py-none">
         <h3 className="my-none">
           <TypeMachine texts={texts} speed={50} />

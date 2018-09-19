@@ -4,5 +4,4 @@ I’m a self-motivated and experienced web developer, focusing on front-end and 
 
 I’m interested to join an Internet corporate as a **Senior Front-end Developer**. Preferred work location is in **Singapore**.
 
-- Resume: [https://billgo.github.io](https://billgo.github.io)
-- E-mail: yewenbill@outlook.com
+Online Resume: [https://billgo.github.io](https://billgo.github.io)

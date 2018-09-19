@@ -44,7 +44,7 @@ const WorkExperience = props => (
         period="2013 - 2015" 
         position="FRONTEND DEVELOPER">
         <ul className="a-article-ul">
-          <li>Responsible for front-end development and maintenance for ecommerce websites, e.g. <a href="http://www.hoyoyo.com" target="_black">hoyoyo.com</a> and <a href="http://www.prouter.com" target="_black">prouter.com</a>.</li>
+          <li>Responsible for front-end development and maintenance for e-commerce websites, e.g. <a href="http://www.hoyoyo.com" target="_black">hoyoyo.com</a> and <a href="http://www.prouter.com" target="_black">prouter.com</a>.</li>
           <li>Assisted Product Manager in optimizing UI and UX design.</li>
         </ul>
       </WorkHistory>

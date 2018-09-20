@@ -44,7 +44,7 @@ const ProjectExperience = props => (
           <li>Developed single page application with React and Redux, improved render performance using Immutable.js.</li>
           <li>Wrote unit, functional and end-to-end tests with Jest.</li>
           <li>Formatted JavaScript code using Eslint and Prettier.</li>
-          <li>Implemented the RESTful API with Beego and Mysql, achieved OpenID Connect Provider using Golang.</li>
+          <li>Implemented the RESTful API with Beego and MySQL, achieved OpenID Connect Provider using Golang.</li>
           <li>Built application's docker images, automatically deployed applications to ECS of Alibaba Cloud.</li>
           <li>Introduced Git workﬂow for code management, resolved merge conﬂicts for team members, simplify teamwork.</li>
         </ul>
@@ -56,7 +56,7 @@ const ProjectExperience = props => (
         position="Independent Developer">
         <ul className="a-article-ul">
           <li>Developed front-end with jQuery, Bootstrap3 and Less.</li>
-          <li>Created monolithic application using Beego and Mysql. e.g. <a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
+          <li>Created monolithic application using Beego and MySQL. e.g. <a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
         </ul>
       </ProjectHistory>
     </Card.Body>

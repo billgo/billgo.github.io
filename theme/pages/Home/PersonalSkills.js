@@ -11,10 +11,10 @@ const PersonalSkills = props => (
         <h5 className="my-none">Programming</h5>
         <div className="py-mini">
           <Tagger size="tiny" className="mr-mini">JavaScript</Tagger>
-          <Tagger size="tiny" className="mr-mini">HTML5</Tagger>
-          <Tagger size="tiny" className="mr-mini">CSS3</Tagger>
+          <Tagger size="tiny" className="mr-mini">HTML5 & CSS3</Tagger>
           <Tagger size="tiny" className="mr-mini">React</Tagger>
           <Tagger size="tiny" className="mr-mini">Redux</Tagger>
+          <Tagger size="tiny" className="mr-mini">Bootstrap3</Tagger>
           <Tagger size="tiny" className="mr-mini">Webpack</Tagger>
           <Tagger size="tiny" className="mr-mini">Babel</Tagger>
           <Tagger size="tiny" className="mr-mini">Jest</Tagger>
@@ -24,7 +24,7 @@ const PersonalSkills = props => (
           <Tagger size="tiny" className="mr-mini">Golang</Tagger>
           <Tagger size="tiny" className="mr-mini">Beego</Tagger>
           <Tagger size="tiny" className="mr-mini">MongoDB</Tagger>
-          <Tagger size="tiny" className="mr-mini">Mysql</Tagger>
+          <Tagger size="tiny" className="mr-mini">MySQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Redis</Tagger>
           <Tagger size="tiny" className="mr-mini">Docker</Tagger>
         </div>

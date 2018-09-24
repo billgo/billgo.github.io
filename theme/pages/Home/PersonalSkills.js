@@ -12,12 +12,13 @@ const PersonalSkills = props => (
         <div className="py-mini">
           <Tagger size="tiny" className="mr-mini">JavaScript</Tagger>
           <Tagger size="tiny" className="mr-mini">HTML5 & CSS3</Tagger>
+          <Tagger size="tiny" className="mr-mini">Bootstrap3</Tagger>
           <Tagger size="tiny" className="mr-mini">React</Tagger>
           <Tagger size="tiny" className="mr-mini">Redux</Tagger>
-          <Tagger size="tiny" className="mr-mini">Bootstrap3</Tagger>
           <Tagger size="tiny" className="mr-mini">Webpack</Tagger>
           <Tagger size="tiny" className="mr-mini">Babel</Tagger>
           <Tagger size="tiny" className="mr-mini">Jest</Tagger>
+          <Tagger size="tiny" className="mr-mini">Enzyme</Tagger>
           <Tagger size="tiny" className="mr-mini">RESTful</Tagger>
           <Tagger size="tiny" className="mr-mini">GraphQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Node</Tagger>

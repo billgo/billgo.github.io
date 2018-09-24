@@ -32,8 +32,8 @@ const ProjectExperience = props => (
         position="Independent Developer">
         <ul className="a-article-ul">
           <li>Developed components based on ECMAScript 6 and Less, compiled to JavaScript and CSS using webpack and babel.</li>
-          <li>Extracted 80+ common components from daily development, for more related documents, please visit my website <a href="https://www.teasim.com" target="_black" >teasim.com</a>.</li>
-          <li>Provided a set of development tools. e.g. mock API and fake data.</li>
+          <li>Provided 80+ common components and boilerplates, for more related documents, please visit my website <a href="https://www.teasim.com" target="_black" >teasim.com</a>.</li>
+          <li>Integrated a set of development tools from community to enhance the development experience. e.g. Storybook.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory
@@ -42,11 +42,11 @@ const ProjectExperience = props => (
         position="Team Leader & Core Developer">
         <ul className="a-article-ul">
           <li>Developed single page application with React and Redux, improved render performance using Immutable.js.</li>
-          <li>Wrote unit, functional and end-to-end tests with Jest.</li>
+          <li>Wrote unit, functional and end-to-end tests with Jest & Enzyme.</li>
           <li>Formatted JavaScript code using Eslint and Prettier.</li>
-          <li>Implemented the RESTful API with Beego and MySQL, achieved OpenID Connect Provider using Golang.</li>
-          <li>Built application's docker images, automatically deployed applications to ECS of Alibaba Cloud.</li>
-          <li>Introduced Git workﬂow for code management, resolved merge conﬂicts for team members, simplify teamwork.</li>
+          <li>Developed OpenID Connect Provider using Golang for authentication and authorization services.</li>
+          <li>Built application's docker images and deployment scripts, automatically deployed applications to ECS of Alibaba Cloud.</li>
+          <li>Introduced Git workflow and CI approach for code management, simplifying team collaboration and securing code quality.</li>
         </ul>
       </ProjectHistory>
       <ProjectHistory
@@ -56,7 +56,7 @@ const ProjectExperience = props => (
         position="Independent Developer">
         <ul className="a-article-ul">
           <li>Developed front-end with jQuery, Bootstrap3 and Less.</li>
-          <li>Created monolithic application using Beego and MySQL. e.g. <a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
+          <li>Implemented the RESTful API with Beego and MySQL, automatically deployed to Alibaba Cloud through Docker. e.g<a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
         </ul>
       </ProjectHistory>
     </Card.Body>

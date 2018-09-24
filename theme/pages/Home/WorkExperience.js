@@ -33,9 +33,9 @@ const WorkExperience = props => (
         period="2015 - Present" 
         position="WEB DEVELOPER">
         <ul className="a-article-ul">
-          <li>Wrote user requirements documents by interviewing users, created product prototypes.</li>
+          <li>Wrote user requirements documents by interviewed users, created product prototypes.</li>
           <li>Developed the corporate website and additional softwares for internal use, including OA, CMS and ERP systems.</li>
-          <li>In charge of technology architecture and front-end development, Sorted out a set of technology selection suitable for the business.</li>
+          <li>In charge of technology architecture and front-end development, Sorted out a set of technology selection solutions suitable for the business, and optimised the code development process.</li>
         </ul>
       </WorkHistory>
       <WorkHistory
@@ -44,8 +44,8 @@ const WorkExperience = props => (
         period="2013 - 2015" 
         position="FRONTEND DEVELOPER">
         <ul className="a-article-ul">
-          <li>Responsible for front-end development and maintenance for e-commerce websites, e.g. <a href="http://www.hoyoyo.com" target="_black">hoyoyo.com</a> and <a href="http://www.prouter.com" target="_black">prouter.com</a>.</li>
-          <li>Assisted Product Manager in optimizing UI and UX design.</li>
+          <li>Responsible for front-end development and maintenance, independently completed the front-end development of <a href="http://www.hoyoyo.com" target="_black">hoyoyo.com</a> and <a href="http://www.prouter.com" target="_black">prouter.com</a>.</li>
+          <li>Assisted Product Manager in optimising UI and UX design, increased e-commerce conversion rate by around 20%.</li>
         </ul>
       </WorkHistory>
       <WorkHistory 
@@ -55,7 +55,7 @@ const WorkExperience = props => (
         period="2012 - 2013" 
         position="OPERATIONS SPECIALIST">
         <ul className="a-article-ul">
-          <li>Promoted website through Sina Weibo and Baidu SEO, increased the number of registered users from 0 to 50,000+, and maintained active users at around 2000.</li>
+          <li>Promoted website through Sina Weibo and Baidu SEO, increased the number of registered users from 0 to 50,000, and maintained active users at around 2000.</li>
         </ul>
       </WorkHistory>
     </Card.Body>

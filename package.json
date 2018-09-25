@@ -10,16 +10,16 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "statics-plugin-description": "^0.0.21",
-    "statics-plugin-react": "^0.0.21",
-    "statics-plugin-toc": "^0.0.21",
+    "statics-plugin-description": "^0.0.22",
+    "statics-plugin-react": "^0.0.22",
+    "statics-plugin-toc": "^0.0.22",
     "teakit": "^0.0.3",
-    "teasim": "^5.0.4-6",
-    "teasim-analyzation": "^5.0.4-6",
-    "teasim-document": "^5.0.4-6",
-    "teasim-icon": "^5.0.4-6",
-    "teasim-statics": "^5.0.4-6",
-    "teasim-stylers": "^5.0.4-6"
+    "teasim": "^5.0.4-8",
+    "teasim-analyzation": "^5.0.4-8",
+    "teasim-document": "^5.0.4-8",
+    "teasim-icon": "^5.0.4-8",
+    "teasim-statics": "^5.0.4-8.8",
+    "teasim-stylers": "^5.0.4-8"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

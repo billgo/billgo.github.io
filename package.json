@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "statics-plugin-description": "^0.0.22",
-    "statics-plugin-react": "^0.0.22",
-    "statics-plugin-toc": "^0.0.22",
+    "statics-plugin-description": "^0.0.23",
+    "statics-plugin-react": "^0.0.23",
+    "statics-plugin-toc": "^0.0.23",
     "teakit": "^0.0.3",
     "teasim": "^5.0.4-11",
     "teasim-analyzation": "^5.0.4-11",

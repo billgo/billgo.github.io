@@ -14,12 +14,12 @@
     "statics-plugin-react": "^0.0.22",
     "statics-plugin-toc": "^0.0.22",
     "teakit": "^0.0.3",
-    "teasim": "^5.0.4-8",
-    "teasim-analyzation": "^5.0.4-8",
-    "teasim-document": "^5.0.4-8",
-    "teasim-icon": "^5.0.4-8",
-    "teasim-statics": "^5.0.4-8.8",
-    "teasim-stylers": "^5.0.4-8"
+    "teasim": "^5.0.4-9",
+    "teasim-analyzation": "^5.0.4-9",
+    "teasim-document": "^5.0.4-9",
+    "teasim-icon": "^5.0.4-9",
+    "teasim-statics": "^5.0.4-9",
+    "teasim-stylers": "^5.0.4-9"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

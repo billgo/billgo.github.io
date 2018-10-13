@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Document from 'teasim-document';
+import { Document } from 'teasim';
 import Analyzation from 'teasim-analyzation';
 import FontFaceObserver from 'fontfaceobserver';
 import createStyles from 'teasim-stylers';

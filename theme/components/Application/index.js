@@ -1,6 +1,6 @@
 import React from 'react';
-import Document from 'teasim-document';
 import Analyzation from 'teasim-analyzation';
+import { Document } from 'teasim';
 import FontFaceObserver from 'fontfaceobserver';
 import Layout from 'app/components/Layout';
 import "app/assets/index";

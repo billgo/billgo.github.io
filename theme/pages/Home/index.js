@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Grid, Sticker } from "teasim";
-import TypeMachine from 'app/components/TypeMachine';
+import Typewrite from 'teasim-typewrite';
 import Application from "app/components/Application";
 
 import PersonalAvatar from './PersonalAvatar';
@@ -17,7 +17,10 @@ export default (props) => (
     <View className="bg-auto py-wide" style={{maxHeight: '57px'}}>
       <div className="screen-md py-none">
         <h3 className="my-none">
-          <TypeMachine texts={texts} speed={50} />
+          <Typewrite 
+            texts={texts} 
+            speed={50} 
+          />
         </h3>
       </div>
     </View>

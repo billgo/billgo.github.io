@@ -191,7 +191,7 @@ html {
 body {
   color: #292b2c;
   background-color: #fff;
-  font-family: 'IBM Plex Sans', 'Noto Sans CJK SC', "Noto Sans CJK", 'Source Han Sans SC', "Source Han Sans", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "source-han-sans-simplified-c", sans-serif;
+  font-family: 'IBM Plex Sans', 'Noto Sans CJK SC', 'Noto Sans CJK', 'Source Han Sans SC', 'Source Han Sans', 'PingFang SC', 'Heiti SC', 'Microsoft YaHei UI', 'Microsoft YaHei', 'source-han-sans-simplified-c', 'sans-serif';
   overflow-x: hidden;
   line-height: 1;
   min-height: 100vh;
@@ -637,7 +637,7 @@ pre {
 }
 /* typos */
 article {
-  font-family: 'IBM Plex Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'source-han-serif-sc', "PingFang SC", Times, serif;
+  font-family: 'IBM Plex Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'source-han-serif-sc', 'PingFang SC', Times, serif;
   font-size: 1rem;
   line-height: 1.5;
 }
@@ -2070,11 +2070,11 @@ article li > p {
 /* family */
 .font-sans,
 .font-sans * {
-  font-family: 'IBM Plex Sans', 'Noto Sans CJK SC', "Noto Sans CJK", 'Source Han Sans SC', "Source Han Sans", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "source-han-sans-simplified-c", sans-serif !important;
+  font-family: 'IBM Plex Sans', 'Noto Sans CJK SC', 'Noto Sans CJK', 'Source Han Sans SC', 'Source Han Sans', 'PingFang SC', 'Heiti SC', 'Microsoft YaHei UI', 'Microsoft YaHei', 'source-han-sans-simplified-c', 'sans-serif' !important;
 }
 .font-serif,
 .font-serif * {
-  font-family: 'IBM Plex Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'source-han-serif-sc', "PingFang SC", Times, serif !important;
+  font-family: 'IBM Plex Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'source-han-serif-sc', 'PingFang SC', Times, serif !important;
 }
 .font-mono,
 .font-mono * {

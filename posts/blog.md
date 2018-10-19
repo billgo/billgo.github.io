@@ -1,8 +1,9 @@
 ---
-order: 1
-title: Tech Blog
+title: My Blog
 ---
 
-Tech Blog desc
+desc
 
 ---
+
+content

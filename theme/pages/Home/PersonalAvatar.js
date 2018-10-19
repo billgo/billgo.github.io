@@ -20,7 +20,6 @@ export default (props) => (
           <ul className="list-none">
             <li className="mb-small"><small>yewenbill@outlook.com</small></li>
             <li className="mb-small"><small>Singapore ⇄ China</small></li>
-            <li className="mb-small"><small>+65 90235611</small></li>
           </ul>
         </div>
       </div>

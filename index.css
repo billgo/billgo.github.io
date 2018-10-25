@@ -10655,8 +10655,8 @@ article li > p {
   position: relative;
   background: #fff;
   border-top: 1px dotted #d7dde0;
-  margin-top: -3.5rem;
-  min-height: 3.5rem;
+  margin-top: -3.625rem;
+  min-height: 3.625rem;
 }
 .layout-bodyer {
   display: block;
@@ -10679,7 +10679,7 @@ article li > p {
   border-bottom: 1px solid transparent;
 }
 .layout-header + .layout-bodyer > .layout-bodyer-pull {
-  min-height: 3.5rem;
+  min-height: 3.625rem;
   border-top: 1px solid transparent;
 }
 .layout-topper + .layout-header + .layout-bodyer {
@@ -11733,11 +11733,11 @@ pre[class*="language-"] {
   overflow: hidden;
   text-align: center;
   min-height: 100vh;
-  margin-top: -6.6875rem;
+  margin-top: -6.8125rem;
 }
 .a-error-banner {
-  padding-top: 6.6875rem;
-  padding-bottom: 3.5rem;
+  padding-top: 6.8125rem;
+  padding-bottom: 3.625rem;
   position: relative;
   display: inline-block;
   color: #788392;

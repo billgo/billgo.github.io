@@ -40,10 +40,10 @@ const StandardLayout = props => (
       {props.children}
     </Layout.Bodyer>
     <Layout.Footer>
-      <div className="screen-md py-none">
+      <div className="screen-md">
         <Grid>
-          <Grid.Column className="text-center py-huge">
-            <div className="font-tiny mb-medium">
+          <Grid.Column className="text-center">
+            <div className="font-tiny">
               {props.themeConfig.slogan} LIVING IN SINGAPORE
             </div>
             <div className="font-tiny">

@@ -4,7 +4,7 @@ import { Card } from "teasim";
 const PersonalExpect = props => (
   <Card className="mb-wide">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none text-uppercase">Expect</h4>
+      <h5 className="my-none text-uppercase">Expect</h5>
     </Card.Head>
     <Card.Body className="pa-medium font-mini font-serif">
       <p>

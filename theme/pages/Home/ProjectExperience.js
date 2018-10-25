@@ -3,9 +3,9 @@ import { Card, Button } from "teasim";
 
 const ProjectHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>
-    <h5 className="my-none">
-      <strong>{props.name}</strong>
-    </h5>
+    <h6 className="my-none font-bold">
+      {props.name}
+    </h6>
     <div className="ds-fable">
       <div className="ds-fable-cell">
         <div className="font-tiny">{props.position}</div>
@@ -23,7 +23,7 @@ const ProjectHistory = (props) => (
 const ProjectExperience = props => (
   <Card className="mb-medium">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none text-uppercase">Project Experience</h4>
+      <h5 className="my-none text-uppercase">Project Experience</h5>
     </Card.Head>
     <Card.Body className="pa-medium">
       <ProjectHistory 
@@ -56,7 +56,7 @@ const ProjectExperience = props => (
         position="Independent Developer">
         <ul className="a-article-ul">
           <li>Developed front-end with jQuery, Bootstrap3 and Less.</li>
-          <li>Implemented the RESTful API with Beego and MySQL, automatically deployed to Alibaba Cloud through Docker. e.g<a href="http://www.lwhconst.com.sg" target="_black" >lwhconst.com.sg</a>.</li>
+          <li>Implemented the RESTful API with Beego and MySQL, automatically deployed to Alibaba Cloud through Docker.</li>
         </ul>
       </ProjectHistory>
     </Card.Body>

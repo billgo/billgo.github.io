@@ -9,17 +9,16 @@
     "build": "cross-env NODE_ENV=production statics build"
   },
   "dependencies": {
-    "babel-polyfill": "^6.26.0",
-    "statics-plugin-description": "^0.0.23",
-    "statics-plugin-react": "^0.0.23",
-    "statics-plugin-toc": "^0.0.23",
+    "statics-plugin-description": "^0.1.0",
+    "statics-plugin-react": "^0.1.1",
+    "statics-plugin-toc": "^0.1.0",
     "teakit": "^0.0.3",
-    "teasim": "^5.0.5-35",
-    "teasim-analyzation": "^5.0.5-35",
-    "teasim-icon": "^5.0.5-35",
-    "teasim-statics": "^5.0.5-35",
-    "teasim-stylers": "^5.0.5-35",
-    "teasim-typewrite": "^5.0.5-35"
+    "teasim": "^5.0.5-46",
+    "teasim-analyzation": "^5.0.5-46",
+    "teasim-icon": "^5.0.5-46",
+    "teasim-statics": "^5.0.5-46",
+    "teasim-stylers": "^5.0.5-46",
+    "teasim-typewrite": "^5.0.5-46"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

@@ -3,10 +3,10 @@ import { Card } from "teasim";
 
 const WorkHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>
-    <h5 className="my-none text-uppercase font-bold">
+    <h6 className="my-none text-uppercase font-bold">
       {props.company} / 
       <small className="ml-mini" style={{color:'#E3B944'}}>{props.position}</small>
-    </h5>
+    </h6>
     <div className="ds-fable">
       <div className="ds-fable-cell">
         <div className="font-tiny">{props.location}</div>
@@ -24,7 +24,7 @@ const WorkHistory = (props) => (
 const WorkExperience = props => (
   <Card className="mb-medium">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none text-uppercase">Work Experience</h4>
+      <h5 className="my-none text-uppercase">Work Experience</h5>
     </Card.Head>
     <Card.Body className="pa-medium">
       <WorkHistory 

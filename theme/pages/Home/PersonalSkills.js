@@ -4,7 +4,7 @@ import { Card, Tagger } from "teasim";
 const PersonalSkills = props => (
   <Card className="mb-wide">
     <Card.Head className={`pa-medium text-left bb-auto`}>
-      <h4 className="my-none text-uppercase">Skillset</h4>
+      <h5 className="my-none text-uppercase">Skillset</h5>
     </Card.Head>
     <Card.Body className="px-medium py-small">
       <div className="bb-auto bb-dashed py-tiny">
@@ -32,7 +32,7 @@ const PersonalSkills = props => (
         </div>
       </div>
       <div className="bb-auto bb-dashed py-tiny">
-        <h5 className="my-none">Management</h5>
+        <h6 className="my-none">Management</h6>
         <div className="py-mini">
           <Tagger size="tiny" className="mr-mini">OKR</Tagger>
           <Tagger size="tiny" className="mr-mini">BMC</Tagger>
@@ -40,7 +40,7 @@ const PersonalSkills = props => (
         </div>
       </div>
       <div className="py-tiny">
-        <h5 className="my-none">Design</h5>
+        <h6 className="my-none">Design</h6>
         <div className="py-mini">
           <Tagger size="tiny" className="mr-mini">Adobe XD</Tagger>
           <Tagger size="tiny" className="mr-mini">Pixelmator</Tagger>

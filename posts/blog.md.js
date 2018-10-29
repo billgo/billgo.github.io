@@ -1,1 +1,1 @@
-webpackJsonp([0],{1294:function(t,e){t.exports={content:["div",{},["p","content"]],meta:{title:"My Blog",filename:"posts/blog.md"},description:["section",["p","desc"]],toc:["ul"]}}});
+webpackJsonp([0],{1292:function(t,e){t.exports={content:["div",{},["p","content"]],meta:{title:"My Blog",filename:"posts/blog.md"},description:["section",["p","desc"]],toc:["ul"]}}});

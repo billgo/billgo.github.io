@@ -3973,6 +3973,12 @@ article li > p {
   background-repeat: no-repeat;
   background-position: center left;
 }
+.bg-white {
+  background-color: #fff !important;
+}
+.bg-white-light {
+  background-color: #fff !important;
+}
 /* border */
 .bt-white {
   border-top-color: #fff !important;
@@ -4006,16 +4012,11 @@ article li > p {
 .ba-default-light {
   border-color: #d7dde0 !important;
 }
-.bg-white {
-  background-color: #fff !important;
-}
-.bg-white-light {
-  background-color: #fff !important;
-}
 /* text */
 .text-white {
   color: #fff !important;
 }
+/* coloring */
 .bt-primary {
   border-top-color: #333332 !important;
 }

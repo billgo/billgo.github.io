@@ -15,7 +15,7 @@ const PersonalSkills = props => (
           <Tagger size="tiny" className="mr-mini">Bootstrap3</Tagger>
           <Tagger size="tiny" className="mr-mini">React</Tagger>
           <Tagger size="tiny" className="mr-mini">Redux</Tagger>
-          <Tagger size="tiny" className="mr-mini">ReJS</Tagger>
+          <Tagger size="tiny" className="mr-mini">RxJS</Tagger>
           <Tagger size="tiny" className="mr-mini">Webpack</Tagger>
           <Tagger size="tiny" className="mr-mini">Babel</Tagger>
           <Tagger size="tiny" className="mr-mini">Jest</Tagger>
@@ -24,7 +24,6 @@ const PersonalSkills = props => (
           <Tagger size="tiny" className="mr-mini">GraphQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Node</Tagger>
           <Tagger size="tiny" className="mr-mini">Golang</Tagger>
-          <Tagger size="tiny" className="mr-mini">Beego</Tagger>
           <Tagger size="tiny" className="mr-mini">MongoDB</Tagger>
           <Tagger size="tiny" className="mr-mini">MySQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Redis</Tagger>

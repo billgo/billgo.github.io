@@ -1,11 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Document } from 'teasim';
 import Analyzation from 'teasim-analyzation';
 import FontFaceObserver from 'fontfaceobserver';
-import createStyles from 'teasim-stylers';
 import { Link } from 'teasim-statics/router';
-import { Layout, Grid, Navbar } from "teasim";
+import { StyleSheet, Document, Layout, Grid, Navbar } from "teasim";
 import Anchor from "app/components/Anchor";
 
 if (typeof window !== 'undefined') {
@@ -24,7 +22,7 @@ Promise.all([fontSans.load(), fontSerif.load()]).then(function () {
 Analyzation.initialize('UA-78256548-1');
 Analyzation.pageview(window.location.pathname + window.location.search);
 
-const styles = createStyles({
+const styles = StyleSheet.create({
   'default': {
     bodyer: {
       minHeight: '100vh',

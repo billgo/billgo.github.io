@@ -1,12 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import createStyles from 'teasim-stylers';
 import { Link } from 'teasim-statics/router';
-import { Layout, Grid, Navbar, Button } from "teasim";
-import ArrowDown from 'teasim-icon/lib/ArrowDown';
+import { StyleSheet, Layout, Grid, Navbar, Button } from "teasim";
+import { IconArrow } from 'teasim-icon';
 import Anchor from "app/components/Anchor";
 
-const styles = createStyles({
+const styles = StyleSheet.create({
   'default': {
     bodyer: {
       minHeight: '100vh',
@@ -30,7 +29,7 @@ const StandardLayout = props => (
               target="_blank"
               size="tiny" 
               className="ba-none px-none">
-              RESUME <ArrowDown className="ml-tiny" />
+              RESUME <IconArrow name="down" className="ml-tiny" />
             </Button>
           </Navbar.Board>
         </Navbar>

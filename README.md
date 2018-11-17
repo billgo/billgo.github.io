@@ -1,4 +1,4 @@
-git commit notes
+gitcommit-notes
 ============================
 
 执行 `git commit` 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。
@@ -21,7 +21,7 @@ git commit notes
 git commit -m ":tada: first commit"
 ```
 
-### emoji 指南
+### emoji
 
 emoji                                   | emoji 代码                   | commit 说明
 :--------                               | :--------                    | :--------
@@ -56,29 +56,3 @@ emoji                                   | emoji 代码                   | commi
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checked_flag:`             | 修复 Windows 下的问题
 
-
-### 如何在命令行中显示 emoji
-
-默认情况下，在命令行中并不会显示出 emoji, 仅显示 emoji 代码。不过可以使用 [emojify](https://github.com/mrowa44/emojify) 使得在命令行也可显示 emoji, 它是一个 shell 脚本，安装与使用都很简单，在 [这里](https://github.com/mrowa44/emojify) 查看如何安装与使用。
-
-
-### 参考
-
-#### git commit emoji
-
-- [gitmoji](https://github.com/carloscuesta/gitmoji/)
-- [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
-- [git-commit-emoji-cn](https://github.com/liuchengxu/git-commit-emoji-cn)
-- [styleguide-git-commit-message](https://github.com/slashsBin/styleguide-git-commit-message)
-- [atom git commit messages guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
-- [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
-- [程序员提交代码的 emoji 指南——原来表情文字不能乱用](https://www.h5jun.com/post/gitmoji.html)
-
-#### write a good commit message
-
-- [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-- [How to write a Git Commit Message (2014)](https://news.ycombinator.com/item?id=13889155)
-- [how to write a good git commit message](https://github.com/joelparkerhenderson/git_commit_message)
-- [5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
-- [Udacity Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/)
-- [How to commit a change with both “message” and “description” from the command line?](https://stackoverflow.com/questions/16122234/how-to-commit-a-change-with-both-message-and-description-from-the-command-li)

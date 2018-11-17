@@ -1,7 +1,5 @@
 import React from "react";
 import { Image, Card, Button } from "teasim";
-import OperaPlus from "teasim-icon/lib/OperaPlus";
-import OperaMinus from "teasim-icon/lib/OperaMinus";
 
 export default (props) => (
   <div className="ds-block ba-auto mb-wide">

@@ -633,7 +633,7 @@ pre {
 }
 /* typos */
 article {
-  font-family: 'IBM Plex Serif', 'Times', 'serif';
+  font-family: 'IBM Plex Serif', 'Times New Roman', 'Times', 'serif';
 }
 article h1,
 article h2,
@@ -2043,7 +2043,7 @@ article li > p {
 }
 .font-serif,
 .font-serif * {
-  font-family: 'IBM Plex Serif', 'Times', 'serif' !important;
+  font-family: 'IBM Plex Serif', 'Times New Roman', 'Times', 'serif' !important;
 }
 .font-mono,
 .font-mono * {

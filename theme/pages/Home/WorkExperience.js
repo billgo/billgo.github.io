@@ -3,9 +3,9 @@ import { Card } from "teasim";
 
 const WorkHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>
-    <h6 className="my-none text-uppercase font-bold">
-      {props.company} / 
-      <small className="ml-mini" style={{color:'#E3B944'}}>{props.position}</small>
+    <h6 className="my-none text-uppercase font-bold" style={{color:'#E3B944'}}>
+      {props.position} 
+      <small className="ml-mini" style={{color:'rgba(0, 0, 0, 0.65)'}}> @ {props.company}</small>
     </h6>
     <div className="ds-fable">
       <div className="ds-fable-cell">
@@ -31,7 +31,7 @@ const WorkExperience = props => (
         company="LWH HOLDINGS PTE LTD" 
         location="Singapore"
         period="2015 - Present" 
-        position="WEB DEVELOPER">
+        position="FULLSTACK DEVELOPER">
         <ul className="a-article-ul">
           <li>Wrote user requirements documents by interviewed users, created product prototypes.</li>
           <li>Developed the corporate website and additional softwares for internal use, including OA, CMS and ERP systems.</li>
@@ -53,7 +53,7 @@ const WorkExperience = props => (
         company="SHENZHEN YOUYOU NETSTACK TECHNOLOGY CO. LTD" 
         location="Shenzhen"
         period="2012 - 2013" 
-        position="OPERATIONS SPECIALIST">
+        position="OPERATION SPECIALIST">
         <ul className="a-article-ul">
           <li>Promoted website through Sina Weibo and Baidu SEO, increased the number of registered users from 0 to 50,000, and maintained active users at around 2000.</li>
         </ul>

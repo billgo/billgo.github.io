@@ -14,7 +14,7 @@ module.exports = {
   },
   plugins: [
     `statics-plugin-description`,
-    `statics-plugin-react?lang=jsx`,
+    `statics-plugin-renderer?lang=jsx`,
     `statics-plugin-toc?maxDepth=2&keepElem`,
   ],
   routes: [{

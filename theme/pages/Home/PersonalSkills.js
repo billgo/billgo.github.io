@@ -12,7 +12,6 @@ const PersonalSkills = props => (
         <div className="py-mini">
           <Tagger size="tiny" className="mr-mini">JavaScript</Tagger>
           <Tagger size="tiny" className="mr-mini">HTML5 & CSS3</Tagger>
-          <Tagger size="tiny" className="mr-mini">Bootstrap3</Tagger>
           <Tagger size="tiny" className="mr-mini">React</Tagger>
           <Tagger size="tiny" className="mr-mini">Redux</Tagger>
           <Tagger size="tiny" className="mr-mini">RxJS</Tagger>
@@ -23,11 +22,14 @@ const PersonalSkills = props => (
           <Tagger size="tiny" className="mr-mini">RESTful</Tagger>
           <Tagger size="tiny" className="mr-mini">GraphQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Node</Tagger>
+          <Tagger size="tiny" className="mr-mini">Express</Tagger>
+          <Tagger size="tiny" className="mr-mini">Koa</Tagger>
           <Tagger size="tiny" className="mr-mini">Golang</Tagger>
           <Tagger size="tiny" className="mr-mini">MongoDB</Tagger>
           <Tagger size="tiny" className="mr-mini">MySQL</Tagger>
           <Tagger size="tiny" className="mr-mini">Redis</Tagger>
           <Tagger size="tiny" className="mr-mini">Docker</Tagger>
+          <Tagger size="tiny" className="mr-mini">Ethereum</Tagger>
         </div>
       </div>
       <div className="bb-auto bb-dashed py-tiny">

@@ -9,14 +9,14 @@
     "build": "cross-env NODE_ENV=production statics build"
   },
   "dependencies": {
-    "statics-plugin-description": "^0.1.0",
-    "statics-plugin-react": "^0.1.1",
-    "statics-plugin-toc": "^0.1.0",
+    "@teakit/statics": "^0.0.6",
+    "statics-plugin-description": "^0.1.2",
+    "statics-plugin-renderer": "^0.1.2",
+    "statics-plugin-toc": "^0.1.2",
     "teakit": "^0.0.3",
-    "teasim": "^5.1.0",
-    "teasim-analyzation": "^5.1.0",
-    "teasim-icon": "^5.1.0",
-    "teasim-statics": "^5.1.0"
+    "teasim": "^5.1.5",
+    "teasim-analyzation": "^5.1.5",
+    "teasim-icon": "^5.1.5"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Analyzation from 'teasim-analyzation';
 import FontFaceObserver from 'fontfaceobserver';
-import { Link } from 'teasim-statics/router';
+import { Link } from '@teakit/statics/router';
 import { StyleSheet, Document, Layout, Grid, Navbar } from "teasim";
 import Anchor from "app/components/Anchor";
 

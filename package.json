@@ -14,9 +14,9 @@
     "statics-plugin-renderer": "^0.1.2",
     "statics-plugin-toc": "^0.1.2",
     "teakit": "^0.0.3",
-    "teasim": "^5.1.5",
-    "teasim-analyzation": "^5.1.5",
-    "teasim-icon": "^5.1.5"
+    "teasim": "^5.1.6",
+    "teasim-analyzation": "^5.1.6",
+    "teasim-icon": "^5.1.6"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

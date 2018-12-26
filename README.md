@@ -1,8 +1,6 @@
 gitmoji
 ============================
 
-### [Gitmoji](https://gitmoji.carloscuesta.me/)
-
 gitmoji                                   | emoji 代码                   | commit 说明
 :--------                               | :--------                    | :--------
 :tada: (庆祝)                           | `:tada:`                     | 首次提交

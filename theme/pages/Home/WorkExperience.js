@@ -3,7 +3,7 @@ import { Card } from "teasim";
 
 const WorkHistory = (props) => (
   <div className={`mb-large ${props.lasted ? '' : "bb-auto bb-dashed"}`}>
-    <h6 className="my-none text-uppercase font-bold" style={{color:'black'}}>
+    <h6 className="my-none text-uppercase" style={{color:'black'}}>
       {props.position} 
       <small className="ml-mini" style={{color:'rgba(0, 0, 0, 0.65)'}}> @ {props.company}</small>
     </h6>

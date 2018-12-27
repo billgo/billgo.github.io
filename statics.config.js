@@ -5,17 +5,17 @@ const isDevelopment = process.env.NODE_ENV === 'development';
 module.exports = {
   root: '/',
   output: './',
-  theme: './theme',
+  theme: './source',
   themeConfig: {
     home: '/',
     sitename: 'BILLGO',
     slogan: 'A WEB DEVELOPER',
     footer: '2017 YIQILAI.TECH'
   },
-  htmlTemplate: './theme/index.html',
+  htmlTemplate: './source/index.html',
   webpackConfig(config) {
     config.resolve.alias = {
-      "app": path.resolve(__dirname, "theme"),
+      "app": path.resolve(__dirname, "source"),
     };
     config.externals = Object.assign({}, config.externals, {
       "react": "React",

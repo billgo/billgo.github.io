@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link } from '@teakit/statics/router';
+import { Link } from 'teasim-statics/router';
 import { StyleSheet, Layout, Grid, Navbar, Button } from "teasim";
 import { IconArrow } from 'teasim-icon';
 import Anchor from "app/components/Anchor";

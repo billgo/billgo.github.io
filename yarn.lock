@@ -62,83 +62,6 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@teakit/statics@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@teakit/statics/-/statics-0.0.6.tgz#d9f3700b39b4a4353043f099b85322e179ad9219"
-  integrity sha512-i/qEVCERco7VGvSEpduROklicCiGig3fhxmyxTN3VfsDFLCS8A7HXpjuwIewX0IlfzsA3bkAm6YEDadgq8kGHw==
-  dependencies:
-    "@babel/polyfill" "^7.0.0"
-    autoprefixer "9.4.3"
-    babel-cli "^6.26.0"
-    babel-core "^6.24.1"
-    babel-loader "7.1.4"
-    babel-plugin-add-module-exports "^1.0.0"
-    babel-plugin-dynamic-import-node "^2.0.0"
-    babel-plugin-import "^1.7.0"
-    babel-plugin-react-intl "^3.0.0"
-    babel-plugin-react-transform "^3.0.0"
-    babel-plugin-transform-class-properties "^6.24.1"
-    babel-plugin-transform-decorators-legacy "^1.3.4"
-    babel-plugin-transform-es2015-modules-commonjs "^6.26.2"
-    babel-plugin-transform-export-default "^7.0.0-alpha.20"
-    babel-plugin-transform-function-bind "^6.22.0"
-    babel-plugin-transform-object-rest-spread "^6.26.0"
-    babel-plugin-transform-react-constant-elements "^6.23.0"
-    babel-plugin-transform-react-inline-elements "^6.22.0"
-    babel-plugin-transform-react-remove-prop-types "^0.4.13"
-    babel-plugin-transform-runtime "^6.23.0"
-    babel-preset-env "^1.7.0"
-    babel-preset-flow "^6.23.0"
-    babel-preset-react "^6.24.1"
-    babel-preset-stage-0 "^6.24.1"
-    case-sensitive-paths-webpack-plugin "^2.0.0"
-    chalk "^2.4.1"
-    commander "^2.19.0"
-    css-loader "1.0.0"
-    empty-module "^0.0.2"
-    exist.js "^0.3.0"
-    extract-text-webpack-plugin "^3.0.0"
-    file-loader "3.0.1"
-    fontfaceobserver "^2.0.13"
-    friendly-errors-webpack-plugin "^1.6.1"
-    global "^4.3.2"
-    history "^3.0.0"
-    html-loader "^0.5.5"
-    html-webpack-plugin "^3.0.6"
-    jsdom "^8.3.0"
-    less "3.9.0"
-    less-loader "~4.1.0"
-    loader-utils "^1.1.0"
-    mkdirp "^0.5.1"
-    nunjucks "^3.1.3"
-    postcss "7.0.7"
-    postcss-cli "6.1.0"
-    postcss-loader "^3.0.0"
-    postcss-safe-parser "^4.0.1"
-    postcss-svgo "^4.0.1"
-    prismjs "~1.6.0"
-    prop-types "^15.6.2"
-    ramda "^0.22.0"
-    react "16.6.3"
-    react-dev-utils "^6.0.5"
-    react-dom "16.6.3"
-    react-router "^3.0.0"
-    remark "^5.0.1"
-    resolve "^1.1.7"
-    rimraf "2.6.2"
-    rucksack-css "~1.0.2"
-    sass-loader "^7.0.3"
-    shx "^0.3.1"
-    statics-helpers "^0.1.0"
-    style-loader "^0.23.1"
-    teakit "^0.0.3"
-    ts-loader "^5.2.2"
-    uglifyjs-webpack-plugin "1.1.2"
-    url-loader "1.1.2"
-    webpack "3.11.0"
-    webpack-dev-server "2.9.1"
-    yaml-front-matter "^4.0.0"
-
 "@teasim/icon-angle@^5.1.6":
   version "5.1.6"
   resolved "https://registry.yarnpkg.com/@teasim/icon-angle/-/icon-angle-5.1.6.tgz#acc9cc023ffa6f06b4a19e7c63236c1bfbd35eb0"
@@ -3997,19 +3920,6 @@ evp_bytestokey@^1.0.0, evp_bytestokey@^1.0.3:
     md5.js "^1.3.4"
     safe-buffer "^5.1.1"
 
-execa@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
-  integrity sha512-7XOMnz8Ynx1gGo/3hyV9loYNPWM94jG3+3T3Y8tsfSstFmETmENCMU/A/zj8Lyaj1lkgEepKepvd6240tBRvlw==
-  dependencies:
-    cross-spawn "^6.0.0"
-    get-stream "^3.0.0"
-    is-stream "^1.1.0"
-    npm-run-path "^2.0.0"
-    p-finally "^1.0.0"
-    signal-exit "^3.0.0"
-    strip-eof "^1.0.0"
-
 execa@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/execa/-/execa-0.7.0.tgz#944becd34cc41ee32a63a9faf27ad5a65fc59777"
@@ -4017,6 +3927,19 @@ execa@^0.7.0:
   dependencies:
     cross-spawn "^5.0.1"
     get-stream "^3.0.0"
+    is-stream "^1.1.0"
+    npm-run-path "^2.0.0"
+    p-finally "^1.0.0"
+    signal-exit "^3.0.0"
+    strip-eof "^1.0.0"
+
+execa@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-1.0.0.tgz#c6236a5bb4df6d6f15e88e7f017798216749ddd8"
+  integrity sha512-adbxcyWV46qiHyvSp50TKt05tB4tK3HcmF7/nxfAdhnox83seTDbwnaqKO4sXRy7roHAIFqJP/Rw/AuEbX61LA==
+  dependencies:
+    cross-spawn "^6.0.0"
+    get-stream "^4.0.0"
     is-stream "^1.1.0"
     npm-run-path "^2.0.0"
     p-finally "^1.0.0"
@@ -4501,6 +4424,13 @@ get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
   integrity sha1-jpQ9E1jcN1VQVOy+LtsFqhdO3hQ=
+
+get-stream@^4.0.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-4.1.0.tgz#c1b255575f3dc21d59bfc79cd3d2b46b1c3a54b5"
+  integrity sha512-GMat4EJ5161kIy2HevLlr4luNjBgvmj413KaQA7jt4V8B4RDsfpHk7WQ9GVqfYyyx8OS/L66Kox+rJRNklLK7w==
+  dependencies:
+    pump "^3.0.0"
 
 get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
@@ -6520,11 +6450,11 @@ os-locale@^2.0.0:
     mem "^1.1.0"
 
 os-locale@^3.0.0:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/os-locale/-/os-locale-3.0.1.tgz#3b014fbf01d87f60a1e5348d80fe870dc82c4620"
-  integrity sha512-7g5e7dmXPtzcP4bgsZ8ixDVqA7oWYuEz4lOSujeWyliPai4gfVDiFIcwBg3aGCPnmSGfzOKTK3ccPn0CKv3DBw==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/os-locale/-/os-locale-3.1.0.tgz#a802a6ee17f24c10483ab9935719cef4ed16bf1a"
+  integrity sha512-Z8l3R4wYWM40/52Z+S265okfFj8Kt2cC2MKY+xNi3kFs+XGI7WXu/I309QQQYbRW4ijiZ+yxs9pqEhJh0DqW3Q==
   dependencies:
-    execa "^0.10.0"
+    execa "^1.0.0"
     lcid "^2.0.0"
     mem "^4.0.0"
 
@@ -7224,6 +7154,14 @@ pump@^2.0.0, pump@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/pump/-/pump-2.0.1.tgz#12399add6e4cf7526d973cbc8b5ce2e2908b3909"
   integrity sha512-ruPMNRkN3MHP1cWJc9OWr+T/xDP0jhXYCLfJcBuX54hhfIBnaQmAUMfDcG4DM5UMWByBbJY69QSphm3jtDKIkA==
+  dependencies:
+    end-of-stream "^1.1.0"
+    once "^1.3.1"
+
+pump@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
+  integrity sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==
   dependencies:
     end-of-stream "^1.1.0"
     once "^1.3.1"
@@ -8824,6 +8762,83 @@ teasim-localization@^5.1.6:
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
+
+teasim-statics@^5.1.6:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/teasim-statics/-/teasim-statics-5.1.6.tgz#b0493f4455340461b2a23f7f6cb48721e4a19e8a"
+  integrity sha512-06dS+ey7A1idP2TUJPecEfbKs4hAcdvZ6u1G4XqAtJ2LmT7RgR9XHYZvv9Rrvco3suP6omFJNXfmgWhznJHTpg==
+  dependencies:
+    "@babel/polyfill" "^7.0.0"
+    autoprefixer "9.4.3"
+    babel-cli "^6.26.0"
+    babel-core "^6.24.1"
+    babel-loader "7.1.4"
+    babel-plugin-add-module-exports "^1.0.0"
+    babel-plugin-dynamic-import-node "^2.0.0"
+    babel-plugin-import "^1.7.0"
+    babel-plugin-react-intl "^3.0.0"
+    babel-plugin-react-transform "^3.0.0"
+    babel-plugin-transform-class-properties "^6.24.1"
+    babel-plugin-transform-decorators-legacy "^1.3.4"
+    babel-plugin-transform-es2015-modules-commonjs "^6.26.2"
+    babel-plugin-transform-export-default "^7.0.0-alpha.20"
+    babel-plugin-transform-function-bind "^6.22.0"
+    babel-plugin-transform-object-rest-spread "^6.26.0"
+    babel-plugin-transform-react-constant-elements "^6.23.0"
+    babel-plugin-transform-react-inline-elements "^6.22.0"
+    babel-plugin-transform-react-remove-prop-types "^0.4.13"
+    babel-plugin-transform-runtime "^6.23.0"
+    babel-preset-env "^1.7.0"
+    babel-preset-flow "^6.23.0"
+    babel-preset-react "^6.24.1"
+    babel-preset-stage-0 "^6.24.1"
+    case-sensitive-paths-webpack-plugin "^2.0.0"
+    chalk "^2.4.1"
+    commander "^2.19.0"
+    css-loader "1.0.0"
+    empty-module "^0.0.2"
+    exist.js "^0.3.0"
+    extract-text-webpack-plugin "^3.0.0"
+    file-loader "3.0.1"
+    fontfaceobserver "^2.0.13"
+    friendly-errors-webpack-plugin "^1.6.1"
+    global "^4.3.2"
+    history "^3.0.0"
+    html-loader "^0.5.5"
+    html-webpack-plugin "^3.0.6"
+    jsdom "^8.3.0"
+    less "3.9.0"
+    less-loader "~4.1.0"
+    loader-utils "^1.1.0"
+    mkdirp "^0.5.1"
+    nunjucks "^3.1.3"
+    postcss "7.0.7"
+    postcss-cli "6.1.0"
+    postcss-loader "^3.0.0"
+    postcss-safe-parser "^4.0.1"
+    postcss-svgo "^4.0.1"
+    prismjs "~1.6.0"
+    prop-types "^15.6.2"
+    ramda "^0.22.0"
+    react "16.7.0"
+    react-dev-utils "^6.0.5"
+    react-dom "16.7.0"
+    react-router "^3.0.0"
+    remark "^5.0.1"
+    resolve "^1.1.7"
+    rimraf "2.6.2"
+    rucksack-css "~1.0.2"
+    sass-loader "^7.0.3"
+    shx "^0.3.1"
+    statics-helpers "^0.1.0"
+    style-loader "^0.23.1"
+    teakit "^0.0.3"
+    ts-loader "^5.2.2"
+    uglifyjs-webpack-plugin "1.1.2"
+    url-loader "1.1.2"
+    webpack "3.11.0"
+    webpack-dev-server "2.9.1"
+    yaml-front-matter "^4.0.0"
 
 teasim-stylesheet@^5.1.6:
   version "5.1.6"

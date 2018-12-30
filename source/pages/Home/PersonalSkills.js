@@ -30,6 +30,7 @@ const PersonalSkills = props => (
           <Tagger size="tiny" className="mr-mini">Redis</Tagger>
           <Tagger size="tiny" className="mr-mini">Docker</Tagger>
           <Tagger size="tiny" className="mr-mini">Ethereum</Tagger>
+          <Tagger size="tiny" className="mr-mini">Rust</Tagger>
         </div>
       </div>
       <div className="bb-auto bb-dashed py-tiny">

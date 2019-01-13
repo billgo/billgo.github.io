@@ -33,7 +33,7 @@
     core-js "^2.5.7"
     regenerator-runtime "^0.12.0"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2":
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.2.0":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.2.0.tgz#b03e42eeddf5898e00646e4c840fa07ba8dcad7f"
   integrity sha512-oouEibCbHMVdZSDlJBO6bZmID/zA/G/Qx3H1d3rSNPTD+L8UNKvCat7aKWSJ74zYbm5zWGh0GQN0hKj8zYFTCg==
@@ -62,289 +62,289 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@teasim/icon-angle@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-angle/-/icon-angle-5.2.2.tgz#601cbb5a0dfe3a10e77a308aa728752ef3769a55"
-  integrity sha512-5dFy3EIGKjKeSdexEHosFAsr4iKhDKv4gkkKoVOHPJJBu6QIN6Aneacela3zQuIdARo+/Ou2ds14LhkFj5NhXg==
+"@teasim/icon-angle@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-angle/-/icon-angle-5.2.3.tgz#868abc0efeae16c1902cac4bc88d74f28c17bd57"
+  integrity sha512-eOQPnHhcqicA8neUEj40xCfAyJHiiZozLClHSPu4PjB9+WfgesV0uLXBMM1l359otahdkoGwhbSJJCItAUfzzA==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-arrow@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-arrow/-/icon-arrow-5.2.2.tgz#20094456b87b435d3736f9936380190f338fe0db"
-  integrity sha512-haKtiyR1QuDf6guP5AlqU3MF8jjLfjYy6dwBNrs5S9HLiVCgmfO/3siFm6q1aHi2Sc+jhmRNBwvfBhpxyJxuVQ==
+"@teasim/icon-arrow@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-arrow/-/icon-arrow-5.2.3.tgz#5dd9ea4cbcc3872a952704dfc941be4be26d3abe"
+  integrity sha512-B1x8C5PR9fktO9wtMd0y0ilEXMhzKOSNFF5UkHYz1t4zBaLfEE4I8r9MxfICe3YU7zuiDJZ93DA52ExfSpvLLg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-assist@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-assist/-/icon-assist-5.2.2.tgz#2d7bfd05ba93164c1d12d059f2b50dd934cbae88"
-  integrity sha512-OZtMvjXSCDEAMbWoC73pUnb1C6XppqQLg4S9oDVlzMzssVCPYYQZDV6iEV5Ggsq94VOfcyRCwlVOv2wGD3R0VA==
+"@teasim/icon-assist@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-assist/-/icon-assist-5.2.3.tgz#624b55ac9052a824dc973db72ceb97656b5c4eb0"
+  integrity sha512-AmisGsC8z6HsNNFVR28lw0FQNIYfjbTjqv3J1fjMXVh70eZqn3F/LKpwtLy23vSTI0RjLSFkuVRuwtMEOs9AjQ==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-brandlogo@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-brandlogo/-/icon-brandlogo-5.2.2.tgz#f2a632e447abcd62d40eef152343423c220400a0"
-  integrity sha512-hux9EH/WMVjCYOPp+xsyvDXwJLI7s6P8Fx3nJKdP7ZHvnVMzCLI9w4XpLvzd6+QatuVxlADcU5ku3kQnJgJ+Dw==
+"@teasim/icon-brandlogo@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-brandlogo/-/icon-brandlogo-5.2.3.tgz#32a24872f5645157b2f4434987b3ccd5b51b0746"
+  integrity sha512-sVLYr5xWTJsipAKGnE3gEc2VXbsWpxM9R3MJoRe9yC7GNd5Pfx88dvCllyKUbRrt+PVKaIOCVvslH/ELdqRqCg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-circle-angle@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-circle-angle/-/icon-circle-angle-5.2.2.tgz#c7828fecb040f1e3a0666f7040c5c37465114ab0"
-  integrity sha512-Zq3Oi/Cn3IWCnGVkQfRZcxPuXd4bzepcFJtJD+8jK01KS7RdT2/nQ0HchB4cLchBjb5iJRKzEqoLq+SPDhR/wQ==
+"@teasim/icon-circle-angle@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-circle-angle/-/icon-circle-angle-5.2.3.tgz#ce515a0a411cb68130600eee6af396a70bb7d5c5"
+  integrity sha512-FKp1K7C2/coX06aRan2Ku4+azYP2Dl4LmEtmEl3dmeCWIaaKak9UPXTmYbL1DsQQoeNF7Nn00XTWL7gg6Vu2hA==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-circle-arrow@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-circle-arrow/-/icon-circle-arrow-5.2.2.tgz#f5bc895d7f12488a9b81182406bd640538500c78"
-  integrity sha512-VOi4j+ONThwxMVE6k16KMTeaawOIkpDlDYh4/JE38hyqSwTDA3RaER3HCs1ddsT8Gnx2gg9QqedSU/7Kuj7FMQ==
+"@teasim/icon-circle-arrow@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-circle-arrow/-/icon-circle-arrow-5.2.3.tgz#9843a0612adaf94411d30b509a007fff9bf06200"
+  integrity sha512-IXxf98z2bLqc36WlNNj7wQ15cNvsk52cakvU/vuWNVl4S0pas0VyPRmvFzJigpOqNLe/M9j+m1XC6jeV4Ztc1g==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-circle-operator@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-circle-operator/-/icon-circle-operator-5.2.2.tgz#be77c7286d81c9b2392bd271f29382d1c5ce4532"
-  integrity sha512-vRqER3IybYNFIGimdsaks2QYVAKMswU5IfFfFq17hJfa5vSUI6+EouEZAhrUHUGHmRbUkN6HxTe76q3WhfGdLg==
+"@teasim/icon-circle-operator@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-circle-operator/-/icon-circle-operator-5.2.3.tgz#f472a518dc5dda5fd1eb3f44b77f2e0e01cfa419"
+  integrity sha512-ea4sY9IWbCsUyyx/vsvydq8IQeNG26rbhyoojByIFK0GFAjUgTlyk7+A35TGHCv6dY/U3N2VrVaAxALU2E9shw==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-fileext@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-fileext/-/icon-fileext-5.2.2.tgz#6cd035c453973fe5541d147babc4ad5fee51effc"
-  integrity sha512-FU1EaFNQZQNP5IhrnCdbp4G12NWdCPFdTNcLu7z4jEmjI+tkvrbzhrbxh1cBk36gtzzJjxMelG5NRBTY4QqIdg==
+"@teasim/icon-fileext@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-fileext/-/icon-fileext-5.2.3.tgz#c4d641e3399761460010d5044d93907a1a1d0ab7"
+  integrity sha512-6vooXJ8BKjX+PHnoPO0Rl02C0BHSVyTepZ+tIneYNq5dBRkln0aQsPhArc2gujGBpYxJwN9UZp1SDkTt/QhNxw==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-history@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-history/-/icon-history-5.2.2.tgz#7cd8951fc951f9dbde318a918849702efb62a7a4"
-  integrity sha512-N1KBWFFeePnocFy9IuxA9PA+qB1HPqXQhZwfYpvqeXGM+oWuh2PYa802V8N0DrgH1rq2bbReqA2g06XIAq00QQ==
+"@teasim/icon-history@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-history/-/icon-history-5.2.3.tgz#6ba8d7230e915ef9ff88f25ff9cce63627b218bb"
+  integrity sha512-/ZlpGGdeZo8xMvC94oGNf4VnTKDbCowlJWxrNlq8vVwbMo06NidxaFMFc3fgIDRgOyiGB2OIEbPCTmE3jsPm4g==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-home@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-home/-/icon-home-5.2.2.tgz#1824948e266d33654c55d9615eee42a68a3830c3"
-  integrity sha512-EItTZUV12+yLj+sTD+F10EOeZZMoorH8Wzos+Kz7ie65opf4ZpuZHJ0oUu5CnBsR3ZMRuME/lK45p7WAM69zOQ==
+"@teasim/icon-home@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-home/-/icon-home-5.2.3.tgz#1dedbe10cd99545546d26f1c44d39d835fdf968c"
+  integrity sha512-jBmxXLpnXCW8QMleqa7XbCXNt3QcUWdzqqcsHccnx89hjxtxHb6hivh8dNf4yQlMYYTLJFXE2bMIc8Sx4IliEw==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-link@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-link/-/icon-link-5.2.2.tgz#9b8f39717f4fba60978f7b874848f38c3dcde86e"
-  integrity sha512-MmLMNrzJG4jrQL+VB3cBa0Hw0gx82+mw6vyIh9syb3lYuKfcKhRLv4pd/C4OBtmdo2C1Yr7DiNC5VBgoWeHMVQ==
+"@teasim/icon-link@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-link/-/icon-link-5.2.3.tgz#d5117a6871a84293c5065701892ac60fe54bd56e"
+  integrity sha512-ZVARmeV+GC+kQ33St4sPD8UnqGJ/TSgYBzZp40NpY/HQrqb6sH2wIFkvevGL/1QCzEl1CdDE59qO6lRsualvjQ==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-list@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-list/-/icon-list-5.2.2.tgz#3b5c4360efb2fb63784a793443c985bd61f7c618"
-  integrity sha512-9W5Phcjs6gZROYtuvSjcJ+CbR3erLpTp+1b46axTBTiZ9nMWV4ZfhFEztEnC5oKYCrfjTASFEkRJsb8oU19Oeg==
+"@teasim/icon-list@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-list/-/icon-list-5.2.3.tgz#2ff5abb7cb9c58b79927460522e35ee03ac25c8e"
+  integrity sha512-e09HWdHltGlFbYMcg0PO8utyg0k27TlcQzWT/djZxvDY/x9nU7vJ6LmjVwf/tcvYBqTFjaG2koowVk+t3y4pLg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-loading@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-loading/-/icon-loading-5.2.2.tgz#32111c2c72a80aad807ccd0b445fdb776e7b2707"
-  integrity sha512-HM23hgN+GBKSTCRkLGpLH2bzkvlEUgzww5ZA5V/4nFweahkK1ayeycjgN44e7ekFvlJBnVRHxGHhIVxW2jmaTA==
+"@teasim/icon-loading@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-loading/-/icon-loading-5.2.3.tgz#c5575da5e9468f7c1015cdda4fb107302c4de52f"
+  integrity sha512-rt6G3OZiTVV9aJYX6oArCFqw6/VlNKpsafxrKeWzmgO4Ve4j/u6PBl6kC2Dzzc4INh7rCx4erBYb7PyFZGTgEg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-lock@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-lock/-/icon-lock-5.2.2.tgz#7c8d864e12332d200fc66ddd9325985deca5343a"
-  integrity sha512-m0prkQGS6LiPUscSrC+AHEGzI2ERETdNf0u2/QbViZF8sduUthDYoaM0U2AWl7m4UHv3YvQIMlQdBRp47Jz+mA==
+"@teasim/icon-lock@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-lock/-/icon-lock-5.2.3.tgz#1d43588adbb8073f253fc35086abc4fcde3f3044"
+  integrity sha512-/w12VfOfwpenGoGqnQ5WtOdaYbMeAzYc2ioSEsBUr36cSAWA/69/QhwOh8G6Q9oRlAxC7AImgXO5nW8WCtV/og==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-operate@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-operate/-/icon-operate-5.2.2.tgz#7f105c579605e9a8276a4b34db92ae54fc707872"
-  integrity sha512-6C/p0FL0kpsJ2MaSRcJd5lESII2k+r4vDjQKkpn8PYOV/iG4wV+o1yaasfSrNZJnUEf6H1QjM/mYww/LuXrT1w==
+"@teasim/icon-operate@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-operate/-/icon-operate-5.2.3.tgz#c21a7f885a11248342733e271e3b9eb69998641e"
+  integrity sha512-9rXWqy946hLn2jWtuPqoywP5EX0S9t1KUX9bFeUIuEwr4gHGiGd9Vm94K7kmdOEaceojFrwSY+9N7TIO7WrYtg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-operator@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-operator/-/icon-operator-5.2.2.tgz#89f6a2a51cd06f66ef05b2572060b3098ec4c5ce"
-  integrity sha512-UhdaoNi2iQTCAeAVU0dgVeug+xpJRs/JvRjk8tTg/ND1p1KmsB5VlWq66BqB3gkfw1+NNwX69fbvBcPN+OuROA==
+"@teasim/icon-operator@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-operator/-/icon-operator-5.2.3.tgz#ac0566a4f926464d0896ee863570fd10a06ea4f1"
+  integrity sha512-cH1LtUJ4bn+tGyO9ZqdyFbwY8eCyG3PUb3kdszRoFc06PF8h8yPzuCsdxfJBrY/ikQYTg+GDdQfST029RG38Dg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-pencil@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-pencil/-/icon-pencil-5.2.2.tgz#d03f89826b326df58519b313f9d976e4cdfd1afa"
-  integrity sha512-ghKXWa0M3v3EQLJxK46EiJ1eXvPUo6vuTpVWXVF37K7HtHskhVMXOJ76mZpxvBo6OpOQxsOJ5jtxbJJx8Jl9fA==
+"@teasim/icon-pencil@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-pencil/-/icon-pencil-5.2.3.tgz#a212ebbbdb0fc3be19c190f281a529ef1f6b57c7"
+  integrity sha512-kgpFGDhCTdpurbqA87q2/5jECMNTWmcibO3cmDxV2vo43EBIkrB/o5DB5sgCItuYlGz5CQRCRE6y5O4LBveGEA==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-person@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-person/-/icon-person-5.2.2.tgz#99a0916b6ec692b1ce104a50e9bc74394579af26"
-  integrity sha512-o/RmQSgV/0wowqI90JDCB5mVzxkGT6rowDNjv6vRp3cCokcGB0LxSlJePejbX65R7Bcrlqkdhg2wa9boNrHu3A==
+"@teasim/icon-person@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-person/-/icon-person-5.2.3.tgz#9fdd8a70753ff203a0fd7343e34fb70ff0479386"
+  integrity sha512-ogtKLhBt0/wWrcD8a98G1RZYUuPZ5RnmpIqiIsY0SAFSNjIi8rtLAOMZFucGAOeuQG5BX+S1Zaej7WYo3xhDuQ==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-report@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-report/-/icon-report-5.2.2.tgz#235193c73eef534ecaf1bf03e61aebae5e6e1de5"
-  integrity sha512-xa/Wo3De3gZ+8YXM5r6yrur6QuExAvGx5UBLhuIU3Bbf3UnkXJWcj/7dE05OefaXNH6RsqLHWQOzcJRJAHIJTg==
+"@teasim/icon-report@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-report/-/icon-report-5.2.3.tgz#6ef2753440b0a47ef93e8625ef37cd328b229ab6"
+  integrity sha512-P28EdM91Odon4kdOdJcbtiGEyTJNt3exZF6KLA5ScO2NWc9Ukgjzfy4vRUlsoc7VNF1c4g9WMpR/6JjfXTB2hg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-search@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-search/-/icon-search-5.2.2.tgz#9da577f072e539138f709501a47cf7366a46b31b"
-  integrity sha512-7Mo1q5DFGuddjF25FrQJkhIrnewAhalfr/neRDfyirouY2b/dtxTMD8tTXpTrh/vPrlmDBomxGqeM8Df3GjWQg==
+"@teasim/icon-search@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-search/-/icon-search-5.2.3.tgz#8efdd41eb570469084b7bd67703c6d45c7c0f4c3"
+  integrity sha512-6F1senaqOf55LtjWZnzK9bApxtSK1n7l3A5Uoughowe88hNBzmWTOfy0ZYbmoDjysiXaM1J63D2FmGmZZio3GA==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-setting@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-setting/-/icon-setting-5.2.2.tgz#aea45ac415acae5f8172405fc397530a5f1613b9"
-  integrity sha512-Sfh2fU6KnMikKPO1Y+rZzloKKBbLyo+DBvD4bswK7X6Wrf0CGnhPkzscXknSj3Y8x57NBUQiGoPGIJwy1EtGvw==
+"@teasim/icon-setting@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-setting/-/icon-setting-5.2.3.tgz#8c3c6979593cb15412b08b0a2aa8774906dc3c51"
+  integrity sha512-OnkcDrDrRIJx3MzAxaLOj3lRg3g+GXX1qFNBYcnVCwMnCNlPg4j8yR3NAiPaTUwIQaXo7Sdi//o/pkTfKxQxfg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-spot@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-spot/-/icon-spot-5.2.2.tgz#9850a48404322a277b077e94600d52f726e91ec6"
-  integrity sha512-8/04NmnrXvs3Foi5kQxb0RVFuQpH0SUdajfPNYK8zhRQ44EtfU9dgX4TFhH9RyNUqKC5LYgXItzZ+ztibkayBA==
+"@teasim/icon-spot@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-spot/-/icon-spot-5.2.3.tgz#69449fc39c3cc0e30377cf4e5b8ad3ac81ef235f"
+  integrity sha512-nsuuQWAcaFh/w5EMzioQmQ/O1S8/98bpbarBW3gzLM11OJW5lO/Fi3XhqtJR+iOz5pwCpuE6VDqOoX3umXfRAA==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-status@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-status/-/icon-status-5.2.2.tgz#2d0e68f92379f36bc4d671d00a4e1e6febf09ff5"
-  integrity sha512-I7bqVQO1mMVCxUtsxLvjG8Ni/ftcdWIUTtCFArQ4OlFRPwdnWV0DTCaplJ5HD0UcWA7JhIjY4yFDXUUKFwVsDA==
+"@teasim/icon-status@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-status/-/icon-status-5.2.3.tgz#1b025771437c9a63b308e7450b4c7b40fa51898e"
+  integrity sha512-nibQzW7Jh0AXeIGdle9XuRwNYxAIYfUClRmK7qHwbdiPhfZSHRXjqbP+zS/T0qmlvcMc8VntC0Ct44QRbzEx0g==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-toggle@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-toggle/-/icon-toggle-5.2.2.tgz#9a57af35e60ae915b01fe1e2555bfe9f1137b95c"
-  integrity sha512-kZw91aWXIo25WcmTKJtnn/34W2sBJOz3xmNQPJraguEPn6zSjiNAJ9vAd2uVYrihjcMaDyyXSMwkQmXdf7QZGA==
+"@teasim/icon-toggle@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-toggle/-/icon-toggle-5.2.3.tgz#c602c07c65d8d16648dd071250c8f02b67e96e5f"
+  integrity sha512-RBiYX1jWQzGJaIwAlR8KlmzyVzREa5nq+s9+p5n/paQEuBjQvBIMu10yhT3RmI07sc+jY/RGyZ6LDSztYrWEEg==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/icon-visible@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/icon-visible/-/icon-visible-5.2.2.tgz#0d52673f8e76e2d238bd178d1b8dcb3f40567f28"
-  integrity sha512-Zs2BjVmyizj+4e0hqR5ZF7THbD7qpaOQdHoL8CL8StkVgZukO5rVy5PgmbYv0etOPP/8+BKFu/tJRobPVr9RBg==
+"@teasim/icon-visible@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/icon-visible/-/icon-visible-5.2.3.tgz#0484ff65d0e34811a7abaacdc05b412da8487866"
+  integrity sha512-tqsPkepfa3mVSV5eGd1q1f8Q+npwQHZxZthC02tvpIVJoUx1XCllVzZ0MUX8XpF7uS5XzBhuyBZHVGKwj1dQsw==
   dependencies:
-    "@teasim/ui-icon" "^5.2.2"
+    "@teasim/ui-icon" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
 
-"@teasim/ui-avatar@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-avatar/-/ui-avatar-5.2.2.tgz#f4f7257960a9cf3f2e0d2e32920d156429685b45"
-  integrity sha512-EaYUUEb98tg+r7py+WCKxz4TCwJMQicShnfW3snI4tP5FVBBSAjJDgjOhP4NnlBFW/bjUCa00uw3rQ7uin+XpQ==
+"@teasim/ui-avatar@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-avatar/-/ui-avatar-5.2.3.tgz#e146f3a0b9de1819006e43f1c8969ce314344823"
+  integrity sha512-a0MVjo7dU+tsCVia68ak1lUF+Pz5jPMS18uS4bodS8rsgrxCWBRcUMojcAcqQAhbrNsaa9QrWew4fbfihSUg9A==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-badge@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-badge/-/ui-badge-5.2.2.tgz#7a8f4948aacf1aea490ae9213f09238f24bb2648"
-  integrity sha512-rZgYmmoO03oIKJbqZP5KTWWzlEcM6vcDYg2Yd6nFE1w/5n6dchVZUECt6Gvl73cEIZTVTo4EJAaaP49+bNRRYw==
-  dependencies:
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-breadcrumb@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-breadcrumb/-/ui-breadcrumb-5.2.2.tgz#cf0cd2589fb8bc5c91af53c517e7c1d9ee6cbfb6"
-  integrity sha512-ySKhi2SJ5erUPyhn7tWw+G2+Y8i2ippkNbcmYToSiNeXG01I4C0CPOxwP2tkf77zqHjuTBHPD94qZ/gzNleI+A==
+"@teasim/ui-badge@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-badge/-/ui-badge-5.2.3.tgz#bc8a086f6ce8241d847227b6a4a3c3ae42c0b44f"
+  integrity sha512-fKqKIEdgevQqHVNOUO3/rDWg1A4mRNsRQyG/ABRAYpVbexbxR94+lw0xRcJTD0HGly6IVmCWanjaW+g9pey5cQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-button@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-button/-/ui-button-5.2.2.tgz#c31420e460bf04c5ed18c17c465b7f2e706ef1e9"
-  integrity sha512-JDXS58jMdTVSAmb1kda9HEnmHIe5mmx7kBV4LOAVAxEOtqMSCFv5sUsCYgdpK9cegGsKq8IWhSagWsfulgoVmQ==
+"@teasim/ui-breadcrumb@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-breadcrumb/-/ui-breadcrumb-5.2.3.tgz#a8930697e7b84e5c9a67e81d747e45c86af2614f"
+  integrity sha512-xzb4i8QIC3QYtZz/5J2aetCQL/vk/OIY05S7xa30BXhrUZWMgC+tfxRUXe5bhPn8CFCl3lVBMkvCsSWrAPVYeQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-calendar@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-calendar/-/ui-calendar-5.2.2.tgz#56ab50f20755c6cf2b008496ba26eeeb449607d1"
-  integrity sha512-6x0gQEU8JWPEDMJpXz329nDOaB3NtIvvPyKFzA3JlQNYJRF3uNPPYRYCisbdPQzbo7/CHzfTh4vudRl2QTpXug==
+"@teasim/ui-button@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-button/-/ui-button-5.2.3.tgz#3d11e02c3c092ed7adedc6a0ba1a9be8f3022d82"
+  integrity sha512-XIOA7M6p6bNwoJxhBcx0kmGvO9bHRmoQLRGM3anMx7JX7crZne8zgkXu8BBY7+p4ef/9AIkHSLOtooBM53ADOg==
   dependencies:
-    "@teasim/icon-angle" "^5.2.2"
-    "@teasim/icon-operate" "^5.2.2"
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-calendar@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-calendar/-/ui-calendar-5.2.3.tgz#ee465ac42a624d3e6a98fb4cc7696ca291c2dfd9"
+  integrity sha512-Aildu2gXxJToaMf4aJpoplICpI3Fz3xQM6xiDZc52I3b32EG0W4gl58iIJiYgLYZkkTbbAEzFW6neW9AzI0W/A==
+  dependencies:
+    "@teasim/icon-angle" "^5.2.3"
+    "@teasim/icon-operate" "^5.2.3"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     moment "2.23.0"
     prop-types "15.6.2"
     react "16.7.0"
@@ -353,57 +353,57 @@
     react-toolset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-card@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-card/-/ui-card-5.2.2.tgz#0ac28efb6f99723664926f88ceeee11c455d0de0"
-  integrity sha512-pzujgJL8H+t2dw+WCp+M3KO+A2gAMTxaqJtLrIybLRnr6v+J5Vf3XzQSy+DrP/QLqfnMpNYEc4Zz7cZ3QZ7IlQ==
+"@teasim/ui-card@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-card/-/ui-card-5.2.3.tgz#ab6d2ba23594fbe9d3d7e80898feb4562275e678"
+  integrity sha512-XpeJqCZPE/qrd1ADDs/c24MDvsVSGlxLkixsIOSOXdcWiXZilqSDRHdQavNFGV+ZkPHl89juW9QfKGRRAyCHGg==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-carousel@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-carousel/-/ui-carousel-5.2.2.tgz#467040f06ce0d8e9344bf4f6d3e892ede971cc23"
-  integrity sha512-QGGo00Hw/7AVUZte1ezbaVZGaB8NK/dNpASqtVw9XEF3PfHqG08roGUq9yqKxJiNPx7SR5aiKwiIzbY0bqyHuA==
+"@teasim/ui-carousel@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-carousel/-/ui-carousel-5.2.3.tgz#17d1eeebf1f3b4644efb19d54281e75387735031"
+  integrity sha512-EZjUJKPIbXGe8znaKH7dQXJv2X9vhgMS0g0KTEighV4J74XG6KoW8HZuTHXFujRZQIsFeedZ0OHc5kwikH29sQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    "@teasim/ui-swiper" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
+    "@teasim/ui-swiper" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-checkbox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-checkbox/-/ui-checkbox-5.2.2.tgz#a1d738d259fb0fa78597d47eb5972a509fc632e7"
-  integrity sha512-yBCCFCxKPEvzdrBn3K/6doB2QgRr/NWgvmyi6ztdcFmXyAn+5Q0i29PfYKpEtHaKc0xXXbqbkX3/xrqAqluerw==
+"@teasim/ui-checkbox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-checkbox/-/ui-checkbox-5.2.3.tgz#078abe38c8ee6b44d864ee10d9aedd51c1c2ccf6"
+  integrity sha512-UdON9kKuSTw+P+H2CGU/9ti2QB4d6NXWs8/jQQC/aeRG8VYIyeXFWAxdWdjMkayiyqx2RTv58YhhBDNhnqOkCQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    "@teasim/ui-toggle" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
+    "@teasim/ui-toggle" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-datebox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-datebox/-/ui-datebox-5.2.2.tgz#f8269337630162d7b06afad429cc266de8ec6480"
-  integrity sha512-KoIbEbCIm2VkE59rgZ3iV2AQwaB1B/cb/o2knaTDBPGI6Ioc8R8TmfVUnXsryVouOkCaUlI9xUzybHX96rijMw==
+"@teasim/ui-datebox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-datebox/-/ui-datebox-5.2.3.tgz#b04c32d7b20aac8a2b6cdfdfd4bca3e1b5ac17f2"
+  integrity sha512-GUncVFbx04GE7bZ22JtdW1lNi8gtM1NiD4kIp2amKNNx4eqn/nwMK+Nf1IkDEdCzESLK/OVxiUNMGUxgpYxvHQ==
   dependencies:
-    "@teasim/icon-angle" "^5.2.2"
-    "@teasim/icon-operate" "^5.2.2"
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-calendar" "^5.2.2"
-    "@teasim/ui-frame" "^5.2.2"
-    "@teasim/ui-input" "^5.2.2"
-    "@teasim/ui-portal" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/icon-angle" "^5.2.3"
+    "@teasim/icon-operate" "^5.2.3"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-calendar" "^5.2.3"
+    "@teasim/ui-frame" "^5.2.3"
+    "@teasim/ui-input" "^5.2.3"
+    "@teasim/ui-portal" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     moment "2.23.0"
     prop-types "15.6.2"
     react "16.7.0"
@@ -411,150 +411,24 @@
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-divider@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-divider/-/ui-divider-5.2.2.tgz#28262d8ce44c1e7e7231038e5a2d69f5582ba7ea"
-  integrity sha512-/EP8sTiSr0C5an3Icv2aehmYUCB57IzyVPG2DTv6IHNx23iVUBznFafNj4d7EZlKIGys3jyj6Yn7a8aSfry4Rg==
+"@teasim/ui-divider@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-divider/-/ui-divider-5.2.3.tgz#d07a6d95d95c02be8c8aafd48bc371edbaf1b11e"
+  integrity sha512-QvtZFpznoBOq1BL3KhaF8uFloHcUDVqZn3u+yGWhjT1rMfZxISzfL/53RyikI7I9HpsmDFDpXUV5X7rQLd6HpQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-document@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-document/-/ui-document-5.2.2.tgz#8295da67180bc5bd8ea2a3e8f9168f9394509a58"
-  integrity sha512-V6QWQpDvGsm1o7pWgxXvs2l5bvmQRYpovhBDTnHYxmaXS6H0B/SPShVbpJK3MshDe8UXDEOFV7omHM9wdZb7Nw==
+"@teasim/ui-document@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-document/-/ui-document-5.2.3.tgz#82466ead68397f9497a6fe67e547a2abf8bf4d80"
+  integrity sha512-sw0clNKswG5pnD8YaBgemDGIG9OptGAXkHcuo4e+bRxv0vU3OicOtPFxjf0xfmtekwuwBbBxjmzIAyyHEzUGlA==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    react-toolset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-dropdown@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-dropdown/-/ui-dropdown-5.2.2.tgz#7783523054ff08465af3f2d454bda9bab4465b4c"
-  integrity sha512-8IpeVr536dhl5h1ZiEDDyga6oz9lvHuLlf83/HiRKMQl+74J+TzrbNXhEp5GI6t5I+1WRVEpa3PTtUQGh5Z5nw==
-  dependencies:
-    "@teasim/ui-popover" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-dropmenu@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-dropmenu/-/ui-dropmenu-5.2.2.tgz#58f280c274169689782172b38fa2a840f5ce1b79"
-  integrity sha512-tpk3g4HaoGhAtulMVU4QxmZXxmD8zvBFK0Pg/4/wXhESBBdSIfiwAPCy6K3cESSteX/SIruCfRIVePrVrTTTAQ==
-  dependencies:
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-dropdown" "^5.2.2"
-    "@teasim/ui-menu" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-ellipsis@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-ellipsis/-/ui-ellipsis-5.2.2.tgz#fccb20ac406cf59052e33784571dff569b75eb9b"
-  integrity sha512-DLvUjGRkv6t+4plVpHOZHM4IajIP5UD+QQr7gXk+ljqYaa4BpMCVxPgKBRjjl268yKjz4BswoBiia5d1eudsew==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-exception@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-exception/-/ui-exception-5.2.2.tgz#8895293bac9d96788b3cd806d68061ac9dad7d2f"
-  integrity sha512-Pjjy846VIw9+TTH1o4S7Y8hbGT3c23fS0CnjzZAUz44DpEXl/cOGHQ2py007shkhsqW41xsjJwZ59E7R3cTl0A==
-  dependencies:
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-field@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-field/-/ui-field-5.2.2.tgz#17afb24265b7d35915bcd010ffd7bef40af2e674"
-  integrity sha512-s5sdH5mjke09LPL7WWwbuUIBiL1BVxOAC0RL8H/r4AWq5lIBGwCS3SY+jL8JpNwQTPDU1hUZ02iG261HKvLi6w==
-  dependencies:
-    "@teasim/ui-frame" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-finger@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-finger/-/ui-finger-5.2.2.tgz#9cead04237fd3ac106431a088485cbc1936ca331"
-  integrity sha512-L5BwkIzarC7JSdpl7Cs80Nh6bJA0vPjlti1ZO1puykc2YxkI/xTneo04pdiIWlIaoFjc+E6hhOVjkoTIGshpkA==
-  dependencies:
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-
-"@teasim/ui-form@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-form/-/ui-form-5.2.2.tgz#49dca80d7a95f64c6ba08e7b510666931313ebbc"
-  integrity sha512-r5SMaqLohz9VncwJj33/TIrAUXOP8i43r7vDs4ZmSWLBJ17R+0mGqU56H/BCaT4Zm7Jr2eycr/msM4tbrLAQoQ==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-frame@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-frame/-/ui-frame-5.2.2.tgz#7c6283aab64e13b4561158c47285e47e23d89f7f"
-  integrity sha512-mnY+G0zbAYuoR9f2JfQDaW77aXlKWJjiO08n3sY8F8EMnEmk2i+vjPMEX0dg1xPhbxmvU7dOs0/NFiYhsyBrPQ==
-  dependencies:
-    "@teasim/icon-loading" "^5.2.2"
-    "@teasim/icon-status" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-grid@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-grid/-/ui-grid-5.2.2.tgz#89f631dd3ffcda1f9ac8c081d701b75ce7556052"
-  integrity sha512-Y75Rx2XQrJh9uwkLKGYyVBOqmYNycs47rztpMXCs0p7dWpnl6r+jlIeta6YgNBqeQjeuyBCXuTZXV7OzG8Tbzg==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-helmet@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-helmet/-/ui-helmet-5.2.2.tgz#bbac673eca21a4c3d0cfe220b81c6e29caa8d140"
-  integrity sha512-jtmj9KSvuDcOfxLoRarXJqyZ3VkqTFmaMz8QjETzL/9Lu09d4PIYy4TbNSyNFV8deojyL1j8R04al/MmHV88IA==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
@@ -562,342 +436,125 @@
     react-toolset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-icon@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-icon/-/ui-icon-5.2.2.tgz#8e0bb043fabf51712591026b97e3232f3050813c"
-  integrity sha512-bbOnyW4vX47e4o4SJnDR+FVd1bGUtXRZNvhi98QgVFw0v0Ph087mJNIVYdR1qMLHTY+WBNiZWD/ugnBbiPe57g==
+"@teasim/ui-dropdown@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-dropdown/-/ui-dropdown-5.2.3.tgz#6334d6c83c466f648b1154b57eb3e18909040234"
+  integrity sha512-vli1tS70gL775JRh7ZoCLIPque4A7TWqMnZ6KWvhwX66Qt+0kB81QOqOujeAT+RJvluzz1IUVfG2YIxAmz4wmg==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-popover" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-image@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-image/-/ui-image-5.2.2.tgz#6b7bcafc9c20b4e411cf75b8f5f5d90c271dbaca"
-  integrity sha512-h9ZgaeHsKBlZDN11LJ96EAHhmsFTWiRpbz+V0+MSWsXI88/6OTdN1zIOrPpu1+DTB3FIibPq2h1Z8m1Cn9v/ig==
+"@teasim/ui-dropmenu@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-dropmenu/-/ui-dropmenu-5.2.3.tgz#f9fdac92cf186de2b78ab5984ff1a5adc36a18ad"
+  integrity sha512-PvErvdlQJGRnZc3Ur4I9zGPYe6HwX1rn6fZOtMmPi7pqGGYSim5nhvLnH5sqqMG79X72R6qCv7KbxYYSWvHueA==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-dropdown" "^5.2.3"
+    "@teasim/ui-menu" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-input@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-input/-/ui-input-5.2.2.tgz#be86d8afdeac6e67bbdd93c3a7928c74d1d111cc"
-  integrity sha512-6YWk5JeJPAt1zpMHyOMABb/99hOdPj2a/K8iiMFEibf94GR6pkXrGWJeTsZcvmsDBcDuH0rmDotZyfujZZsyyw==
+"@teasim/ui-ellipsis@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-ellipsis/-/ui-ellipsis-5.2.3.tgz#243f93ab273837dccfc63c2a53322d4358000e10"
+  integrity sha512-o8YTqMJ1qa4zJCfON4dM+Lyj+z0Zk6jkDSnXogj/pW3LWtd7qSFbSY7BRz8im99ygZ5+fPnRmYYs8eVRDKfuXA==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-layout@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-layout/-/ui-layout-5.2.2.tgz#734b948d402ce49a0877b7f6aa09274355fe6e09"
-  integrity sha512-YXwgNMvsFkG387mzOvfDjf0TjEnL+U+htPuCP7+4HMS3JpCnCrO0lx0YhlgwU6hSYy9QT7uA5u113bkMOUfOIQ==
+"@teasim/ui-exception@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-exception/-/ui-exception-5.2.3.tgz#de4998294bef04c8d0520f63f0e7f64d3568b861"
+  integrity sha512-UmPL0ELe9Me/0HcjyNwzxXD4V3LqlRuUHW8Ni/DKdGpDKBTZKuzTu/a1AKC5Xkc1cBTufrZftAzgYmOJSM6q+g==
   dependencies:
-    "@teasim/icon-angle" "^5.2.2"
-    "@teasim/icon-list" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-maskant@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-maskant/-/ui-maskant-5.2.2.tgz#f4799bd3662ad21e832193897569eec3e43de196"
-  integrity sha512-N1O0aKrsrt51z6fsr3hWV5rCEOnKMdM5jpfm+47f68haCNIf9c10BFM7O8DsOatUFH1pRcAnK3ZZv1lSeGnjrg==
+"@teasim/ui-field@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-field/-/ui-field-5.2.3.tgz#1c6fea59ffd034276209943891fbc6a4ac8e1c05"
+  integrity sha512-epMfO3JUtJq8DrFScFZQIb4jEDmXiTCH1uPBNZe4i8XIiVGesnAr38y8ZEnJaR9aRhWhcWHxTgZbCeYWiNmKHw==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    react-toolset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-measure@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-measure/-/ui-measure-5.2.2.tgz#62e3fb66eff8ae451d9cf7af2bfe8c715170accd"
-  integrity sha512-PsTb2qOKA2zhihfu9HGxyKFUwl5/C+CRp/sU/hHi9w+7zPVQI3dNOfQeKB9Xtpzi21vL5lQawwCuM9GRsAb1uQ==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-frame" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-menu@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-menu/-/ui-menu-5.2.2.tgz#bb4c283255c8a1acbb5bc418b7c1a28479aa042b"
-  integrity sha512-lE+sOcUmpQL4khS7KzVV/yTBzyjWFc7t2s4QTjbhrGkskf/MckHxgpsB5Y3GTKvWYr3CwwQb5K94o6cVH/aJTA==
+"@teasim/ui-finger@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-finger/-/ui-finger-5.2.3.tgz#9b4f8a4e5a9f0561747e3031f1a5cc006dd3bd1b"
+  integrity sha512-+C0RvFDFS6LSf3A5ZXEnwGvJLdjPhjZLaNaI8vE/xTZKXYQIzZZVzJ9Nd8nsBSTJuOJKdODlARC3yOgROleSjw==
   dependencies:
-    "@teasim/ui-dropdown" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+
+"@teasim/ui-form@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-form/-/ui-form-5.2.3.tgz#454e15ea39dbf940c1bc461ff94170ba892629a1"
+  integrity sha512-7xNJOpMHWQK3paRCJ3UNVNKsRCWvFavGdgqpWIWI0dpFf0ZH6IldT5RTfG8ufcfqWY9gIAsCmFX263/cyQCU9A==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-modal@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-modal/-/ui-modal-5.2.2.tgz#9b14fc3f218cd7ac59aeb02930e25e8006d3656a"
-  integrity sha512-jxr5vEntcCT2HwJILCPkyO2U6w/s8C17BtIMpN9oefVN0LIjlOX/BcG6g4QS1JhjLdYr4BfnKNvy/b0/2ZpTLQ==
+"@teasim/ui-frame@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-frame/-/ui-frame-5.2.3.tgz#715c0afee2e8a0f080e58a458781a598257aad57"
+  integrity sha512-3PE4HEiBpdmokJhS3/d3lM0pbBcxHl0SPUc/FmPHqIONOXF/nmALnY/zbOI0t/7DryWj4VrnoHiH+FqARqUr0w==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/icon-loading" "^5.2.3"
+    "@teasim/icon-status" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-navbar@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-navbar/-/ui-navbar-5.2.2.tgz#ab035de82c7cdcc8bafa0a00fd64e7f1e1741ebc"
-  integrity sha512-F9p6AuYCwr+815y8gpkMgJRFbV7L9mjGwUa9GUAUzzQCag4S0auBbMoBLO02s8CWaZ6z/U5P+q3oA1MOEkczwQ==
+"@teasim/ui-grid@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-grid/-/ui-grid-5.2.3.tgz#7ccd508dc7367f7a8738eacf96e16580a99d2814"
+  integrity sha512-UhME0BcnTPlKb25kPa4y6nZgWEOoV45un57ZWR597tXIvkNpjPV8BmXRA1dIzayNMTsqKkJnXDZqQP3D4w2Cbg==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-note@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-note/-/ui-note-5.2.2.tgz#5cd58354bb468f2a93b7681a4d44247b277e0f85"
-  integrity sha512-kBmKGy9UZKvq5up1Ve7z6hzlMD7+FXkcUpkH+a5dh1WHBWok/Cbb1+v2+V5ifXItzrIlSHZN3Fx/Iec0eZKeLA==
+"@teasim/ui-helmet@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-helmet/-/ui-helmet-5.2.3.tgz#0b39a5f0eca93a3d45d6a9501648d19257f0addc"
+  integrity sha512-5eUbNYMnuRO93qlpxX5xaj6cRaU+6tl2VEHppfec8Z/jOtKHg81NryI0Tb2b7m9l8scyA3XSMb4P1qDyssPubw==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-numberbox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-numberbox/-/ui-numberbox-5.2.2.tgz#37f9bd099e2383d4b7a4803c70d7e9fce1b9bdd4"
-  integrity sha512-KnnZh7QpDYt182clZ7+HRcCvAS1YvjJmhRp9oRh+Uv2NUig/8U0R01y6PPIar6vq4p2UbLZVp1bWIMl1Mf0ziQ==
-  dependencies:
-    "@teasim/icon-operator" "^5.2.2"
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-frame" "^5.2.2"
-    "@teasim/ui-input" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-pagination@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-pagination/-/ui-pagination-5.2.2.tgz#cad443cda63707cc685324673b88ce5e8dbedadb"
-  integrity sha512-LRCHGAUOf3p5vCWHbtOX7emBI3eCt9svz3Vh+KZusa1DtZT8LyuCM7QjdFU+79I0bCMO9V0xz9OgaAuGajNe4A==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-    teasim-localization "^5.2.2"
-
-"@teasim/ui-pane@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-pane/-/ui-pane-5.2.2.tgz#a568a489a69f009f2283e7de70e6b35846751b73"
-  integrity sha512-ETwZM6FN8+GbM5OZQ6pd8OT6/Riylk+SrRuxxyQXuI5Bb/GLND9aINIWOnxqcn/gsuJgm6YXhVa4vFvJLYFopA==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-playground@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-playground/-/ui-playground-5.2.2.tgz#b6e156678f33d7fe7443bdf292a7e640b2479bc2"
-  integrity sha512-mZ68CCGbXqg4OJW57r2zNFFLphnpBe8CtJ7QS/NtD04A+YT3bc4/Wyt4C6xVvlZLgn6P/TrpxvSNHRF57d4hBA==
-  dependencies:
-    "@teasim/ui-divider" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-popover@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-popover/-/ui-popover-5.2.2.tgz#a8c880e0839710b104db750a97b2f8ee54df471c"
-  integrity sha512-VbGI/fXH9WxgEmBun5FTqZX20wjFw6L9BwfJEiwDmkiF+PmZa1e3FlzlRNmmCB+XLBpgzuyu3fJPyjdTWQ28zQ==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-portal@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-portal/-/ui-portal-5.2.2.tgz#a51d6b11d0c1556bc4845f1d40bb8bb88dc7365f"
-  integrity sha512-bHGtgCUIfef+qpvTY/77oHHk+H/v+NYj5TwW8R1MBj5oR3LLx0y0jPlvVCkyJh+59qBjfgxO0+S/HIXV6YYjxg==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-progress@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-progress/-/ui-progress-5.2.2.tgz#bd395d0bb58fdf4738eea4f6c96795fa4b568176"
-  integrity sha512-iqFnk35LWROAmM84wYj7Vp3TFfPvLy/r/Ux8kOPOhMMl6aQsgs+U42toGbOZjd4O07NN04sL1cjnNB1qFkO20Q==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-radiobox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-radiobox/-/ui-radiobox-5.2.2.tgz#fb0efb9ee5b0c0ffec11b4e51339339d6b1a5c3f"
-  integrity sha512-SC9L+S/S9p2DuzmyB7rLZRTEm+BIlzTNFSf6aK+1OuzGM7aqHVNKTeh/4WgR/U0ON73hAckgv5OlMZKQZ/B2JA==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    "@teasim/ui-toggle" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-ratebox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-ratebox/-/ui-ratebox-5.2.2.tgz#3bb5fa53fc4252fa1bca309a913c0ebccb8ffe53"
-  integrity sha512-SsQJicUVsOrNMKiTfJvonlqWQyjLXWr3LlvN5GishIhDSTW3QouLHhjhgIVG8GUjTinxG/5yroTi5aksPF41Vg==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-scrolllock@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-scrolllock/-/ui-scrolllock-5.2.2.tgz#bc83ef1272a00d6b73d13f3b0659b5ee70eb8e09"
-  integrity sha512-UN+daDVNn1aShjy8JFJZffAhoQA7YUDTME3vI7rU9RgEIKpbkryC4LXQybQCaH777wzzGHWkzQiS9P+AUtyfHQ==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-scrollsync@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-scrollsync/-/ui-scrollsync-5.2.2.tgz#e913a8119c7567f496a111b3269c868b43e95c29"
-  integrity sha512-NCRduEnISl91U2ehb0Fy7ryEWTlQvZOnmMvXixx5Um87ssTLu2df5OsPbTDApUuNgz+oNcJyUvuGdKpDV6KaSA==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-scrollwindow@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-scrollwindow/-/ui-scrollwindow-5.2.2.tgz#83fdb87dbde05c6f51b518cc7a4eb76df6cd97c1"
-  integrity sha512-EoUEWoWwmMTxj8daWgR0cjEb1CyNhHSQdbOBeLXDQ97Dy7h17gtAnHudyGU6uMqHIJtSbdagG9Ef9uyO/rKlfw==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-secretbox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-secretbox/-/ui-secretbox-5.2.2.tgz#d14747067fc040d0d45158ce28a4303ccc67ab28"
-  integrity sha512-aFzs2XommOJGfSpp7xJ7ZXvNifkWwj8GZFi1PCD28pH317dU84W1Q6NbUlHBTgnB+H8uIVsxUAO9i+lcI56PzQ==
-  dependencies:
-    "@teasim/icon-visible" "^5.2.2"
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-frame" "^5.2.2"
-    "@teasim/ui-input" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-selectbox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-selectbox/-/ui-selectbox-5.2.2.tgz#d6fd6f70cf7024f0a1cc0eda25b47bda061d8543"
-  integrity sha512-+eA1ZXUN2hANETmmExwfc+G+9MaloffsXXC+yTn6zivuMcp7eKm+rplby61nIj8+sLldd7Wy4K89PwS4uqn77w==
-  dependencies:
-    "@teasim/icon-angle" "^5.2.2"
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-input" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-shuttle@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-shuttle/-/ui-shuttle-5.2.2.tgz#a49f51abce97caded852649f5a4078efef22352c"
-  integrity sha512-OofIvuefLRMlAAHSPmh1rq86fKs4El8Jr0SP+SUrlmbkCBIa0QPjjgiSCWwP6L25uRCRsvB+zjkEEGWjMca+FA==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-skelecton@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-skelecton/-/ui-skelecton-5.2.2.tgz#ecb44bc2101d26358f9ea85d6a79c8edc5d9ad58"
-  integrity sha512-vt3pJMuyUdMiF4crfEEkipBi7UPUwVa47VZBM4g3arTdbL8TRq+4Gnancy/cFZoIm1VVBZ6jzWwMWmp/6/YZWg==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-slidebox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-slidebox/-/ui-slidebox-5.2.2.tgz#ad1d0d9783800d9c21f1dea2f53e678bc1405203"
-  integrity sha512-M+EXx54soXw0KqFndsX+yWHQRvzCKFD2LH/wWaqCxKhTutVC89TBzv6WIzRX7qnQTplTvCbAROOGDMl4sM1c7w==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
@@ -905,139 +562,482 @@
     react-toolset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-slider@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-slider/-/ui-slider-5.2.2.tgz#727d97229b192915976dafcfd46656f9726f1fdb"
-  integrity sha512-6cuQpi5Pawqpct6zl2aFiC++MVdQmtF2d1HKVdNblFhAHTw/gEg9z/HK1N9t5gBr5UVzzAc7RHvCdc5NzSBqxA==
+"@teasim/ui-icon@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-icon/-/ui-icon-5.2.3.tgz#529c4b46768de243f7ff71522beb1991b6512511"
+  integrity sha512-7HiXdLL1/wnA6X84ewfsUd91XDhxKurVwznn2OkjyS06EBZOD+9TrqW1gCmFRZTxdKhwaE7hwfaB52e5vEbakQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-spinner@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-spinner/-/ui-spinner-5.2.2.tgz#1b08d60a6643e08acb3eea4376045c5e77283cff"
-  integrity sha512-vDHIENKXG5DtHsdzpvCJkxSiCTBECZ/sUTCgnpeJ5w65fPVdnNo2qv2wWt4LOdZmjEnUpZBfY8nQeEgHtvpDAg==
+"@teasim/ui-image@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-image/-/ui-image-5.2.3.tgz#7e38690e64dea28839a41ecd13b3482ce19bd247"
+  integrity sha512-L78SzOPIYfj+xIJToyWSUHe/R80yBbhokmfM8H0myRH4x7VuT/7+BD7dFNm6C2njrdU70z2vSanBt4L0GmZffw==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-sticker@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-sticker/-/ui-sticker-5.2.2.tgz#17005fc88de36db4781c0d0a5257c2f028bad4cc"
-  integrity sha512-X1AObVz//4GYsbbyFPAHLOP9IMpZL4UO0b+LnpYcgaNKV2BWg4j+5geOrvGD6zwSwGSf6YmlA19VRYh+OFAgSw==
+"@teasim/ui-input@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-input/-/ui-input-5.2.3.tgz#6f63c2330fc9162783073ad0592e47b7f6e3dc4c"
+  integrity sha512-+2bh2HJ+ylspqFs/ON4uarEJrfo5jkpAACjuf4VyZgKUQm15tdrqKsBGMdc0q+GChw5VJ8iP6pfGp+scgefH1A==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-styles@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-styles/-/ui-styles-5.2.2.tgz#a42aee2040be3ed135ad4b95b68c95b2b46a3b84"
-  integrity sha512-jeyyiyTcbG00oPHt95sN/ZmgZTVuXVtIMVmB8xpe/3p2b8AV6T1bTwKftyRXVNxBqk9zkAEKD88NtGcMHpLgnA==
+"@teasim/ui-layout@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-layout/-/ui-layout-5.2.3.tgz#743dc84aea74f2e00a8b1a8f60493b356f246d6e"
+  integrity sha512-TZRS3s4URVAn9ZXloVcKoIzS3ZJyx235InaEFb+1cNH3VpxoZc9c8TDRwj3vu2xRD1zBTO+8MbUcpX+cbLIwtg==
+  dependencies:
+    "@teasim/icon-angle" "^5.2.3"
+    "@teasim/icon-list" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-maskant@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-maskant/-/ui-maskant-5.2.3.tgz#1adfc2f2e1c96ab5352b0d6eedde1adad6fe222e"
+  integrity sha512-8bxa3Rn5N2eFTVTgVtE5jHlaoPz1p0YX0x2DnuW2SpbcpZVPUXpCVyxcXxcfX1D2r7kJT7o8TZ/rkI++eSzO5A==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    react-toolset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-measure@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-measure/-/ui-measure-5.2.3.tgz#3da4da010fc0a23ea1bfed4cd5ee3bb5c1d7b12d"
+  integrity sha512-B+0pJH7Mvn2UJwyabdSiC9sAV9tKEV2wggJTvy67AJmDRyEJCljUnPw/PPON7GrLvVCX3InUNXYCTpoz9GgE6g==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-menu@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-menu/-/ui-menu-5.2.3.tgz#7beae4099e903832984b45ec77d7279d87e2bbcb"
+  integrity sha512-3liaHtMf0f15ArcwAEsqEay5MfwdQPHT3jVNEqoIVNNNoItn+clC+a+FrVxlGflApCBra3V4DQpcK0PIwUJTvw==
+  dependencies:
+    "@teasim/ui-dropdown" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-modal@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-modal/-/ui-modal-5.2.3.tgz#84cd78ee54f50e7b39e97bb52c02084dbc20bab3"
+  integrity sha512-DFFC9RhZhyorx6nb6BT54btSrRnug9XrD/zpEZukTc5i9fFV9IGgV2cKgVppPbAuxdNvDz4VTAtpPzQLouTkzw==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-navbar@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-navbar/-/ui-navbar-5.2.3.tgz#17856393a64a6083985f20000e27e0268fde9c7e"
+  integrity sha512-O6EsYn/dDdU0Bn45Dg4K/ZUYk1gkd5yfYNemRerTcthfaJ0WRr501wYk986+SudT5e0TxPr3EJuQQB6dMbZxqA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-note@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-note/-/ui-note-5.2.3.tgz#a5d8bb0399464b848e4b1fb7ca6d469063eebf36"
+  integrity sha512-BzMwhpF5ouA1jSnZUN0TlK5KJP6g/HZmhOZnKa2rH067qFtY+nYyKXo70JTgH2ZNH+WJr+MLbG+C/wGjgx6eHQ==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-numberbox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-numberbox/-/ui-numberbox-5.2.3.tgz#8411916fe9bb576cd261762af34c62df191a3d5b"
+  integrity sha512-1dMKm1HFyv2Kd9+UtqEbpWEpI9pKANbnOn4vhS90OlPVOsDyBbP07DGGUcPCU1H4ccpdXQw24szdktZxySEIcg==
+  dependencies:
+    "@teasim/icon-operator" "^5.2.3"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-frame" "^5.2.3"
+    "@teasim/ui-input" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-pagination@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-pagination/-/ui-pagination-5.2.3.tgz#f56ae20d3bc95358466f7b19b41355f9f3102c78"
+  integrity sha512-TgOZFEUUmgZYkYlWu6T8k9FefG8/Bu4FeBfqnpHpxJDdE+gLiMX1t5c7tA1Se/NS+rDRt5UyQfHaWf71ofFGgw==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+    teasim-localization "^5.2.3"
+
+"@teasim/ui-pane@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-pane/-/ui-pane-5.2.3.tgz#70bb1fe35e194bd3b1b3ce3a9a9f29490564c321"
+  integrity sha512-6ZLHumTkB1dbPVE6P3rqZOuo1Ex3qlSCtgbaoJI4tcAcWCBhzYIA8z42cjlU0GfRKt5mBp1IqKG7hh68OZfWcQ==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-playground@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-playground/-/ui-playground-5.2.3.tgz#f153b31b42a752e4b0655f3fa5e3f9ecb64ccebc"
+  integrity sha512-XncDTTE+Wz77nPMLrI1xGtspLOU4z/738H4RdHkkR73ZETg8s+gIsN6huvVtAneU/Ii/0mah+5+EvNRsIzEcfQ==
+  dependencies:
+    "@teasim/ui-divider" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-popover@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-popover/-/ui-popover-5.2.3.tgz#1a8ffeeadb095b207f96ca249034bdf0cc04fa24"
+  integrity sha512-lRsuM1l3IfaeqHd6hgIN3PgRajhfjVZUyE2VgM5+EHz0sTECmE78+eGJT33RJxJikV5ZAbxNCeio1gt87+6MCA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-portal@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-portal/-/ui-portal-5.2.3.tgz#4aac7de29debfd86243d29f8b397db5f0d2a955d"
+  integrity sha512-XwzngKz9OFO0ESjavBZWVxMlw9P+Km1iMWB3kgcN6UY//VpX6csW29BoEojCne928Esrpzpk34OsXJCIagHxuA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-progress@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-progress/-/ui-progress-5.2.3.tgz#a7ca2138cc35a4d5d08927355339d9b0151f1dbb"
+  integrity sha512-V3Eyz4SPQGkCJRKcT4IraqJuFHeYCMP/R+MjWYIBI7N3Gyz3Bf8JSFGZeS/lQvY4fiREPDoGSPvRPceMO3onXw==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-radiobox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-radiobox/-/ui-radiobox-5.2.3.tgz#ca396bd1f31e719306413e5604f6131b3865c113"
+  integrity sha512-w1tYfpxlaL738z92v4Wr99Rc7+xOohog26Q8HRHh7r2J1R3h1lQWvRhQRCbMztqzpZIWXlo3WmlNk3C2vJS+MA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    "@teasim/ui-toggle" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-ratebox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-ratebox/-/ui-ratebox-5.2.3.tgz#9e6f19644de7ea3c9676a9de10a0db83f6154416"
+  integrity sha512-AyRxDZuw4uJR27awXokgoD+pFVxjZK+Q19h17LzFMKfXv6KEe515wYQJCx0xtFu7IeG2V81XQcOfsJ7zDx/w3Q==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-scrolllock@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-scrolllock/-/ui-scrolllock-5.2.3.tgz#47f50dd16d939905c4b8ae39fa79d9408cacde0d"
+  integrity sha512-kGiuLvzjJnkRP6SL8If1LI01//EzuixlxFJyLJ38M0T8t+tpu/z5k5cOnh4gXhC3d0AlZafCXlhI5Gtdi8E+hw==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-scrollsync@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-scrollsync/-/ui-scrollsync-5.2.3.tgz#591eafd01270bbbabebdabf140d3df3d0396180f"
+  integrity sha512-/I7EkkYhrBcA09mDwtoTueG8DOqCkn8fHPfTs3PLjDaUllrlVetxyuS+zTOJtbWyJpW1LEbdfvTQmV2VhZP61A==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-scrollwindow@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-scrollwindow/-/ui-scrollwindow-5.2.3.tgz#ee9988ad2cff54d54d9926a1c36e34d952e8d7ff"
+  integrity sha512-U3rrYYtu9ddRtNywP/MJI+5krSCYjekVvf2oZN4aVFAyGeo2smv5RxrA7OQ62E7GOJq2h/6BNcw4NKlakP/R9w==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-secretbox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-secretbox/-/ui-secretbox-5.2.3.tgz#2013b031121cbf6bf1b7ec4416088989b6c36067"
+  integrity sha512-iVgO8gylYBxHwFCdvX7FSobvp/PtNDZosm0CPZaoJEWOTWE2oxs0dJiEnQQ7g+1b3NPXP2UbyBQISdzazZ870g==
+  dependencies:
+    "@teasim/icon-visible" "^5.2.3"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-frame" "^5.2.3"
+    "@teasim/ui-input" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-selectbox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-selectbox/-/ui-selectbox-5.2.3.tgz#7be14ea69d7b5695263b721dee6af78db7d385b4"
+  integrity sha512-zuqk1J04KTUQWjeLhoBUOKPmmfEb+OlGjnYEbMZhWyvGoFFT65nhvWxUJ/MqcUZnj9rSM1R9U/WFwKQwT0QQkQ==
+  dependencies:
+    "@teasim/icon-angle" "^5.2.3"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-input" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-shuttle@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-shuttle/-/ui-shuttle-5.2.3.tgz#5311be56d33bd9bec3c1968becdcc77365436e7e"
+  integrity sha512-eeEw97RxfidLk4WW1GNFquiYn9l5oN+tAfaWtPFRAVVSHtnJgMCe/E8tmywzKFzBzXQPrwndeUAjuwIagTtSbw==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-skelecton@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-skelecton/-/ui-skelecton-5.2.3.tgz#9230d2181f1fc1aac0abc5950869605ac5193ae4"
+  integrity sha512-Xi5KzOSGPIaj9klDoCZLm0ia7F7sKTU2OjGWMC+PKUHp5KFz8cGNU6Ah72Y4xp3sePIpq2PKG6hsJ4p+02uilw==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-slidebox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-slidebox/-/ui-slidebox-5.2.3.tgz#7d6efa0e4e055a7073c20650526739090733e80a"
+  integrity sha512-tICFdmcJ6VZJlqVwKkm3Avs6wzWhL6fNvffEbV2AKY+DNcXus/hyoll505EmBx++oVZv9a1jfQST1XO553KbaA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    react-toolset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-slider@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-slider/-/ui-slider-5.2.3.tgz#4448a53cebd273a6db4edef86f4d1dc688d0446c"
+  integrity sha512-/hnKtTtMujCfi7Zw0X2eK0W37iLrjzStyfDOJYkFPRApTBYFdJjdLsnrgB3sKR5sR4MJ/kAwRw7IASb9DTD3ZA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-spinner@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-spinner/-/ui-spinner-5.2.3.tgz#353bb5aa9671e832bfa761ede8ecf77461be3b52"
+  integrity sha512-dVOsswCrE3y+wNOxlLu1zNXblMgzDD/+dXnkZtB252bX1w2zI19j9bR759SrTVQnw2kTMaILcBYT8ceIbUyH4Q==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-sticker@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-sticker/-/ui-sticker-5.2.3.tgz#99e0a08f9661032b6bcd90f23daadba799e862f1"
+  integrity sha512-vjTGza7GZ+AfwmJ8vHUKumy0EFoJPcy3cipY9yr7GJJEcfKk7OwZbbhkvG5ajRB9SVKNnAFvkFEOAlb7dIrk9A==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-styles@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-styles/-/ui-styles-5.2.3.tgz#6576be041abfd19bca5a07b2928e974519006754"
+  integrity sha512-fKBooI+RLhx4gEnjNkDwfS/XsoerN1jA9CBFMv/PAnkbyH29FXMtI2MGlha/KRuo0rqM4DuDmAH8FnCzmzU/Qw==
   dependencies:
     reless "^0.0.3"
 
-"@teasim/ui-swiper@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-swiper/-/ui-swiper-5.2.2.tgz#1cb798fcfedd6d940a95ce7781fb81663f003eaf"
-  integrity sha512-gVNpG7xCK9oMtzK3f2mt3lLdRxxL7upDA87w5j59zu/faEnuUniip/sxRHDlCbBbSrdwj7ChHd/kqaoaYErgpw==
+"@teasim/ui-swiper@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-swiper/-/ui-swiper-5.2.3.tgz#2d78b653ff36fee487bb3466f1894e1467f35ec4"
+  integrity sha512-xCbQVmqjFEaEj0IY6l53c/zrsFLeIkI981n7LF7tQCCxZSTrE4mIXDRmitcqmNSCLkm6D4BYq3Z4BauNaOJjVQ==
   dependencies:
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
 
-"@teasim/ui-switchbox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-switchbox/-/ui-switchbox-5.2.2.tgz#6aa6dc2aef919641f7076256542a667009209ec9"
-  integrity sha512-Mb3POQyoOwo0oNwqa7DGtOo1boj/JSWwidwqPTcExz4wmO48d4DWGPEb9ohbjlWOy6dWRpDbqt7piI7rZsK2FQ==
+"@teasim/ui-switchbox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-switchbox/-/ui-switchbox-5.2.3.tgz#a766cb543b9ca96cc077e6ceb600b9732f371a57"
+  integrity sha512-qdzNtoh1HbzkbWC7lPrMmqF6nsp1z0PuM23slhiFh3k4wPXLbwL+XMsGb7UAR7zydIH18Rr8vExG6DOLA/P03w==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
-    prop-types "15.6.2"
-    react "16.7.0"
-    react-dom "16.7.0"
-    react-propset "0.0.6"
-    teakit "^0.0.3"
-
-"@teasim/ui-tabbar@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-tabbar/-/ui-tabbar-5.2.2.tgz#aab3a42bf9b9865c84d224f5d93e9de0bc026122"
-  integrity sha512-WQNcqJJOD6lk8ZOA45VmFzRUQ8/i5vuMwapTnXTOEZ66FtSIq5/Lx/t1mJd7Xhn1N4U7KOMb4/r/NbZHkdGboA==
-  dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-tagger@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-tagger/-/ui-tagger-5.2.2.tgz#e7046771a9a1919b4b47f730ef57c047d345d222"
-  integrity sha512-SMNd7HEvnkhtNbwzQaOUn2ua3sK/N+UJ7OruBA7Ez+aymGKvlc0HfOzH9/zqaHMorHXOQi+pi8nxx28P9oXb9A==
+"@teasim/ui-tabbar@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-tabbar/-/ui-tabbar-5.2.3.tgz#6d40f34db7329565025ce03dd3b75f91d64d054c"
+  integrity sha512-8H7UxP7EfbChDDRN7dGnfdQyes3f0fKKZQgLPqVoQ48nu1S+DYkQJveQmQWe2+8NLtR9FBzXjEQfVWY96P43yg==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-textarea@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-textarea/-/ui-textarea-5.2.2.tgz#d485bc4a9427922782c53218b98ac92c76abf195"
-  integrity sha512-/RJf7f2xPfdftypfE6XUxPXAsohmcbXSjZZdnjzhmv7Y8A4zuZgM8eIdmOx7UMUVQivJhkeKHzqMHOBbZYvkaA==
+"@teasim/ui-tagger@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-tagger/-/ui-tagger-5.2.3.tgz#9c8a62dae2234ed433678bf3d59697d50c7dcc30"
+  integrity sha512-uyRvy1vEdXKCQ4AYu6/PMXsRQVSjBTPIuY4l3+rwLzh8zK0ZFmqUKKqZXmE+T/z/2VOrIZjpEaATwCpe4K2Zmw==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-textbox@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-textbox/-/ui-textbox-5.2.2.tgz#6b55b318ec043ee3f5091c765b97f829e9bf7657"
-  integrity sha512-gIKTf3dsW3fL52BQ7GJ9zcFhrR9c9gzj4uwKAih5O5VMh5+9dV39wBmGGri9QodXwC5eVTuxqlOoCZ6vhfhKPw==
+"@teasim/ui-textarea@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-textarea/-/ui-textarea-5.2.3.tgz#7c4ff61a249d4b73e29fa39f226cefae416bf6c0"
+  integrity sha512-wOiYr6duQIMayMULRvyDQsgPy3JTnwnwT7Od0NOTo53dsCIbd5si7waOZLmjScRrXK5I0Cg7fF+FsREGN5YEQA==
   dependencies:
-    "@teasim/ui-frame" "^5.2.2"
-    "@teasim/ui-input" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
-    "@teasim/ui-textarea" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-timeline@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-timeline/-/ui-timeline-5.2.2.tgz#8d3d7c8221083e80c88cfb081685be9c201e1fb4"
-  integrity sha512-+L5IfoNt7IiwnVL7EdECjddKtwoEGUymAEE+LzzvsKjp4q6Ty2hewgr27obuneYWciBMegTYJsFRFr5v2YawYA==
+"@teasim/ui-textbox@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-textbox/-/ui-textbox-5.2.3.tgz#fd348e36bb161456f0e718f089f8b41d6511e39e"
+  integrity sha512-K8XIP6fnpS51DnSpIEB7X2OhNVLnXuKIqslq0hMijHamAiScdBkcGljTyBGHmufE4E67RLodXo1UeY+kkyjhJg==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-frame" "^5.2.3"
+    "@teasim/ui-input" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
+    "@teasim/ui-textarea" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-toggle@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-toggle/-/ui-toggle-5.2.2.tgz#24cfa3b5825bc246518c9a5b65313bf33c4a65df"
-  integrity sha512-W62kSI6ap9XgqOn/EkmCVypcWcq8KATQNZdKcMgLaIMPswIZh708n+vbOeIzBx/jtBFImNtvSZgv1v2S2mPAzg==
+"@teasim/ui-timeline@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-timeline/-/ui-timeline-5.2.3.tgz#84334087048922e983d7db9d0df1bdc7d43a24e0"
+  integrity sha512-olSJALbDIALFbAMAV4ZFVZjfLK3yTws629XrhyWbqq2/vOD6mkVTVAbaYnEqL35F8Ep4QhckHLnP0cPC02ufzQ==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
+    prop-types "15.6.2"
+    react "16.7.0"
+    react-dom "16.7.0"
+    react-propset "0.0.6"
+    teakit "^0.0.3"
+
+"@teasim/ui-toggle@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-toggle/-/ui-toggle-5.2.3.tgz#05b3fe41a3ef92d871b41018c28406cfe3ec8416"
+  integrity sha512-8ZDGNylWB3mKHvWuo+xrd7nEyoyTVfL9QaM+eUe7pAxLjyN7R/mp2SgOOjwbwiCN7rI7wXqoOxzNte9qG1czRA==
+  dependencies:
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
@@ -1045,37 +1045,37 @@
     react-toolset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-tooltip@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-tooltip/-/ui-tooltip-5.2.2.tgz#22856ab8fe378b8c967c72cc763dd7adb678ea68"
-  integrity sha512-3tTEXmXxzWGBlLN/hcym/61rVHe04BpCiwv8kZTlfha/slfYAvop62wYaYcwi22lBbLpd8hy92QAN7hZnA7sLw==
+"@teasim/ui-tooltip@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-tooltip/-/ui-tooltip-5.2.3.tgz#4a9895b23c88994e8240a94ed2ce2f337a5ab727"
+  integrity sha512-h0VBex9AF2zM76X4izUeOmb2xYatgO/0gBlvVNg2cfiXnR8hnLAbFy0BVF3lDLkwUDjnLBn0/P2jGUz5KjpPSg==
   dependencies:
-    "@teasim/ui-popover" "^5.2.2"
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-popover" "^5.2.3"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-typewrite@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-typewrite/-/ui-typewrite-5.2.2.tgz#f42b5b1b7fa67481b0f71a4d6fac3484bf375188"
-  integrity sha512-xAb0HmnyF2MYvXujpUWkYy0KBVDgCajwpj6kSaaqgI/uMplrIoForQfEPa7o41TAb/v4IEAxpJfNYJkcnQQGjQ==
+"@teasim/ui-typewrite@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-typewrite/-/ui-typewrite-5.2.3.tgz#29b4b1113a20c0ab4778768fa5274beb45d88f3c"
+  integrity sha512-ylgGVi/852/bzADSRB0v2j42wvelIplwPuNhUZP/3nevZHgnQamc6hAmNBEigAtPboHJl4I2RoU/XXwWw23apA==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
 
-"@teasim/ui-view@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@teasim/ui-view/-/ui-view-5.2.2.tgz#a64d6900c43c75af0f18fea27d67a778bb44e9ed"
-  integrity sha512-yrbTkLT8RSRhQGeNP+Pe5J1S1vl4OGp72okL6Y6SGtM9ocMhn9xfEzhTw7SK2eW3u0zrDnoqFMNG5BABVIp4Bw==
+"@teasim/ui-view@^5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@teasim/ui-view/-/ui-view-5.2.3.tgz#b28525e4bf674186f5f7f1001232da71cd26b4f4"
+  integrity sha512-YXOaxRiavBky+wdv4yf5YRpjQqt+PAJe+FFLNXIQOb2PyH4nMOM9U4odc400Whcdk+noXW4pq4uG7IPs/merkg==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
@@ -2561,13 +2561,13 @@ browserslist@^3.2.6:
     electron-to-chromium "^1.3.47"
 
 browserslist@^4.0.0, browserslist@^4.3.6:
-  version "4.3.6"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.3.6.tgz#0f9d9081afc66b36f477c6bdf3813f784f42396a"
-  integrity sha512-kMGKs4BTzRWviZ8yru18xBpx+CyHG9eqgRbj9XbE3IMgtczf4aiA0Y1YCpVdvUieKGZ03kolSPXqTcscBCb9qw==
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.4.0.tgz#7050d1412cbfc5274aba609ed5e50359ca1a5fdf"
+  integrity sha512-tQkHS8VVxWbrjnNDXgt7/+SuPJ7qDvD0Y2e6bLtoQluR2SPvlmPUcfcU75L1KAalhqULlIFJlJ6BDfnYyJxJsw==
   dependencies:
-    caniuse-lite "^1.0.30000921"
-    electron-to-chromium "^1.3.92"
-    node-releases "^1.1.1"
+    caniuse-lite "^1.0.30000928"
+    electron-to-chromium "^1.3.100"
+    node-releases "^1.1.3"
 
 buffer-from@^1.0.0:
   version "1.1.1"
@@ -2698,10 +2698,10 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000792, caniuse-lite@^1.0.30000805, caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30000884, caniuse-lite@^1.0.30000921:
-  version "1.0.30000925"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000925.tgz#f1a3b9aae2a83071b1eccfa39959d72440409b08"
-  integrity sha512-zcYupoUxtW46rOikuDF7vfL9N1Qe9ZuUBTz3n3q8fFsoJIs/h9UN6Vg/0QpjsmvImXw9mVc3g+ZBfqvUz/iALA==
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000792, caniuse-lite@^1.0.30000805, caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30000884, caniuse-lite@^1.0.30000921, caniuse-lite@^1.0.30000928:
+  version "1.0.30000928"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000928.tgz#805e828dc72b06498e3683a32e61c7507fd67b88"
+  integrity sha512-aSpMWRXL6ZXNnzm8hgE4QDLibG5pVJ2Ujzsuj3icazlIkxXkPXtL+BWnMx6FBkWmkZgBHGUxPZQvrbRw2ZTxhg==
 
 case-sensitive-paths-webpack-plugin@^2.0.0:
   version "2.1.2"
@@ -2726,7 +2726,7 @@ center-align@^0.1.1:
     align-text "^0.1.3"
     lazy-cache "^1.0.3"
 
-chalk@2.4.1, chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.3.0, chalk@^2.4.1:
+chalk@2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.1.tgz#18c49ab16a037b6eb0152cc83e3471338215b66e"
   integrity sha512-ObN6h1v2fTJSmUXoS3nMQ92LbDK9be4TV+6G+omQlGJFdcUX5heKi1LZ1YnRMIgwTLEj3E24bT6tYni50rlCfQ==
@@ -2745,6 +2745,15 @@ chalk@^1.1.3:
     has-ansi "^2.0.0"
     strip-ansi "^3.0.0"
     supports-color "^2.0.0"
+
+chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.3.0, chalk@^2.4.1, chalk@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
+  integrity sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ==
+  dependencies:
+    ansi-styles "^3.2.1"
+    escape-string-regexp "^1.0.5"
+    supports-color "^5.3.0"
 
 character-entities-html4@^1.0.0:
   version "1.1.2"
@@ -3022,14 +3031,14 @@ concat-stream@^1.5.0:
     typedarray "^0.0.6"
 
 connect-history-api-fallback@^1.3.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/connect-history-api-fallback/-/connect-history-api-fallback-1.5.0.tgz#b06873934bc5e344fef611a196a6faae0aee015a"
-  integrity sha1-sGhzk0vF40T+9hGhlqb6rgruAVo=
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/connect-history-api-fallback/-/connect-history-api-fallback-1.6.0.tgz#8b32089359308d111115d81cad3fceab888f97bc"
+  integrity sha512-e54B99q/OUoH64zYYRf3HBP5z24G38h5D3qXu23JGRoigpX5Ss4r9ZnDk3g0Z8uQC2x2lPaJ+UlWBc1ZWBWdLg==
 
 connected-react-router@^6.0.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/connected-react-router/-/connected-react-router-6.1.0.tgz#a6f361313cf0a37c8c33578494bb813d09252abf"
-  integrity sha512-sdu+rf6TvjH3/I/S6+VFV9efThSyyRVwOhTZhC7XdqqZ700PdqgzfPr3sSK635JPbBFYhFYP97/KWTFdjldL0A==
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/connected-react-router/-/connected-react-router-6.2.1.tgz#c9088d7c26b3267bf0a0168df3105ddfc090dea6"
+  integrity sha512-7QFs0wPYvwrzA7NptHx0DgblNA/nVErX0TUjTiOCwXSaqj/1Ng+nEmEczrfdA8gw7kIzFIa08WJGMymdb7bAZA==
   dependencies:
     immutable "^3.8.1"
     seamless-immutable "^7.1.3"
@@ -3101,9 +3110,9 @@ core-js@^1.0.0:
   integrity sha1-ZSKUwUZR2yj6k70tX/KYOk8IxjY=
 
 core-js@^2.4.0, core-js@^2.5.0, core-js@^2.5.7:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.1.tgz#87416ae817de957a3f249b3b5ca475d4aaed6042"
-  integrity sha512-L72mmmEayPJBejKIWe2pYtGis5r0tQ5NaJekdhyXgeMQTpJoBsH0NL4ElY2LfSoV15xeQWKQ+XTTOZdyero5Xg==
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.2.tgz#267988d7268323b349e20b4588211655f0e83944"
+  integrity sha512-NdBPF/RVwPW6jr0NCILuyN9RiqLo2b1mddWHkUL+VnvcB7dzlnBJ1bXYntjpTGOgkZiiLWj2JxmOr7eGE3qK6g==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -3398,7 +3407,7 @@ deep-is@~0.1.3:
   resolved "https://registry.yarnpkg.com/deep-is/-/deep-is-0.1.3.tgz#b369d6fb5dbc13eecf524f91b070feedc357cf34"
   integrity sha1-s2nW+128E+7PUk+RsHD+7cNXzzQ=
 
-define-properties@^1.1.2:
+define-properties@^1.1.2, define-properties@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/define-properties/-/define-properties-1.1.3.tgz#cf88da6cbee26fe6db7094f61d870cbd84cee9f1"
   integrity sha512-3MqfYKj2lLzdMSf8ZIZE/V+Zuy+BgD6f164e8K2w7dgnpKArBDerGYpM46IYYcjnkdPNMjPk9A6VFB8+3SKlXQ==
@@ -3511,12 +3520,19 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
-dir-glob@^2.0.0:
+dir-glob@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/dir-glob/-/dir-glob-2.0.0.tgz#0b205d2b6aef98238ca286598a8204d29d0a0034"
   integrity sha512-37qirFDz8cA5fimp9feo43fSuRo2gHwaIn6dXL8Ber1dGwUosDrGZeCCXq57WnIqE4aQ+u3eQZzsk1yOzhdwag==
   dependencies:
     arrify "^1.0.1"
+    path-type "^3.0.0"
+
+dir-glob@^2.0.0:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/dir-glob/-/dir-glob-2.2.1.tgz#ce8413234ffe8452b76b7741c32f116cf2a7b1a7"
+  integrity sha512-UN6X6XwRjllabfRhBdkVSo63uurJ8nSvMGrwl94EYVz6g+exhTV+yVSYk5VC/xl3MBFBTtC0J20uFKce4Brrng==
+  dependencies:
     path-type "^3.0.0"
 
 dns-equal@^1.0.0:
@@ -3639,10 +3655,10 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-electron-to-chromium@^1.3.30, electron-to-chromium@^1.3.47, electron-to-chromium@^1.3.62, electron-to-chromium@^1.3.92:
-  version "1.3.96"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.96.tgz#25770ec99b8b07706dedf3a5f43fa50cb54c4f9a"
-  integrity sha512-ZUXBUyGLeoJxp4Nt6G/GjBRLnyz8IKQGexZ2ndWaoegThgMGFO1tdDYID5gBV32/1S83osjJHyfzvanE/8HY4Q==
+electron-to-chromium@^1.3.100, electron-to-chromium@^1.3.30, electron-to-chromium@^1.3.47, electron-to-chromium@^1.3.62:
+  version "1.3.102"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.102.tgz#3ac43a037c8a63bca3dfa189eb3d90f097196787"
+  integrity sha512-2nzZuXw/KBPnI3QX3UOCSRvJiVy7o9+VHRDQ3D/EHCvVc89X6aj/GlNmEgiR2GBIhmSWXIi4W1M5okA5ScSlNg==
 
 elliptic@^6.0.0:
   version "6.4.1"
@@ -3731,18 +3747,19 @@ error-stack-parser@^2.0.0:
   dependencies:
     stackframe "^1.0.4"
 
-es-abstract@^1.5.1, es-abstract@^1.6.1, es-abstract@^1.7.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.12.0.tgz#9dbbdd27c6856f0001421ca18782d786bf8a6165"
-  integrity sha512-C8Fx/0jFmV5IPoMOFPA9P9G5NtqW+4cOPit3MIuvR2t7Ag2K15EJTpxnHAYTzL+aYQJIESYeXZmDBfOBE1HcpA==
+es-abstract@^1.12.0, es-abstract@^1.5.1, es-abstract@^1.7.0:
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.13.0.tgz#ac86145fdd5099d8dd49558ccba2eaf9b88e24e9"
+  integrity sha512-vDZfg/ykNxQVwup/8E1BZhVzFfBxs9NqMzGcvIJrqg5k2/5Za2bWo40dK2J1pgLngZ7c+Shh8lwYtLGyrwPutg==
   dependencies:
-    es-to-primitive "^1.1.1"
+    es-to-primitive "^1.2.0"
     function-bind "^1.1.1"
-    has "^1.0.1"
-    is-callable "^1.1.3"
+    has "^1.0.3"
+    is-callable "^1.1.4"
     is-regex "^1.0.4"
+    object-keys "^1.0.12"
 
-es-to-primitive@^1.1.1:
+es-to-primitive@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/es-to-primitive/-/es-to-primitive-1.2.0.tgz#edf72478033456e8dda8ef09e00ad9650707f377"
   integrity sha512-qZryBOJjV//LaxLTV6UC//WewneB3LcXOL9NP++ozKVXsIIIpm/2c13UDiD9Jp2eThsecw9m3jPqDwTyobcdbg==
@@ -4102,9 +4119,9 @@ fast-deep-equal@^2.0.1:
   integrity sha1-ewUhjd+WZ79/Nwv3/bLLFf3Qqkk=
 
 fast-glob@^2.0.2:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-2.2.4.tgz#e54f4b66d378040e0e4d6a68ec36bbc5b04363c0"
-  integrity sha512-FjK2nCGI/McyzgNtTESqaWP3trPvHyRyoyY70hxjc3oKPNmDe8taohLZpoVKoUjW85tbU5txaYUZCNtVzygl1g==
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-2.2.6.tgz#a5d5b697ec8deda468d85a74035290a025a95295"
+  integrity sha512-0BvMaZc1k9F+MeWWMe8pL6YltFzZYcJsYU7D4JyDA6PAczaXvxqQQ/z+mDF7/4Mw01DeUc+i3CTKajnkANkV4w==
   dependencies:
     "@mrmlnc/readdir-enhanced" "^2.2.1"
     "@nodelib/fs.stat" "^1.1.2"
@@ -4254,9 +4271,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.0.4"
 
 follow-redirects@^1.0.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.6.0.tgz#d12452c031e8c67eb6637d861bfc7a8090167933"
-  integrity sha512-4Oh4eI3S9OueVV41AgJ1oLjpaJUhbJ7JDGOMhe0AFqoSejl5Q2nn3eGglAzRUKVKZE8jG5MNn66TjCJMAnpsWA==
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.6.1.tgz#514973c44b5757368bad8bddfe52f81f015c94cb"
+  integrity sha512-t2JCjbzxQpWvbhts3l6SH1DKzSrx8a+SsaVf4h6bG4kOXUuPYS/kg2Lr4gQSb7eemaHqJkOThF1BGyjlUkO1GQ==
   dependencies:
     debug "=3.1.0"
 
@@ -4381,7 +4398,7 @@ fsevents@^1.0.0, fsevents@^1.2.2:
     nan "^2.9.2"
     node-pre-gyp "^0.10.0"
 
-function-bind@^1.1.0, function-bind@^1.1.1:
+function-bind@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
@@ -4472,7 +4489,7 @@ glob-to-regexp@^0.3.0:
   resolved "https://registry.yarnpkg.com/glob-to-regexp/-/glob-to-regexp-0.3.0.tgz#8c5a1494d2066c570cc3bfe4496175acc4d502ab"
   integrity sha1-jFoUlNIGbFcMw7/kSWF1rMTVAqs=
 
-glob@^7.0.0, glob@^7.0.3, glob@^7.0.5, glob@^7.1.2:
+glob@^7.0.0, glob@^7.0.3, glob@^7.0.5, glob@^7.1.2, glob@^7.1.3:
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
   integrity sha512-vcfuiIxogLV4DlGBHIUOwI0IbrJ8HWPc4MU7HzviGeNho/UJDfi6B5p3sHeWIQ0KGIU0Jpxi5ZHxemQfLkkAwQ==
@@ -4517,7 +4534,7 @@ globals@^9.18.0:
   resolved "https://registry.yarnpkg.com/globals/-/globals-9.18.0.tgz#aa3896b3e69b487f17e31ed2143d69a8e30c2d8a"
   integrity sha512-S0nG3CLEQiY/ILxqtztTWH/3iRRdyBLw6KMDxnKMchrtbj2OFmehVh0WUCfW3DUrIgx/qFrJPICrq4Z4sTR9UQ==
 
-globby@8.0.1, globby@^8.0.0:
+globby@8.0.1:
   version "8.0.1"
   resolved "https://registry.yarnpkg.com/globby/-/globby-8.0.1.tgz#b5ad48b8aa80b35b814fc1281ecc851f1d2b5b50"
   integrity sha512-oMrYrJERnKBLXNLVTqhm3vPEdJ/b2ZE28xN4YARiix1NOIOBPEpOUnm844K1iu/BkphCaf2WNFwMszv8Soi1pw==
@@ -4540,6 +4557,19 @@ globby@^6.1.0:
     object-assign "^4.0.1"
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
+
+globby@^8.0.0:
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/globby/-/globby-8.0.2.tgz#5697619ccd95c5275dbb2d6faa42087c1a941d8d"
+  integrity sha512-yTzMmKygLp8RUpG1Ymu2VXPSJQZjNAZPD4ywgYEaG7e4tBJeUQBO8OpXrf1RCNcEs5alsoJYPAMiIHP0cmeC7w==
+  dependencies:
+    array-union "^1.0.1"
+    dir-glob "2.0.0"
+    fast-glob "^2.0.2"
+    glob "^7.1.2"
+    ignore "^3.3.5"
+    pify "^3.0.0"
+    slash "^1.0.0"
 
 good-listener@^1.2.2:
   version "1.2.2"
@@ -4637,7 +4667,7 @@ has-values@^1.0.0:
     is-number "^3.0.0"
     kind-of "^4.0.0"
 
-has@^1.0.1:
+has@^1.0.1, has@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/has/-/has-1.0.3.tgz#722d7cbfc1f6aa8241f16dd814e011e1f41e8796"
   integrity sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==
@@ -4700,7 +4730,7 @@ hoist-non-react-statics@^2.3.1, hoist-non-react-statics@^2.5.0:
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-2.5.5.tgz#c5903cf409c0dfd908f388e619d86b9c1174cb47"
   integrity sha512-rqcy4pJo55FTTLWt+bU8ukscqHeE/e9KWvsOW2b/a3afxQZhwkQdT1rPPCJ0rYXdj4vNcasY8zHTH+jF/qStxw==
 
-hoist-non-react-statics@^3.1.0:
+hoist-non-react-statics@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/hoist-non-react-statics/-/hoist-non-react-statics-3.2.1.tgz#c09c0555c84b38a7ede6912b61efddafd6e75e1e"
   integrity sha512-TFsu3TV3YLY+zFTZDrN8L2DTFanObwmBLpWvJs1qfUuEQ5bTAdFcwfx2T/bsCXfM9QHSLvjfP+nihEl0yvozxw==
@@ -5090,7 +5120,7 @@ is-builtin-module@^1.0.0:
   dependencies:
     builtin-modules "^1.0.0"
 
-is-callable@^1.1.3, is-callable@^1.1.4:
+is-callable@^1.1.4:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/is-callable/-/is-callable-1.1.4.tgz#1e1adf219e1eeb684d691f9d6a05ff0d30a24d75"
   integrity sha512-r5p9sxJjYnArLjObpjA4xu5EKI3CuKHkJXMhT7kwbpUyIFD1n5PMAsoPvWnvtZiNz7LjkYDRZhd7FlI0eMijEA==
@@ -5383,9 +5413,9 @@ js-tokens@^3.0.2:
   integrity sha1-mGbfOVECEw449/mWvOtlRDIJwls=
 
 js-yaml@^3.10.0, js-yaml@^3.12.0, js-yaml@^3.9.0:
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.0.tgz#eaed656ec8344f10f527c6bfa1b6e2244de167d1"
-  integrity sha512-PIt2cnwmPfL4hKNwqeiuz4bKfnzHTBv6HyVgjahA6mPLwPDzjDWrplJBMjHUFxku/N3FlmrbyPclad+I+4mJ3A==
+  version "3.12.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.1.tgz#295c8632a18a23e054cf5c9d3cecafe678167600"
+  integrity sha512-um46hB9wNOKlwkHgiuyEVAybXBjwFUV0Z/RaHJblRd9DXltue9FTYvzCr9ErQrK9Adz5MU4gHWVaNUfdmrC8qA==
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
@@ -5685,7 +5715,7 @@ lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
 
-log-symbols@^2.0.0:
+log-symbols@^2.0.0, log-symbols@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-2.2.0.tgz#5740e1c5d6f0dfda4ad9323b5332107ef6b4c40a"
   integrity sha512-VeIAFslyIerEJLXHziedo2basKbMKtTw3vfn5IzG0XTjhAVEJyNHnL2p7vc+wBDSdQuUpNw3M2u6xb9QsAY5Eg==
@@ -5777,9 +5807,9 @@ math-expression-evaluator@^1.2.14:
   integrity sha1-3oGf282E3M2PrlnGrreWFbnSZqw=
 
 math-random@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/math-random/-/math-random-1.0.1.tgz#8b3aac588b8a66e4975e3cdea67f7bb329601fac"
-  integrity sha1-izqsWIuKZuSXXjzepn97sylgH6w=
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/math-random/-/math-random-1.0.2.tgz#8ab7f026363816c1e00b774d87dee67f61e37ad6"
+  integrity sha512-Bp2Bx2wFaUymE7pWi0bbldiheIXMvyzC3hRkT5YAv2qiqqJO5VB8KafgYgZmGCxkTmloLuAx3Jv2OmJ66990mg==
 
 md5.js@^1.3.4:
   version "1.3.5"
@@ -6186,10 +6216,10 @@ node-pre-gyp@^0.10.0:
     semver "^5.3.0"
     tar "^4"
 
-node-releases@^1.0.0-alpha.11, node-releases@^1.1.1:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.2.tgz#93c17fba5eec8650ad908de5433fa8763baebe4d"
-  integrity sha512-j1gEV/zX821yxdWp/1vBMN0pSUjuH9oGUdLCb4PfUko6ZW7KdRs3Z+QGGwDUhYtSpQvdVVyLd2V0YvLsmdg5jQ==
+node-releases@^1.0.0-alpha.11, node-releases@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.3.tgz#aad9ce0dcb98129c753f772c0aa01360fb90fbd2"
+  integrity sha512-6VrvH7z6jqqNFY200kdB6HdzkgM96Oaj9v3dqGfgp6mF+cHmU4wyQKZ2/WPDRVoR0Jz9KqbamaBN0ZhdUaysUQ==
   dependencies:
     semver "^5.3.0"
 
@@ -6229,9 +6259,9 @@ npm-bundled@^1.0.1:
   integrity sha512-m/e6jgWu8/v5niCUKQi9qQl8QdeEduFA96xHDDzFGqly0OOjI7c+60KM/2sppfnUU9JJagf+zs+yGhqSOFj71g==
 
 npm-packlist@^1.1.6:
-  version "1.1.12"
-  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.1.12.tgz#22bde2ebc12e72ca482abd67afc51eb49377243a"
-  integrity sha512-WJKFOVMeAlsU/pjXuqVdzU0WfgtIBCupkEVwn+1Y0ERAbUfWw8R4GjgVbaKnUjRoD2FoQbHOCbOyT5Mbs9Lw4g==
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.2.0.tgz#55a60e793e272f00862c7089274439a4cc31fc7f"
+  integrity sha512-7Mni4Z8Xkx0/oegoqlcao/JpPCPEMtUvsmB0q7mgvlMinykJLSRTYuFqoQLYgGY8biuxIeiHO+QNJKbCfljewQ==
   dependencies:
     ignore-walk "^3.0.1"
     npm-bundled "^1.0.1"
@@ -6271,13 +6301,12 @@ number-is-nan@^1.0.0:
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
 nunjucks@^3.1.3:
-  version "3.1.6"
-  resolved "https://registry.yarnpkg.com/nunjucks/-/nunjucks-3.1.6.tgz#6e3a3420c77ceae937ae323e9e2995383d6410fb"
-  integrity sha512-aHCt5arZUqHnRNjfDBCq+fI/O3J2sxx+xZdz6mCNvwAgJVCtHM/VAv2++figjGeFyrZ1dVcJ1dCJwMxY8iYoqQ==
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/nunjucks/-/nunjucks-3.1.7.tgz#0bd25f29ef9d11826350e762836286c518c98706"
+  integrity sha512-MrjI68cobXQnyMK/LeY7BgYZ+7o4xn1UNGOe1y8ACVo4cn/1FXc1S4ySqHbmzFqxq/qtMWrehysTuXdbTvf7JA==
   dependencies:
     a-sync-waterfall "^1.0.0"
     asap "^2.0.3"
-    postinstall-build "^5.0.1"
     yargs "^3.32.0"
   optionalDependencies:
     chokidar "^2.0.0"
@@ -6352,14 +6381,14 @@ object.pick@^1.3.0:
     isobject "^3.0.1"
 
 object.values@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/object.values/-/object.values-1.0.4.tgz#e524da09b4f66ff05df457546ec72ac99f13069a"
-  integrity sha1-5STaCbT2b/Bd9FdUbscqyZ8TBpo=
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/object.values/-/object.values-1.1.0.tgz#bf6810ef5da3e5325790eaaa2be213ea84624da9"
+  integrity sha512-8mf0nKLAoFX6VlNVdhGj31SVYpaNFtUnuoOXWyFEstsWRgU837AK+JYM0iAxwkSzGRbwn8cbFmgbyxj1j4VbXg==
   dependencies:
-    define-properties "^1.1.2"
-    es-abstract "^1.6.1"
-    function-bind "^1.1.0"
-    has "^1.0.1"
+    define-properties "^1.1.3"
+    es-abstract "^1.12.0"
+    function-bind "^1.1.1"
+    has "^1.0.3"
 
 obuf@^1.0.0, obuf@^1.1.1:
   version "1.1.2"
@@ -6885,9 +6914,9 @@ postcss-modules-local-by-default@^1.2.0:
     postcss "^6.0.1"
 
 postcss-modules-local-by-default@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-2.0.3.tgz#6a199d596ec3ef57b8f5ced96d786b8cb16a7dec"
-  integrity sha512-jv4CQ8IQ0+TkaAIP7H4kgu/jQbrjte8xU61SYJAIOby+o3H0MGWX6eN1WXUKHccK6/EEjcAERjyIP8MXzAWAbQ==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-2.0.4.tgz#a000bb07e4f57f412ba35c904d035cfd4a7b9446"
+  integrity sha512-WvuSaTKXUqYJbnT7R3YrsNrHv/C5vRfr5VglS4bFOk0MYT4CLBfc/xgExA+x2RftlYgiBDvWmVs191Xv8S8gZQ==
   dependencies:
     css-selector-tokenizer "^0.7.0"
     postcss "^7.0.6"
@@ -6965,14 +6994,14 @@ postcss-reporter@^5.0.0:
     postcss "^6.0.8"
 
 postcss-reporter@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/postcss-reporter/-/postcss-reporter-6.0.0.tgz#44c873129d8c029a430b6d2186210d79c8de88b8"
-  integrity sha512-5xQXm1UPWuFObjbtyQzWvQaupru8yFcFi4HUlm6OPo1o2bUszYASuqRJ7bVArb3svGCdbYtqdMBKrqR1Aoy+tw==
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/postcss-reporter/-/postcss-reporter-6.0.1.tgz#7c055120060a97c8837b4e48215661aafb74245f"
+  integrity sha512-LpmQjfRWyabc+fRygxZjpRxfhRf9u/fdlKf4VHG4TSPbV2XNsuISzYW1KL+1aQzx53CAppa1bKG4APIB/DOXXw==
   dependencies:
-    chalk "^2.0.1"
-    lodash "^4.17.4"
-    log-symbols "^2.0.0"
-    postcss "^7.0.2"
+    chalk "^2.4.1"
+    lodash "^4.17.11"
+    log-symbols "^2.2.0"
+    postcss "^7.0.7"
 
 postcss-responsive-type@^1.0.0:
   version "1.0.0"
@@ -7017,7 +7046,7 @@ postcss-will-change@^2.0.0:
   dependencies:
     postcss "^6.0.1"
 
-postcss@7.0.7, postcss@^7.0.0, postcss@^7.0.2, postcss@^7.0.5, postcss@^7.0.6:
+postcss@7.0.7:
   version "7.0.7"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.7.tgz#2754d073f77acb4ef08f1235c36c5721a7201614"
   integrity sha512-HThWSJEPkupqew2fnuQMEI2YcTj/8gMV3n80cMdJsKxfIh5tHf7nM5JigNX6LxVMqo6zkgQNAI88hyFvBk41Pg==
@@ -7035,10 +7064,14 @@ postcss@^6.0.0, postcss@^6.0.1, postcss@^6.0.14, postcss@^6.0.17, postcss@^6.0.2
     source-map "^0.6.1"
     supports-color "^5.4.0"
 
-postinstall-build@^5.0.1:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/postinstall-build/-/postinstall-build-5.0.3.tgz#238692f712a481d8f5bc8960e94786036241efc7"
-  integrity sha512-vPvPe8TKgp4FLgY3+DfxCE5PIfoXBK2lyLfNCxsRbDsV6vS4oU5RG/IWxrblMn6heagbnMED3MemUQllQ2bQUg==
+postcss@^7.0.0, postcss@^7.0.5, postcss@^7.0.6, postcss@^7.0.7:
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.11.tgz#f63c513b78026d66263bb2ca995bf02e3d1a697d"
+  integrity sha512-9AXb//5UcjeOEof9T+yPw3XTa5SL207ZOIC/lHYP4mbUTEh4M0rDAQekQpVANCZdwQwKhBtFZCk3i3h3h2hdWg==
+  dependencies:
+    chalk "^2.4.2"
+    source-map "^0.6.1"
+    supports-color "^6.1.0"
 
 prelude-ls@~1.1.2:
   version "1.1.2"
@@ -7323,16 +7356,16 @@ react-dom@16.7.0:
     scheduler "^0.12.0"
 
 react-error-overlay@^5.1.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.1.1.tgz#56f0439f001ff3588da0f479a86482ccb1e708cb"
-  integrity sha512-gJcOyak5ri9mzhpFObSAkCqNNBCVZE8LaR/mX37agULgSL0dobgX11NVSIetvNzhHMkr6CIqV0xiutvvcjBtkw==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.1.2.tgz#888957b884d4b25b083a82ad550f7aad96585394"
+  integrity sha512-7kEBKwU9R8fKnZJBRa5RSIfay4KJwnYvKB6gODGicUmDSAhQJ7Tdnll5S0RLtYrzRfMVXlqYw61rzrSpP4ThLQ==
 
-react-is@^16.3.2, react-is@^16.6.0:
+react-is@^16.3.2, react-is@^16.6.3:
   version "16.7.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.7.0.tgz#c1bd21c64f1f1364c6f70695ec02d69392f41bfa"
   integrity sha512-Z0VRQdF4NPDoI0tsXVMLkJLiwEBa+RP66g0xDHxgxysxSoCUccSten4RTF/UFvZF1dZvZ9Zu1sx+MDXwcOR34g==
 
-react-lifecycles-compat@^3.0.0, react-lifecycles-compat@^3.0.4:
+react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
@@ -7348,18 +7381,17 @@ react-propset@0.0.6:
     prop-types "^15.6.2"
     react "16.6.3"
 
-react-redux@^5.0.7:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-5.1.1.tgz#88e368682c7fa80e34e055cd7ac56f5936b0f52f"
-  integrity sha512-LE7Ned+cv5qe7tMV5BPYkGQ5Lpg8gzgItK07c67yHvJ8t0iaD9kPFPAli/mYkiyJYrs2pJgExR2ZgsGqlrOApg==
+react-redux@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-6.0.0.tgz#09e86eeed5febb98e9442458ad2970c8f1a173ef"
+  integrity sha512-EmbC3uLl60pw2VqSSkj6HpZ6jTk12RMrwXMBdYtM6niq0MdEaRq9KYCwpJflkOZj349BLGQm1MI/JO1W96kLWQ==
   dependencies:
-    "@babel/runtime" "^7.1.2"
-    hoist-non-react-statics "^3.1.0"
+    "@babel/runtime" "^7.2.0"
+    hoist-non-react-statics "^3.2.1"
     invariant "^2.2.4"
-    loose-envify "^1.1.0"
-    prop-types "^15.6.1"
-    react-is "^16.6.0"
-    react-lifecycles-compat "^3.0.0"
+    loose-envify "^1.4.0"
+    prop-types "^15.6.2"
+    react-is "^16.6.3"
 
 react-router-dom@4.3.1:
   version "4.3.1"
@@ -7859,12 +7891,19 @@ right-align@^0.1.1:
   dependencies:
     align-text "^0.1.1"
 
-rimraf@2.6.2, rimraf@^2.2.8, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.2:
+rimraf@2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.6.2.tgz#2ed8150d24a16ea8651e6d6ef0f47c4158ce7a36"
   integrity sha512-lreewLK/BlghmxtfH36YYVg1i8IAce4TI7oao75I1g245+6BctqTVQiBP3YUJ9C6DQOXJmkYR9X9fCLtCOJc5w==
   dependencies:
     glob "^7.0.5"
+
+rimraf@^2.2.8, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.2:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.6.3.tgz#b2d104fe0d8fb27cf9e0a1cda8262dd3833c6cab"
+  integrity sha512-mwqeW5XsA2qAejG46gYdENaxXjx9onRNCfn7L0duuP4hCuTIi/QO7PDK07KJfp1d+izWPrzEJDcSqBa0OZQriA==
+  dependencies:
+    glob "^7.1.3"
 
 ripemd160@^2.0.0, ripemd160@^2.0.1:
   version "2.0.2"
@@ -8559,6 +8598,13 @@ supports-color@^5.3.0, supports-color@^5.4.0, supports-color@^5.5.0:
   dependencies:
     has-flag "^3.0.0"
 
+supports-color@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-6.1.0.tgz#0764abc69c63d5ac842dd4867e8d025e880df8f3"
+  integrity sha512-qe1jfm1Mg7Nq/NSh6XE24gPXROEVsWHxC1LIx//XNlD9iw7YZQGjZNjYN7xGaEG6iKdA8EtNFW6R0gjnVXp+wQ==
+  dependencies:
+    has-flag "^3.0.0"
+
 svgo@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/svgo/-/svgo-1.1.1.tgz#12384b03335bcecd85cfa5f4e3375fed671cb985"
@@ -8620,148 +8666,148 @@ teakit@^0.0.3:
     caniuse-api "^3.0.0"
     immutable "^3.8.2"
 
-teasim-analyzation@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-analyzation/-/teasim-analyzation-5.2.2.tgz#390f958358fbd0cddd34a54483b181f2091fcd45"
-  integrity sha512-1rInPiImYmUbcuR6ddbGKfY4d4pBWjPllqg3gezgTBQX6CgA1qaXftmETTkwrOtYP0zNG4Zmg0pKT35bzO+mCA==
+teasim-analyzation@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-analyzation/-/teasim-analyzation-5.2.3.tgz#14e0865473d74c1ba2e58d515205d3be3c03b733"
+  integrity sha512-/BaJSmK5k3nfok5MRw/uzTSe0i/vKfV7/gWs1p+tuWCK22ScWVgeYkfFHRX8qPOoKTsnPInGEjsp+Cqg9jDHAQ==
   dependencies:
     prop-types "15.6.2"
     react "16.7.0"
     teakit "^0.0.3"
 
-teasim-core@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-core/-/teasim-core-5.2.2.tgz#504b159a486ae1a815f5a6aeee9557f751ccb75e"
-  integrity sha512-9jAgbGFFvjjss2JGCuztSXaG1eclBJK8BKGVCUo1BRVeXF/CsXDh502WLkYSPXhr0QDP2EuLqTdCkrGbbaPS7g==
+teasim-core@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-core/-/teasim-core-5.2.3.tgz#6256945524d49d52ebc9c96dacbfd4b25eb687fc"
+  integrity sha512-Q/izERuj431o9C3mad7ra137swZqEuCjHLDAYaANxwoOziKctvWNbCxWUIS8JpstmjiR2WXd5n2hLGPDIBtvPQ==
   dependencies:
-    "@teasim/ui-avatar" "^5.2.2"
-    "@teasim/ui-badge" "^5.2.2"
-    "@teasim/ui-breadcrumb" "^5.2.2"
-    "@teasim/ui-button" "^5.2.2"
-    "@teasim/ui-calendar" "^5.2.2"
-    "@teasim/ui-card" "^5.2.2"
-    "@teasim/ui-carousel" "^5.2.2"
-    "@teasim/ui-divider" "^5.2.2"
-    "@teasim/ui-document" "^5.2.2"
-    "@teasim/ui-dropdown" "^5.2.2"
-    "@teasim/ui-dropmenu" "^5.2.2"
-    "@teasim/ui-ellipsis" "^5.2.2"
-    "@teasim/ui-exception" "^5.2.2"
-    "@teasim/ui-grid" "^5.2.2"
-    "@teasim/ui-helmet" "^5.2.2"
-    "@teasim/ui-icon" "^5.2.2"
-    "@teasim/ui-image" "^5.2.2"
-    "@teasim/ui-input" "^5.2.2"
-    "@teasim/ui-layout" "^5.2.2"
-    "@teasim/ui-maskant" "^5.2.2"
-    "@teasim/ui-menu" "^5.2.2"
-    "@teasim/ui-modal" "^5.2.2"
-    "@teasim/ui-navbar" "^5.2.2"
-    "@teasim/ui-note" "^5.2.2"
-    "@teasim/ui-pagination" "^5.2.2"
-    "@teasim/ui-pane" "^5.2.2"
-    "@teasim/ui-playground" "^5.2.2"
-    "@teasim/ui-portal" "^5.2.2"
-    "@teasim/ui-progress" "^5.2.2"
-    "@teasim/ui-scrolllock" "^5.2.2"
-    "@teasim/ui-scrollsync" "^5.2.2"
-    "@teasim/ui-scrollwindow" "^5.2.2"
-    "@teasim/ui-skelecton" "^5.2.2"
-    "@teasim/ui-slider" "^5.2.2"
-    "@teasim/ui-spinner" "^5.2.2"
-    "@teasim/ui-sticker" "^5.2.2"
-    "@teasim/ui-tabbar" "^5.2.2"
-    "@teasim/ui-tagger" "^5.2.2"
-    "@teasim/ui-textarea" "^5.2.2"
-    "@teasim/ui-timeline" "^5.2.2"
-    "@teasim/ui-toggle" "^5.2.2"
-    "@teasim/ui-tooltip" "^5.2.2"
-    "@teasim/ui-typewrite" "^5.2.2"
-    "@teasim/ui-view" "^5.2.2"
-    teasim-stylesheet "^5.2.2"
+    "@teasim/ui-avatar" "^5.2.3"
+    "@teasim/ui-badge" "^5.2.3"
+    "@teasim/ui-breadcrumb" "^5.2.3"
+    "@teasim/ui-button" "^5.2.3"
+    "@teasim/ui-calendar" "^5.2.3"
+    "@teasim/ui-card" "^5.2.3"
+    "@teasim/ui-carousel" "^5.2.3"
+    "@teasim/ui-divider" "^5.2.3"
+    "@teasim/ui-document" "^5.2.3"
+    "@teasim/ui-dropdown" "^5.2.3"
+    "@teasim/ui-dropmenu" "^5.2.3"
+    "@teasim/ui-ellipsis" "^5.2.3"
+    "@teasim/ui-exception" "^5.2.3"
+    "@teasim/ui-grid" "^5.2.3"
+    "@teasim/ui-helmet" "^5.2.3"
+    "@teasim/ui-icon" "^5.2.3"
+    "@teasim/ui-image" "^5.2.3"
+    "@teasim/ui-input" "^5.2.3"
+    "@teasim/ui-layout" "^5.2.3"
+    "@teasim/ui-maskant" "^5.2.3"
+    "@teasim/ui-menu" "^5.2.3"
+    "@teasim/ui-modal" "^5.2.3"
+    "@teasim/ui-navbar" "^5.2.3"
+    "@teasim/ui-note" "^5.2.3"
+    "@teasim/ui-pagination" "^5.2.3"
+    "@teasim/ui-pane" "^5.2.3"
+    "@teasim/ui-playground" "^5.2.3"
+    "@teasim/ui-portal" "^5.2.3"
+    "@teasim/ui-progress" "^5.2.3"
+    "@teasim/ui-scrolllock" "^5.2.3"
+    "@teasim/ui-scrollsync" "^5.2.3"
+    "@teasim/ui-scrollwindow" "^5.2.3"
+    "@teasim/ui-skelecton" "^5.2.3"
+    "@teasim/ui-slider" "^5.2.3"
+    "@teasim/ui-spinner" "^5.2.3"
+    "@teasim/ui-sticker" "^5.2.3"
+    "@teasim/ui-tabbar" "^5.2.3"
+    "@teasim/ui-tagger" "^5.2.3"
+    "@teasim/ui-textarea" "^5.2.3"
+    "@teasim/ui-timeline" "^5.2.3"
+    "@teasim/ui-toggle" "^5.2.3"
+    "@teasim/ui-tooltip" "^5.2.3"
+    "@teasim/ui-typewrite" "^5.2.3"
+    "@teasim/ui-view" "^5.2.3"
+    teasim-stylesheet "^5.2.3"
 
-teasim-form@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-form/-/teasim-form-5.2.2.tgz#9fe8257cee21b16fd082a6a1be48158f990306a5"
-  integrity sha512-vrmm8VR/VbnKB0EZLCBoIJkBkZx78elD8gjo6bUbI/Se/fBoWilJRZTrE4MR8kUulqWW0woFP3508B3CLy2+gg==
+teasim-form@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-form/-/teasim-form-5.2.3.tgz#91ee99fe4c172eff6a44adbf88567bb87a282659"
+  integrity sha512-N7Brv/3bXJ8Wat03d8mJL9VdVUwAh7JzNLFsfTuoVqR69LrdUXh1+nPe4+ZMiLHvTL2FbNC1Aum96ppfKwdWlg==
   dependencies:
-    "@teasim/ui-checkbox" "^5.2.2"
-    "@teasim/ui-datebox" "^5.2.2"
-    "@teasim/ui-field" "^5.2.2"
-    "@teasim/ui-form" "^5.2.2"
-    "@teasim/ui-frame" "^5.2.2"
-    "@teasim/ui-numberbox" "^5.2.2"
-    "@teasim/ui-radiobox" "^5.2.2"
-    "@teasim/ui-ratebox" "^5.2.2"
-    "@teasim/ui-secretbox" "^5.2.2"
-    "@teasim/ui-selectbox" "^5.2.2"
-    "@teasim/ui-slidebox" "^5.2.2"
-    "@teasim/ui-switchbox" "^5.2.2"
-    "@teasim/ui-textbox" "^5.2.2"
+    "@teasim/ui-checkbox" "^5.2.3"
+    "@teasim/ui-datebox" "^5.2.3"
+    "@teasim/ui-field" "^5.2.3"
+    "@teasim/ui-form" "^5.2.3"
+    "@teasim/ui-frame" "^5.2.3"
+    "@teasim/ui-numberbox" "^5.2.3"
+    "@teasim/ui-radiobox" "^5.2.3"
+    "@teasim/ui-ratebox" "^5.2.3"
+    "@teasim/ui-secretbox" "^5.2.3"
+    "@teasim/ui-selectbox" "^5.2.3"
+    "@teasim/ui-slidebox" "^5.2.3"
+    "@teasim/ui-switchbox" "^5.2.3"
+    "@teasim/ui-textbox" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
     react-propset "0.0.6"
     teakit "^0.0.3"
-    teasim-stylesheet "^5.2.2"
+    teasim-stylesheet "^5.2.3"
 
-teasim-foundation@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-foundation/-/teasim-foundation-5.2.2.tgz#c2adc6d1150e6fef8387fd848f38b2a545f831cd"
-  integrity sha512-gZZKliX0SjloGg1LozNXS+IbBeq6eT/SsqA2DbwDRXbI0LcSMsglo2c2OumRpmC+EbpVs/xxK9fKetV9PYtG6g==
+teasim-foundation@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-foundation/-/teasim-foundation-5.2.3.tgz#03fbeab9e37b9bddc585390624aea5e808c452df"
+  integrity sha512-nc6K7qb94HUxGZgzgIKgxt8bLwBfsuM5mQnCyUxX0hAqLwz1qEs4LnsBI8e3UL6kMFU7dMY217Ccx8wCFa1vGA==
   dependencies:
-    "@teasim/ui-finger" "^5.2.2"
-    "@teasim/ui-measure" "^5.2.2"
-    "@teasim/ui-shuttle" "^5.2.2"
-    "@teasim/ui-swiper" "^5.2.2"
-    teasim-stylesheet "^5.2.2"
+    "@teasim/ui-finger" "^5.2.3"
+    "@teasim/ui-measure" "^5.2.3"
+    "@teasim/ui-shuttle" "^5.2.3"
+    "@teasim/ui-swiper" "^5.2.3"
+    teasim-stylesheet "^5.2.3"
 
-teasim-icon@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-icon/-/teasim-icon-5.2.2.tgz#eb46af7e330f669d9d13a3da8c5fdf59e382e922"
-  integrity sha512-ZQanPxfCEiSvm4dmtuT4xH1Nqo8UF929v9U+g0ZhdgWGUBVjc4+JcqDzpC70g6M5lqT622Tju0zagFzUjNdi7Q==
+teasim-icon@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-icon/-/teasim-icon-5.2.3.tgz#c0b1bca8087c936f9e7ed5bd2251593a26c6df0c"
+  integrity sha512-AKvkFBoCAyMMlY0STInrlsGVHRoXjCTaoFyJo3zH4SRo/VSV/FfbobhP8O+vAp562MozXIT1uc1yDc6m5ifNig==
   dependencies:
-    "@teasim/icon-angle" "^5.2.2"
-    "@teasim/icon-arrow" "^5.2.2"
-    "@teasim/icon-assist" "^5.2.2"
-    "@teasim/icon-brandlogo" "^5.2.2"
-    "@teasim/icon-circle-angle" "^5.2.2"
-    "@teasim/icon-circle-arrow" "^5.2.2"
-    "@teasim/icon-circle-operator" "^5.2.2"
-    "@teasim/icon-fileext" "^5.2.2"
-    "@teasim/icon-history" "^5.2.2"
-    "@teasim/icon-home" "^5.2.2"
-    "@teasim/icon-link" "^5.2.2"
-    "@teasim/icon-list" "^5.2.2"
-    "@teasim/icon-loading" "^5.2.2"
-    "@teasim/icon-lock" "^5.2.2"
-    "@teasim/icon-operate" "^5.2.2"
-    "@teasim/icon-operator" "^5.2.2"
-    "@teasim/icon-pencil" "^5.2.2"
-    "@teasim/icon-person" "^5.2.2"
-    "@teasim/icon-report" "^5.2.2"
-    "@teasim/icon-search" "^5.2.2"
-    "@teasim/icon-setting" "^5.2.2"
-    "@teasim/icon-spot" "^5.2.2"
-    "@teasim/icon-status" "^5.2.2"
-    "@teasim/icon-toggle" "^5.2.2"
-    "@teasim/icon-visible" "^5.2.2"
-    "@teasim/ui-icon" "^5.2.2"
-    teasim-stylesheet "^5.2.2"
+    "@teasim/icon-angle" "^5.2.3"
+    "@teasim/icon-arrow" "^5.2.3"
+    "@teasim/icon-assist" "^5.2.3"
+    "@teasim/icon-brandlogo" "^5.2.3"
+    "@teasim/icon-circle-angle" "^5.2.3"
+    "@teasim/icon-circle-arrow" "^5.2.3"
+    "@teasim/icon-circle-operator" "^5.2.3"
+    "@teasim/icon-fileext" "^5.2.3"
+    "@teasim/icon-history" "^5.2.3"
+    "@teasim/icon-home" "^5.2.3"
+    "@teasim/icon-link" "^5.2.3"
+    "@teasim/icon-list" "^5.2.3"
+    "@teasim/icon-loading" "^5.2.3"
+    "@teasim/icon-lock" "^5.2.3"
+    "@teasim/icon-operate" "^5.2.3"
+    "@teasim/icon-operator" "^5.2.3"
+    "@teasim/icon-pencil" "^5.2.3"
+    "@teasim/icon-person" "^5.2.3"
+    "@teasim/icon-report" "^5.2.3"
+    "@teasim/icon-search" "^5.2.3"
+    "@teasim/icon-setting" "^5.2.3"
+    "@teasim/icon-spot" "^5.2.3"
+    "@teasim/icon-status" "^5.2.3"
+    "@teasim/icon-toggle" "^5.2.3"
+    "@teasim/icon-visible" "^5.2.3"
+    "@teasim/ui-icon" "^5.2.3"
+    teasim-stylesheet "^5.2.3"
 
-teasim-localization@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-localization/-/teasim-localization-5.2.2.tgz#804f31d3712746cf7d045a35d48bea26a69e1a11"
-  integrity sha512-7oZgdcixBAMBrYPcNadLOuDEp5rVg7fzJoOBBUMEvE+TGh3m0pcXisUYsbaX7elp8OM+i/CyEoSFbLb5FeQsaQ==
+teasim-localization@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-localization/-/teasim-localization-5.2.3.tgz#691ba0648fe29c7ccee41fbda19ea9d5ac0675ad"
+  integrity sha512-f8fCioNVaHSjWj8BzDBKR6Hb0pmHuiSOppkWNvpl4KqNqUw4Idpj2Lmgrz6x/+hMhtQrHUxD/Nq2yggvoTl+cw==
   dependencies:
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
 
-teasim-statics@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-statics/-/teasim-statics-5.2.2.tgz#d0bb258880374887beb59733854151f80a53551b"
-  integrity sha512-pawZx9fvv16flpjHzEDRj49/pJM781yfZ9D8HxaWbOwtha3k19UksLM17MdBM7Ek1H4WA/ATBeTbSFIVbTgsoQ==
+teasim-statics@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-statics/-/teasim-statics-5.2.3.tgz#536aec45cded05a9c1fe6a7466b74601bc42376c"
+  integrity sha512-UCJDrRyLyzxGduMYYrqLloK+7NljiCeJsIaT+tPESLNVMWp4Nr7jPXMNfi1LChmEaV8k1Ou5NyOwdF/eBvjaOA==
   dependencies:
     "@babel/polyfill" "^7.0.0"
     autoprefixer "9.4.3"
@@ -8835,31 +8881,31 @@ teasim-statics@^5.2.2:
     webpack-dev-server "2.9.1"
     yaml-front-matter "^4.0.0"
 
-teasim-stylesheet@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim-stylesheet/-/teasim-stylesheet-5.2.2.tgz#ed9f9232718b249d7772207dee3b7e873bd981e9"
-  integrity sha512-3nr4cdH/iu9Bx3EXnY7pXUWuJkOsAZhgCZaz4REVzy8q3kxAnh2nHjmo2zaXoBe4qKCijy5hOaWCpRD6/RwGDw==
+teasim-stylesheet@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim-stylesheet/-/teasim-stylesheet-5.2.3.tgz#2c561382b19997767deb574367c974fbb4dff514"
+  integrity sha512-MR/IEgkFGWk+HquhG+3FzF6PBhpP6O13okfVZMiZO/7lPVoe5ZhIGjlwiculS3Uq+FROwviGrHZcUsjqwH5xMw==
   dependencies:
-    "@teasim/ui-styles" "^5.2.2"
+    "@teasim/ui-styles" "^5.2.3"
     prop-types "15.6.2"
     react "16.7.0"
     teakit "^0.0.3"
 
-teasim@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/teasim/-/teasim-5.2.2.tgz#d652ea8859e2fb3f683590848b48412ad3b8ad7c"
-  integrity sha512-EWjx0s4FLNuERpdCRIZ8N0YtN5kxbUCiYCEH0E2bhXqLd5u7ysR1dQAQmoAkiSwS/qfNM8JvAZdzJsFzYr6BHA==
+teasim@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/teasim/-/teasim-5.2.3.tgz#002c91001f38cb36ca22212c24b78e73f4207546"
+  integrity sha512-0XhhDBYaFFw4T36jsvQYhABFf7NbmguMpdUcGVO/dNZ/Lo3ygjGtvFB0d4ekLJ8q/2UzS95PkhLrbQdb6O6XZA==
   dependencies:
     "@babel/polyfill" "^7.0.0"
     connected-react-router "^6.0.0"
     global "^4.3.2"
     history "^4.7.2"
-    immutable "^3.8.2"
+    immutable "^4.0.0-rc.12"
     isomorphic-fetch "^2.2.1"
     prop-types "15.6.2"
     react "16.7.0"
     react-dom "16.7.0"
-    react-redux "^5.0.7"
+    react-redux "^6.0.0"
     react-router-dom "4.3.1"
     react-router-redux "^5.0.0-alpha.8"
     redux "4.0.1"
@@ -8867,10 +8913,10 @@ teasim@^5.2.2:
     redux-logger "^3.0.6"
     redux-saga "^0.16.2"
     teakit "^0.0.3"
-    teasim-core "^5.2.2"
-    teasim-form "^5.2.2"
-    teasim-foundation "^5.2.2"
-    teasim-stylesheet "^5.2.2"
+    teasim-core "^5.2.3"
+    teasim-form "^5.2.3"
+    teasim-foundation "^5.2.3"
+    teasim-stylesheet "^5.2.3"
 
 text-table@0.2.0:
   version "0.2.0"
@@ -9011,9 +9057,9 @@ trough@^1.0.0:
   integrity sha512-fwkLWH+DimvA4YCy+/nvJd61nWQQ2liO/nF/RjkTpiOGi+zxZzVkhb1mvbHIIW4b/8nDsYI8uTmAlc0nNkRMOw==
 
 ts-loader@^5.2.2:
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-5.3.2.tgz#31d10be522bedfac8ee4c20c735e05a9bd772faf"
-  integrity sha512-TPeXFkdPjOrVEawY4xUgRnzlHEmKQF1DclJghPGq67jKnroVvs6mEGHWYtbUczgeWTvTaqUjSSaMmp1k5do4vw==
+  version "5.3.3"
+  resolved "https://registry.yarnpkg.com/ts-loader/-/ts-loader-5.3.3.tgz#8b4af042e773132d86b3c99ef0acf3b4d325f473"
+  integrity sha512-KwF1SplmOJepnoZ4eRIloH/zXL195F51skt7reEsS6jvDqzgc/YSbz9b8E07GxIUwLXdcD4ssrJu6v8CwaTafA==
   dependencies:
     chalk "^2.3.0"
     enhanced-resolve "^4.0.0"

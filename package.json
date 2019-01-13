@@ -13,10 +13,10 @@
     "statics-plugin-renderer": "^0.1.3",
     "statics-plugin-toc": "^0.1.3",
     "teakit": "^0.0.3",
-    "teasim": "^5.2.2",
-    "teasim-analyzation": "^5.2.2",
-    "teasim-icon": "^5.2.2",
-    "teasim-statics": "^5.2.2"
+    "teasim": "^5.2.3",
+    "teasim-analyzation": "^5.2.3",
+    "teasim-icon": "^5.2.3",
+    "teasim-statics": "^5.2.3"
   },
   "devDependencies": {
     "cross-env": "^5.2.0"

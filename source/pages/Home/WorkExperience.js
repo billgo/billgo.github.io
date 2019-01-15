@@ -31,7 +31,7 @@ const WorkExperience = props => (
         company="LWH HOLDINGS PTE LTD" 
         location="Singapore"
         period="2015 - Present" 
-        position="FULLSTACK DEVELOPER">
+        position="FRONTEND DEVELOPER">
         <ul className="a-article-ul">
           <li>Wrote user requirements documents by interviewed users, created product prototypes.</li>
           <li>Developed the corporate website and additional softwares for internal use, including OA, CMS and ERP systems.</li>

@@ -30,7 +30,7 @@ const WorkExperience = props => (
       <WorkHistory 
         company="LWH HOLDINGS PTE LTD" 
         location="Singapore"
-        period="2015 - Present" 
+        period="2015 - 2019" 
         position="FRONTEND DEVELOPER">
         <ul className="a-article-ul">
           <li>Wrote user requirements documents by interviewed users, created product prototypes.</li>

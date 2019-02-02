@@ -8666,6 +8666,11 @@ teakit@^0.0.3:
     caniuse-api "^3.0.0"
     immutable "^3.8.2"
 
+teakit@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/teakit/-/teakit-0.0.9.tgz#5f6a4ab218f17e91cab4d14a437bcc8c58266604"
+  integrity sha512-uXoS2DVcZ4734NDh5uVWPF83Tiag5tJyFmszlWPKQDHfgO7he6+rMsSuO+Lov4N7AHO5bCiguLp63ImbJOev8Q==
+
 teasim-analyzation@^5.2.3:
   version "5.2.3"
   resolved "https://registry.yarnpkg.com/teasim-analyzation/-/teasim-analyzation-5.2.3.tgz#14e0865473d74c1ba2e58d515205d3be3c03b733"
